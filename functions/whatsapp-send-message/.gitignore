@@ -1,0 +1,5 @@
+node_modules
+.wwwebjs_auth
+.wwwebjs_cache
+config/resultado_*
+config/config.json
