@@ -1,0 +1,5 @@
+2026/06/11-12:27:47.628 5 Creating DB /srv/others/functions/whatsapp-send-message/.wwebjs_auth/session/Default/Local Storage/leveldb since it was missing.
+2026/06/11-12:27:47.665 5 Reusing MANIFEST /srv/others/functions/whatsapp-send-message/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/11-13:00:05.182 5 Level-0 table #5: started
+2026/06/11-13:00:05.187 5 Level-0 table #5: 16535 bytes OK
+2026/06/11-13:00:05.191 5 Delete type=0 #3
