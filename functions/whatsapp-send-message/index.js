@@ -26,7 +26,7 @@ const choicedMessage = args.message;
 const configDir = path.join(__dirname, 'config');
 
 const messagesPath = path.join(configDir, 'messages.json');
-const targetsPath = path.join(configDir, 'targets_numbers.json');
+const targetsPath = path.join(configDir, args.targets);
 
 const resultadoPath = path.join(configDir, `resultado_disparo_${Date.now()}.json`);
 
