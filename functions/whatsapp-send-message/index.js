@@ -37,7 +37,7 @@ const config = {
     targets
 };
 
-const choicedMessage = 1;
+const choicedMessage = args.message;
 
 const loadJsonFile = (filePath, fileName) => {
     try {
