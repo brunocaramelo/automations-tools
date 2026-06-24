@@ -9,14 +9,6 @@ const optionDefinitions = [
     { name: 'message', type: Number, description: 'Índice da mensagem (0-based)' }
 ];
 
-const configDir = path.join(__dirname, 'config');
-
-const messagesPath = path.join(configDir, 'messages.json');
-const targetsPath = path.join(configDir, 'targets_numbers.json');
-
-const resultadoPath = path.join(configDir, `resultado_disparo_${Date.now()}.json`);
-
-
 const args = commandLineArgs(optionDefinitions);
 
 if (!args.targets) {
@@ -30,6 +22,13 @@ if (args.message === undefined) {
 }
 
 const choicedMessage = args.message;
+
+const configDir = path.join(__dirname, 'config');
+
+const messagesPath = path.join(configDir, 'messages.json');
+const targetsPath = path.join(configDir, 'targets_numbers.json');
+
+const resultadoPath = path.join(configDir, `resultado_disparo_${Date.now()}.json`);
 
 const loadJsonFile = (filePath, fileName) => {
     try {
