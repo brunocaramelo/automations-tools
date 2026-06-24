@@ -1,13 +1,11 @@
 {
   "list": [
-    { "id_lead": 1,
-    "name": "Bruno Souza", 
-    "number": "11945260489", 
-    "address": "Av. Mascote, 78 - Vila Mascote, São Paulo - SP, 04363-000", 
-    "site": "Não informado" },
-    { "id_lead": 2, "name": "Juliana Adolfi", "number": "11996101283", "address": "Av. Roque Petroni Júnior, 1089 - Loja 163 - Jardim das Acacias, São Paulo - SP, 04707-000", "site": "https://mondopet.com.br/" }
- ],
-  "messages": {
-    "messageToMassive": "Sou a Juliana, da Pet More. A gente está em movimento — mudando de fase, abrindo espaço para o próximo capítulo da marca.\n\nE nessa transição, estou oferecendo diretamente pra quem é do setor: equipamentos, móveis e itens usados, todos conservados e com preço justo.\n\nPra quem entende do mercado, é uma oportunidade real. Veja tudo aqui:\n🔗 https://linktr.ee/petmore\n\nQuer conversar sobre algum item? É só me chamar! 🐶"
-  }
+    {
+      "id_lead": 1,
+      "name": "Agro Pet",
+      "number": "11945260489",
+      "address": "R. Aparecida, 390 - Vila Real Daracariguama, Araçariguama - SP, 18147-000",
+      "site": "Não informado"
+    }
+    ]
 }
