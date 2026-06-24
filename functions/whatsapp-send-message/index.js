@@ -72,9 +72,16 @@ if (!mensagem) {
 // Array para armazenar o resultado final de cada item
 const relatorioFinal = [];
 
-// Inicialização do cliente WhatsApp
 const client = new Client({
-    authStrategy: new LocalAuth()
+    authStrategy: new LocalAuth(),
+    puppeteer: {
+        args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--disable-gpu'
+        ]
+    }
 });
 
 // --- FUNÇÃO DE RESOLUÇÃO DO FORMATO DO BRASIL ---
