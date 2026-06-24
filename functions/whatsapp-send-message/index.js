@@ -5,8 +5,8 @@ const path = require('path');
 const commandLineArgs = require('command-line-args');
 
 const optionDefinitions = [
-    { name: 'targets', alias: 'targets', type: String, defaultOption: true, description: 'Arquivo de targets (em config/)' },
-    { name: 'message', alias: 'message', type: Number, description: 'Índice da mensagem (0-based)' }
+    { name: 'targets', type: String, defaultOption: true, description: 'Arquivo de targets (em config/)' },
+    { name: 'message', type: Number, description: 'Índice da mensagem (0-based)' }
 ];
 
 const configDir = path.join(__dirname, 'config');
