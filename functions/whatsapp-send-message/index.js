@@ -2,28 +2,60 @@ const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const fs = require('fs');
 const path = require('path');
+const commandLineArgs = require('command-line-args');
 
-// Caminhos dos arquivos (Diretório config)
+const optionDefinitions = [
+    { name: 'targets', alias: 'targets', type: String, defaultOption: true, description: 'Arquivo de targets (em config/)' },
+    { name: 'message', alias: 'message', type: Number, description: 'Índice da mensagem (0-based)' }
+];
+
 const configDir = path.join(__dirname, 'config');
-const configPath = path.join(configDir, 'config.json');
+
+const messagesPath = path.join(configDir, 'messages.json');
+const targetsPath = path.join(configDir, 'targets_numbers.json');
+
 const resultadoPath = path.join(configDir, `resultado_disparo_${Date.now()}.json`);
 
-// 1. Carrega e interpreta o arquivo config.json
-let config;
-try {
-    if (!fs.existsSync(configPath)) {
-        throw new Error(`Arquivo config.json não encontrado em: ${configPath}`);
-    }
-    const rawData = fs.readFileSync(configPath, 'utf8');
-    config = JSON.parse(rawData);
-} catch (error) {
-    console.error("❌ Erro ao ler o arquivo de configuração:", error.message);
+const messages = loadJsonFile(messagesPath, 'messages.json');
+const targets = loadJsonFile(targetsPath, 'targets_numbers.json');
+
+
+const args = commandLineArgs(optionDefinitions);
+
+if (!args.targets) {
+    console.error('❌ Parâmetro --targets é obrigatório.');
     process.exit(1);
 }
 
-// Extração dos dados baseados na estrutura solicitada
-const listaDeContatos = config.list || [];
-const mensagem = config.messages ? config.messages.messageToMassive : '';
+if (args.message === undefined) {
+    console.error('❌ Parâmetro --message é obrigatório.');
+    process.exit(1);
+}
+
+const config = {
+    messages,
+    targets
+};
+
+const choicedMessage = 1;
+
+const loadJsonFile = (filePath, fileName) => {
+    try {
+        if (!fs.existsSync(filePath)) {
+            throw new Error(`Arquivo ${fileName} não encontrado em: ${filePath}`);
+        }
+        const rawData = fs.readFileSync(filePath, 'utf8');
+        return JSON.parse(rawData);
+    } catch (error) {
+        console.error(`❌ Erro ao ler o arquivo ${fileName}:`, error.message);
+        process.exit(1);
+    }
+};
+
+const listaDeContatos = config.targets.list || [];
+const mensagem = config.messages.list[choicedMessage].message ? 
+                        config.messages.list[choicedMessage].message : 
+                        '';
 
 if (listaDeContatos.length === 0) {
     console.log("⚠️ Nenhum número cadastrado na lista ('list').");
