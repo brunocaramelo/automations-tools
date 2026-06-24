@@ -16,9 +16,6 @@ const targetsPath = path.join(configDir, 'targets_numbers.json');
 
 const resultadoPath = path.join(configDir, `resultado_disparo_${Date.now()}.json`);
 
-const messages = loadJsonFile(messagesPath, 'messages.json');
-const targets = loadJsonFile(targetsPath, 'targets_numbers.json');
-
 
 const args = commandLineArgs(optionDefinitions);
 
@@ -31,11 +28,6 @@ if (args.message === undefined) {
     console.error('❌ Parâmetro --message é obrigatório.');
     process.exit(1);
 }
-
-const config = {
-    messages,
-    targets
-};
 
 const choicedMessage = args.message;
 
@@ -51,6 +43,17 @@ const loadJsonFile = (filePath, fileName) => {
         process.exit(1);
     }
 };
+
+
+
+const messages = loadJsonFile(messagesPath, 'messages.json');
+const targets = loadJsonFile(targetsPath, 'targets_numbers.json');
+
+const config = {
+    messages,
+    targets
+};
+
 
 const listaDeContatos = config.targets.list || [];
 const mensagem = config.messages.list[choicedMessage].message ? 
