@@ -1,6 +1,6 @@
 {
   "list": [
-    { "message": "Olá, bom dia! Tudo bem?\n\nPoderiam, por gentileza, me informar o contato do proprietário ou responsável pela empresa?\n\nEstamos encerrando as atividades da nossa loja pet e vendendo equipamentos e ativos em excelente estado, com preços muito abaixo do mercado e parcelamento sem juros. Pode ser uma ótima oportunidade para o negócio.\n\nSegue o catálogo dos itens disponíveis:\nhttps://linktr.ee/petmore\n\nObrigado pela atenção!\nJuliana Adolfi"},
+    { "message": "Olá {nome}, bom dia! Tudo bem?\n\nPoderiam, por gentileza, me informar o contato do proprietário ou responsável pela empresa?\n\nEstamos encerrando as atividades da nossa loja pet e vendendo equipamentos e ativos em excelente estado, com preços muito abaixo do mercado e parcelamento sem juros. Pode ser uma ótima oportunidade para o negócio.\n\nSegue o catálogo dos itens disponíveis:\nhttps://linktr.ee/petmore\n\nObrigado pela atenção!\nJuliana Adolfi"},
     { "message": "Olá! bom dia? \nTudo bem?\n Vocês poderiam me indicar o contato do proprietário? \n\nPreciso tratar um assunto diretamente com ele. Obrigado"},
     { "message": "Sou a Juliana, da Pet More. A gente está em movimento — mudando de fase, abrindo espaço para o próximo capítulo da marca.\n\nE nessa transição, estou oferecendo diretamente pra quem é do setor: equipamentos, móveis e itens usados, todos conservados e com preço justo.\n\nPra quem entende do mercado, é uma oportunidade real. Veja tudo aqui:\n🔗 https://linktr.ee/petmore\n\nQuer conversar sobre algum item? É só me chamar! 🐶"}
  ]
