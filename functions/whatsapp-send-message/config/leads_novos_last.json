@@ -1,0 +1,5422 @@
+{
+  "list": [
+    {
+      "id_lead": 2384,
+      "name": "Casa de Rações Santana",
+      "number": "11969055519",
+      "address": "R. Ernesto Maziero, 159 - Santa Luzia, Ribeirão Pires - SP, 09431-360",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2385,
+      "name": "Avicultura Kotori",
+      "number": "11975397686",
+      "address": "Av. Dom Pedro I, 1896 - Vila Pires, Santo André - SP, 09130-015",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2386,
+      "name": "Veterinária Lulucão",
+      "number": "1148287946",
+      "address": "Av. Humberto de Campos, 835 - Bocaina, Ribeirão Pires - SP, 09425-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2387,
+      "name": "Cãobeleireiro L'amour Pet",
+      "number": "1149746516",
+      "address": "R. Chuí, 86 - Vila Pires, Santo André - SP, 09121-440",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2388,
+      "name": "Equipe Pet's",
+      "number": "11978509969",
+      "address": "Fiore, Av. Éttore Turelli, 362, Ribeirão Pires - SP, 09441-010",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2389,
+      "name": "OuroVet Veterinária e Banho e Tosa",
+      "number": "11992175341",
+      "address": "Rod. Índio Tibiriçá, 2675 - Centro Ouro Fino Paulista, Ribeirão Pires - SP, 09442-000",
+      "site": "http://ourovet.simples.vet.br/"
+    },
+    {
+      "id_lead": 2390,
+      "name": "Agroterra Rações",
+      "number": "1148234773",
+      "address": "Av. Ernesto Menato, 715 - Centro Alto, Ribeirão Pires - SP, 09420-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2391,
+      "name": "Vira Lactea - Espaço Pet | Petshop com Hotel e Creche em Santo André",
+      "number": "11941836157",
+      "address": "R. Vera Cruz, 276 - Vila Pires, Santo André - SP, 09195-440",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2392,
+      "name": "Casa de Ração ABRANTES",
+      "number": "1148222125",
+      "address": "Rod. Índio Tibiriçá, 2258 - Represa, Ribeirão Pires - SP, 09414-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2393,
+      "name": "Kakareku's Pet Shop e Aquarismo",
+      "number": "1149730140",
+      "address": "Av. Dom Pedro I, 3259 - Vila Lutécia, Santo André - SP, 09132-033",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2394,
+      "name": "Éden Pet Shop",
+      "number": "11943847386",
+      "address": "R. Ricardo Bechelli, 136 - Jardim Zaira, Mauá - SP, 09320-600",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2395,
+      "name": "Pet Shop Arca De Noé",
+      "number": "1145432432",
+      "address": "Av. Ayrton Senna da Silva, 410 - Vila Santa Cecilia, Mauá - SP, 09380-440",
+      "site": "https://www.facebook.com/Arca-de-No%C3%A9-Pet-Shop-804512956229352/"
+    },
+    {
+      "id_lead": 2396,
+      "name": "Pet Shop Tios Patinhas",
+      "number": "1144518828",
+      "address": "09171-125, Av. Cap. Mário Toledo de Camargo, 5448 - Vila Luzita, Santo André - SP, 09171-125",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2397,
+      "name": "Pet Shop Vitória",
+      "number": "11987702361",
+      "address": "Av. Dom Pedro I, 2595 - Vila Vitória, Santo André - SP, 09130-410",
+      "site": "https://www.hovetdompedro.com.br/"
+    },
+    {
+      "id_lead": 2398,
+      "name": "Pet Shop Hortência",
+      "number": "1144523255",
+      "address": "R. das Hortências, 1088 - Jardim do Estádio, Santo André - SP, 09175-500",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2399,
+      "name": "Rações Santo Antônio",
+      "number": "1148253079",
+      "address": "R. Pedro Rípoli, 1468 - Santo Antônio, Ribeirão Pires - SP, 09410-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2400,
+      "name": "Adega do Bigode & Mercadinho - Ribeirão Pires",
+      "number": "11988871333",
+      "address": "R. José Laurito, 2 - Vila cleide, Ribeirão Pires - SP, 09401-090",
+      "site": "https://pedido.anota.ai/loja/adegadobigoderibeiraopires?f=msa"
+    },
+    {
+      "id_lead": 2401,
+      "name": "Rancheiro Agropet",
+      "number": "1148586087",
+      "address": "R. Fagundes Varela, 380 - Jardim Cacula, Ribeirão Pires - SP, 09415-140",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2402,
+      "name": "Agropecuária Guiu",
+      "number": "11935055854",
+      "address": "Rod. Índio Tibiriçá, 2615 - Centro de Ouro Fino Paulista, Ribeirão Pires - SP, 09440-000",
+      "site": "https://www.instagram.com/agropecuariaguiu?igsh=ZnJwanZldHVueGln&utm_source=qr"
+    },
+    {
+      "id_lead": 2403,
+      "name": "Pet Shop Eskina dos Bichos",
+      "number": "1144598018",
+      "address": "R. Bororé, 359 - Vila Vitória, Santo André - SP, 09175-250",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2404,
+      "name": "Pet Shop Pedroso - Banho e Tosa, Veterinário e Rações!",
+      "number": "11947024713",
+      "address": "Estr. do Pedroso, 943 - Jardim Santo André, Santo André - SP, 09132-400",
+      "site": "https://petshoppedroso.com.br/"
+    },
+    {
+      "id_lead": 2405,
+      "name": "Supersonic Company Agropet",
+      "number": "11940280467",
+      "address": "R. Francisco Tometich, 731 - Pte. Seca, Ribeirão Pires - SP, 09411-190",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2406,
+      "name": "Extra Mercado",
+      "number": "08007796761",
+      "address": "R. Dr. Felício Laurito, 38 - Centro, Ribeirão Pires - SP, 09400-210",
+      "site": "https://www.clubeextra.com.br/"
+    },
+    {
+      "id_lead": 2407,
+      "name": "Casa de Minas 035",
+      "number": "1148281774",
+      "address": "Av. Fortuna, 316 - Centro, Ribeirão Pires - SP, 09400-320",
+      "site": "https://www.instagram.com/casademinas035/"
+    },
+    {
+      "id_lead": 2408,
+      "name": "Taty pet",
+      "number": "11937227026",
+      "address": "R. Francisco Tometich, 731 - Pte. Seca, Ribeirão Pires - SP, 09412-190",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2409,
+      "name": "Atelier do Café",
+      "number": "11944575310",
+      "address": "R. Miguel Prisco, 286 - Centro, Ribeirão Pires - SP, 09400-110",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2410,
+      "name": "Pet Shop Amazônia",
+      "number": "11989486658",
+      "address": "Av. São Paulo, 310 - Cidade São Jorge, Santo André - SP, 09111-410",
+      "site": "http://www.pethopamazonia.com.br/"
+    },
+    {
+      "id_lead": 2411,
+      "name": "Pet Shop Patriarcas",
+      "number": "1145785407",
+      "address": "R. do Patriarca, 132 - Vila Independencia, Mauá - SP, 09350-140",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2412,
+      "name": "Supermercado Bom Gosto",
+      "number": "1148270074",
+      "address": "Rod. Índio Tibiriçá, 2555 - Ouro Fino Paulista, Ribeirão Pires - SP, 09442-000",
+      "site": "http://supermercadobomgosto.com.br/"
+    },
+    {
+      "id_lead": 2413,
+      "name": "Pet shop e Avicultura Laras",
+      "number": "11975278081",
+      "address": "R. Dravidiana, 240 - Vila Suíça, Santo André - SP, 09131-040",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2414,
+      "name": "Espaço Revendedor Grupo Boticário",
+      "number": "1145418325",
+      "address": "Av. Francisco Monteiro, 1372 - Vila Fiorentino, Ribeirão Pires - SP, 09406-300",
+      "site": "https://www.boticario.com.br/?utm_source=google&utm_medium=maps&utm_campaign=mirum21385"
+    },
+    {
+      "id_lead": 2415,
+      "name": "Padaria Mercadinho Nova Suíça",
+      "number": "1148233375",
+      "address": "R. Olímpia Cata Preta, 556 - Nova Suíça, Ribeirão Pires - SP, 09424-100",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2416,
+      "name": "Rimas Pet Shop",
+      "number": "11916765950",
+      "address": "R. Maranhão, 95 - Cidade São Jorge, Santo André - SP, 09111-740",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2417,
+      "name": "Pet Shop Mister Dog",
+      "number": "11998624122",
+      "address": "Estr. do Pedroso, 299 - Vila Luzita, Santo André - SP, 09132-180",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2418,
+      "name": "Quarta Pet",
+      "number": "1150507503",
+      "address": "A Em frente à Dina Sorvetes - Manoel Augusto de Barros, 209 - Quarta Divisão, Ribeirão Pires - SP, 09435-470",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2419,
+      "name": "Pet Shopping House",
+      "number": "11998292636",
+      "address": "R. do Britador, 56 A - São João, Mauá - SP, 09340-445",
+      "site": "https://www.racaoshoppinghouse.com.br/"
+    },
+    {
+      "id_lead": 2420,
+      "name": "Tutu Pet Store",
+      "number": "11930392244",
+      "address": "mudamos para - Av. Dom Pedro I, 2212 - Vila Pires, Santo André - SP, 09121-420",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2421,
+      "name": "Campos pet",
+      "number": "11943390340",
+      "address": "R. Piolim, 279 - Jardim Guiomar, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2422,
+      "name": "Pet Shop e Casa de Rações São Francisco de Assis",
+      "number": "1148201128",
+      "address": "R. Agostinho Cardoso, 193 - Vila Figueiredo, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2423,
+      "name": "Vila Pet Estética Animal",
+      "number": "11973441515",
+      "address": "R. das Margaridas, 88 - Recanto das Flores, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2424,
+      "name": "Pet Shop Portal Do Pet",
+      "number": "1148203598",
+      "address": "Rua José Maria Figueiredo, 711 - Centro, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2425,
+      "name": "Meu Cheirinho Pet Shop Banho e Tosa",
+      "number": "11965773431",
+      "address": "Rua José Maria Figueiredo, 153 - Centro, Rio Grande da Serra - SP, 09450-000",
+      "site": "https://www.facebook.com/meucheirinhopetshop/?ref=bookmarks"
+    },
+    {
+      "id_lead": 2426,
+      "name": "Veterinária Trevo",
+      "number": "1148214455",
+      "address": "Av. dos Autonomistas, 885 - Vila Figueiredo, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2427,
+      "name": "Pet House",
+      "number": "11912588105",
+      "address": "R. Ver. Amilton José dos Santos, 239 - Vila Ota, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2428,
+      "name": "Rações e Avicultura Ninho da Serra",
+      "number": "1148202837",
+      "address": "Av. São João, 66 - Jardim Santa Tereza, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2429,
+      "name": "Clínica Veterinária Zambicão",
+      "number": "11941646549",
+      "address": "R. Pref. Carlos José Carlson, 268 - Vila Albano, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2430,
+      "name": "Bolas Pet Cristal Pet",
+      "number": "11945743516",
+      "address": "R. Pacaembu, 87 - Parque América, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2431,
+      "name": "Clínica Veterinária Rio Grande",
+      "number": "1148212993",
+      "address": "R. Valdir Gil da Silva, 36 - Vila Arnoud, Rio Grande da Serra - SP, 09450-000",
+      "site": "https://clinica-veterinaria-rio-grande.webnode.com/"
+    },
+    {
+      "id_lead": 2432,
+      "name": "Ração marquinhos",
+      "number": "11976586638",
+      "address": "R. Marília, 36 - Parque Rio Grande, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2433,
+      "name": "Centro de estético animal Daniela Ferreira",
+      "number": "11975882111",
+      "address": "Rua José Maria Figueiredo, 546 - Centro, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2434,
+      "name": "lirou pet",
+      "number": "11940871375",
+      "address": "R. Agostinho Cardoso, 456 - Vila Figueiredo, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2435,
+      "name": "Rações Santo",
+      "number": "11941947962",
+      "address": "Av. Dom Pedro I, 437 - Centro, Rio Grande da Serra - SP, 09450-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2436,
+      "name": "Popular Pet - Santa Isabel",
+      "number": "11925702890",
+      "address": "Av. Manoel Ferraz de Campos Salles, 513 - Jardim Monte Serrat, Santa Isabel - SP, 07500-000",
+      "site": "https://popularpet.com.br/"
+    },
+    {
+      "id_lead": 2437,
+      "name": "Pet Shop Santa Izabel Banho E Tosa",
+      "number": "1138515569",
+      "address": "Rua Gérson Pereira de Brito, 127 - Vila Penteado, São Paulo - SP, 02844-180",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2438,
+      "name": "VILA PET STORE",
+      "number": "11913018858",
+      "address": "R. Santa Isabel, 47 - Vila Buarque, São Paulo - SP, 01221-010",
+      "site": "https://instagram.com/vila_pet_store?igshid=YmMyMTA2M2Y="
+    },
+    {
+      "id_lead": 2439,
+      "name": "Patinhas BF",
+      "number": "11979713551",
+      "address": "Av. Cel. Bertoldo, 1355 - Vila Industrial, Santa Isabel - SP, 07500-000",
+      "site": "https://patinhas.bf/"
+    },
+    {
+      "id_lead": 2440,
+      "name": "Pet Faminto Casa de Ração",
+      "number": "11941080052",
+      "address": "R. Pref. Osvaldo Rodrigues da Silva, 175 - Jardim Eldorado, Santa Isabel - SP, 07500-000",
+      "site": "https://www.instagram.com/pet_faminto_racoes?igsh=ZG04NXFtYjYwN3c4"
+    },
+    {
+      "id_lead": 2441,
+      "name": "Sarab Rações",
+      "number": "1146578202",
+      "address": "Av. Manoel Ferraz de Campos Salles, 89 - Parque Sao Benedito, Santa Isabel - SP, 07500-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2442,
+      "name": "PET SHOP BOB VILA BUARQUE",
+      "number": "1133314372",
+      "address": "R. Santa Isabel, 254 - Vila Buarque, São Paulo - SP, 01043-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2443,
+      "name": "LMA Pet Brasil Unidade II",
+      "number": "1146800612",
+      "address": "R. José Bueno, 93 - Nova Santa Isabel, Santa Isabel - SP, 07500-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2444,
+      "name": "Canil PetitBel Chihuahuas",
+      "number": "11955507800",
+      "address": "Av. Cel. Bertoldo, 1400 - Vila Industrial, Santa Isabel - SP, 07500-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2445,
+      "name": "L. M. A Pet Brasil",
+      "number": "1146805898",
+      "address": "Av. Manoel Ferraz de Campos Salles, 381 - Parque Sao Benedito, Santa Isabel - SP, 07500-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2446,
+      "name": "Pet shop NSA Sta. Isabel.",
+      "number": "11934598096",
+      "address": "Av. Norberto Mayer, 437 - Vila Santa Isabel, São Paulo - SP, 03425-040",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2447,
+      "name": "Valor Pets",
+      "number": "11918966160",
+      "address": "Rua Sargento - R. Sarg. José Cardoso da Silva, 45 - Cruzeiro, Santa Isabel - SP, 07500-000",
+      "site": "https://www.valorpets.com.br/"
+    },
+    {
+      "id_lead": 2448,
+      "name": "Pet Star",
+      "number": "11947279112",
+      "address": "Av. Brasil - Vila Orlanda, Santa Isabel - SP, 07500-000",
+      "site": "https://instagram.com/petstar_paty?igshid=YmMyMTA2M2Y="
+    },
+    {
+      "id_lead": 2449,
+      "name": "PET SHOP RIO SAMPA",
+      "number": "11986779690",
+      "address": "R. Santa Izabel - Vila Augusta, Guarulhos - SP, 07023-022",
+      "site": "https://www.instagram.com/petshopriosampa/"
+    },
+    {
+      "id_lead": 2450,
+      "name": "Au Q Mia Pet Shop Rações Acess",
+      "number": "1122682676",
+      "address": "R. Picinguaba, 557 - Vila Santa Isabel, São Paulo - SP, 03432-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2451,
+      "name": "Pet Cão Amigo",
+      "number": "11956986312",
+      "address": "R. Pref. Arthur José da Costa, 302 - Estância Oliveira, Santa Isabel - SP, 07500-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2452,
+      "name": "Santa Casa Veterinária Popular",
+      "number": "1146800700",
+      "address": "Próximo ao ginásio, entrada pelo portão da Ultragaz - Av. Pref. José Raimundo Lobo, 180 - Brotas, Santa Isabel - SP, 07500-000",
+      "site": "https://www.facebook.com/veterinariapopularsantaisabel/"
+    },
+    {
+      "id_lead": 2453,
+      "name": "AGROPECUÁRIA Atacadão",
+      "number": "11951855918",
+      "address": "Estr. Pedro da Cunha Albuquerque Lopes, 2209 - Jardim Patricia, Itaquaquecetuba - SP, 08584-584",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2454,
+      "name": "Aquarium Monster Shop",
+      "number": "19989606198",
+      "address": "R. Silva Jardim, 86 - Belenzinho, São Paulo - SP, 03057-070",
+      "site": "https://wa.me/message/MLCIYCR2E4DDL1"
+    },
+    {
+      "id_lead": 2455,
+      "name": "Mingau Pet Shop | Vila Carrão",
+      "number": "1122930849",
+      "address": "Av. Norberto Mayer, 194 - Vila Carrão, São Paulo - SP, 03425-040",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2456,
+      "name": "Clup Pet Groomer",
+      "number": "11985723724",
+      "address": "R. Picinguaba, 488 - Vila Santa Isabel, São Paulo - SP, 03433-030",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2457,
+      "name": "Patynhas banho & tosa",
+      "number": "11968286007",
+      "address": "R. Picinguaba, 103 - Vila Santa Isabel, São Paulo - SP, 03432-000",
+      "site": "https://www.instagram.com/patynhasbanhoetosa?igsh=cm8xNjVzZ2xyN3c="
+    },
+    {
+      "id_lead": 2458,
+      "name": "Jajá Pet Shop",
+      "number": "1131349191",
+      "address": "Rua Araras, 98 - Vila Santa Isabel, São Paulo - SP, 03432-070",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2459,
+      "name": "Love Pet",
+      "number": "11999298196",
+      "address": "Rua Prefeito José Basílio Alvarenga, 611 B, Ladeira Monte Serrat, Santa Isabel - SP, 07500-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2460,
+      "name": "Clin Pet",
+      "number": "1146574488",
+      "address": "R. Fernandes Cardoso, 237 - 13 - Parque Santa Tereza, Santa Isabel - SP, 07500-000",
+      "site": "http://clinpet.com.br/"
+    },
+    {
+      "id_lead": 2461,
+      "name": "Oliva's Pet Shop",
+      "number": "1123714649",
+      "address": "R. Pirambóia, 60 - Vila Santa Isabel, São Paulo - SP, 03425-030",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2462,
+      "name": "Rações Morro Da Farinha",
+      "number": "1146563709",
+      "address": "R. Monte Serrat, 226 - Centro, Santa Isabel - SP, 07500-000",
+      "site": "https://www.lojalocal.com/15609491000140"
+    },
+    {
+      "id_lead": 2463,
+      "name": "Casa de raçoes pitbull",
+      "number": "11967306629",
+      "address": "Unnamed Road - Chácaras Reunidas Canadá, Santa Isabel - SP, 07500-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2464,
+      "name": "BABY'S PETSHOP E CLÍNICA VETERINÁRIA",
+      "number": "1122425399",
+      "address": "Av. Antonelo da Messina, 1337 - Sítio do Piqueri, São Paulo - SP, 02318-000",
+      "site": "https://www.instagram.com/babyspetshop?r=nametag"
+    },
+    {
+      "id_lead": 2465,
+      "name": "Clínica Veterinária Toca de Assis",
+      "number": "1127845340",
+      "address": "Av. Norberto Mayer, 348 - Vila Santa Isabel, São Paulo - SP, 03425-040",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2466,
+      "name": "Casa de Ração e Pet Shop São Luiz",
+      "number": "1141546040",
+      "address": "Av. Brasil, 422 - Jardim Sao Luis, Santana de Parnaíba - SP, 06502-210",
+      "site": "https://mechameaqui.com.br/v2/casa-de-racao-e-pet-shop-sao-luiz-santana-de-parnaiba-sp"
+    },
+    {
+      "id_lead": 2467,
+      "name": "Pet Shop Fik Lindo",
+      "number": "11942473806",
+      "address": "R. Lua Minguante, 222 - Fazendinha, Santana de Parnaíba - SP, 06529-010",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2468,
+      "name": "Guttuchos banho e tosa",
+      "number": "11942388093",
+      "address": "Av. Fortunato Camargo, 329 - Cidade São Pedro - Gleba A, Santana de Parnaíba - SP, 06535-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2469,
+      "name": "Carinho's Pet",
+      "number": "1141517632",
+      "address": "R. Aquário, 292B - Parque Santana, Santana de Parnaíba - SP, 06515-085",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2470,
+      "name": "Pet Bela - Por patinhas mais felizes",
+      "number": "11941428683",
+      "address": "R. Henrique Bernardeli, 30 - Colinas da Anhanguera, Santana de Parnaíba - SP, 06537-075",
+      "site": "https://instagram.com/_petbela?utm_medium=copy_link"
+    },
+    {
+      "id_lead": 2471,
+      "name": "Caramello Pet & Vet",
+      "number": "1151991278",
+      "address": "Alphasitio Mall - Alameda Pau Brasil, 48 - Sítio do Rosário, Santana de Parnaíba - SP, 06544-480",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2472,
+      "name": "Loja de pets",
+      "number": "11972153694",
+      "address": "R. Amapá, 2 - Parque dos Eucaliptos (Fazendinha), Santana de Parnaíba - SP, 06530-240",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2473,
+      "name": "Casa de Ração Pets Food",
+      "number": "11992029389",
+      "address": "Av. Fortunato Camargo - São Pedro, Santana de Parnaíba - SP, 06535-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2474,
+      "name": "KitPet Alphaville",
+      "number": "11993773986",
+      "address": "Av. Netuno, 29 - loja 02 - Alphaville, Santana de Parnaíba - SP, 06541-015",
+      "site": "https://kitpetalphaville.com.br/"
+    },
+    {
+      "id_lead": 2475,
+      "name": "Artesanal Agro & Pet's",
+      "number": "11995098342",
+      "address": "R. Marli, 64 - Jardim Diva (Fazendinha), Santana de Parnaíba - SP, 06530-441",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2476,
+      "name": "Pet Safari Santana de Parnaíba",
+      "number": "1141547013",
+      "address": "R. Prof. Edgar de Moraes, 214 - Jardim Frediani, Santana de Parnaíba - SP, 06502-165",
+      "site": "http://www.petsafari.com.br/"
+    },
+    {
+      "id_lead": 2477,
+      "name": "Paraíso dos Anjos - Pet & Hotel",
+      "number": "11994897420",
+      "address": "R. dos Anjos, 52 - Parque Paraiso, Santana de Parnaíba - SP, 06517-305",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2478,
+      "name": "Petshop Perto Pet Santana de Paranaiba",
+      "number": "11971777283",
+      "address": "R. Dr. João Procópio, 50 - Vila Nova, Santana de Parnaíba - SP, 06502-200",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2479,
+      "name": "Perto Pet Santana de Parnaiba",
+      "number": "11971777283",
+      "address": "R. Dr. João Procópio, 50 - Vila Nova, Santana de Parnaíba - SP, 06502-200",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2480,
+      "name": "Barca dos bichos",
+      "number": "11972826763",
+      "address": "Rua dos limoeiros 28 Parque Santana 2, Santana de Parnaíba - SP, 06515-030",
+      "site": "https://linktr.ee/barcadosbichos"
+    },
+    {
+      "id_lead": 2481,
+      "name": "Clínica Veterinária e Banho e tosa Peludos e Pelados Petshop",
+      "number": "1126905044",
+      "address": "Av. Brasil, 300 - Jardim Sao Luis, Santana de Parnaíba - SP, 06502-210",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2482,
+      "name": "Château dos Bichos",
+      "number": "1141922590",
+      "address": "R. Montes Claros, 154 - Chácaras Boa Vista, Santana de Parnaíba - SP, 06520-001",
+      "site": "http://www.chateaudosbichos.com.br/"
+    },
+    {
+      "id_lead": 2483,
+      "name": "Pinkão Pet Center",
+      "number": "1141526453",
+      "address": "Av Marcos Penteado de Ulhoa Rodrigues 4053 Loja 02 Trix - Tamboré, Santana de Parnaíba - SP, 06543-001",
+      "site": "https://www.pinkaopetcenter.com.br/"
+    },
+    {
+      "id_lead": 2484,
+      "name": "Agropecuária E Petshop Hipólito",
+      "number": "11945389303",
+      "address": "Estr. Maricá Marquês, 84 - Jardim Represa (Fazendinha), Santana de Parnaíba - SP, 06529-210",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2485,
+      "name": "Mercadão Pet Alphasitio",
+      "number": "11940564427",
+      "address": "Av. dos Parques, 252 - Centro de Apoio I (Alphaville), Santana de Parnaíba - SP, 06544-300",
+      "site": "https://www.instagram.com/mercadaopetalphasitio/"
+    },
+    {
+      "id_lead": 2486,
+      "name": "Patuchos Pet shop",
+      "number": "11941077704",
+      "address": "Av. Yojiro Takaoka, 4700 - Centro de Apoio I - Alphaville, Santana de Parnaíba - SP, 06541-038",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2487,
+      "name": "VILA DOS CÃES",
+      "number": "1141544000",
+      "address": "Avenida Valville 550 B Alphaville - Tanquinho, Santana de Parnaíba - SP, 06532-010",
+      "site": "http://www.viladoscaes.com.br/"
+    },
+    {
+      "id_lead": 2488,
+      "name": "Tuddog Rações e Acessórios",
+      "number": "11939025978",
+      "address": "Av. Padre Francisco Fernandes de Oliveira, 424 - 120 - Vila Anoral, Santana de Parnaíba - SP, 06528-305",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2489,
+      "name": "Pet's House Tamboré",
+      "number": "1124243881",
+      "address": "Av. Marcos Penteado de Ulhôa Rodrigues, 3272 - Loja 01 - Tamboré, Santana de Parnaíba - SP, 06543-001",
+      "site": "https://www.petshousetambore.com.br/"
+    },
+    {
+      "id_lead": 2490,
+      "name": "Vila dos Gatos",
+      "number": "11988682772",
+      "address": "Calçada Aldebarã, 168 - Centro de Apoio II (Alphaville), Santana de Parnaíba - SP, 06541-055",
+      "site": "http://www.viladosgatos.com.br/"
+    },
+    {
+      "id_lead": 2491,
+      "name": "Clary Pets banho e tosa",
+      "number": "11947993356",
+      "address": "R. Pinto Coelho - Chácara do Solar III, Santana de Parnaíba - SP, 06528-080",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2492,
+      "name": "CASA DE RACAO CANTINHO PET",
+      "number": "11912003783",
+      "address": "R. Estevão Raposo, 75 - Cristal Park, Santana de Parnaíba - SP, 06505-065",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2493,
+      "name": "Pet Caprichosos",
+      "number": "1141513900",
+      "address": "R. das Bananeiras, 285 - Parque Santana, Santana de Parnaíba - SP, 06515-005",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2494,
+      "name": "Pet da Tety",
+      "number": "11945924190",
+      "address": "Av. Fortunato Camargo, 661 - Cidade São Pedro - Gleba A, Santana de Parnaíba - SP, 06535-125",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2495,
+      "name": "CatDog Banho & Tosa",
+      "number": "11976649706",
+      "address": "R. Áries, n° 180 - Parque Santana l, Santana de Parnaíba - SP, 06515-125",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2496,
+      "name": "Rações mundo animal",
+      "number": "11944620448",
+      "address": "Av. Fortunato Camargo, 583 - Cidade São Pedro - Gleba A, Santana de Parnaíba - SP, 06535-001",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2497,
+      "name": "PetLab Saúde e Bem Estar Animal",
+      "number": "1139691551",
+      "address": "Rua Hiroshi Okada, 56 - Jardim Represa (Fazendinha), Santana de Parnaíba - SP, 06529-350",
+      "site": "http://www.petlabcosmetics.com.br/loja"
+    },
+    {
+      "id_lead": 2498,
+      "name": "Pet Shop Vida Animal",
+      "number": "11950863561",
+      "address": "R. Di Cavalcante, 490 - Colinas da Anhanguera, Santana de Parnaíba - SP, 06537-085",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2499,
+      "name": "Centro Veterinário Seres",
+      "number": "1121817385",
+      "address": "Junto à Kalunga - Alameda Araguaia, 2179 Parte A - Tamboré, Barueri - SP, 06455-000",
+      "site": "https://seres.vet/"
+    },
+    {
+      "id_lead": 2500,
+      "name": "Dogão Rações",
+      "number": "1147053649",
+      "address": "Estrada: Tenente Marques, 6899 - Jardim do Luar (Fazendinha), Santana de Parnaíba - SP, 06529-001",
+      "site": "https://www.facebook.com/DogaoRacoess"
+    },
+    {
+      "id_lead": 2501,
+      "name": "Alphapet Tamboré Pet Shop",
+      "number": "1145540593",
+      "address": "Av. Marcos Penteado de Ulhôa Rodrigues, 4003 - Loja 20 - Tamboré, Santana de Parnaíba - SP, 06543-001",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2502,
+      "name": "Estilo pet",
+      "number": "11986282263",
+      "address": "R. Lucas Fernandes Pinto, 48 - Jardim das Avencas (Fazendinha), Santana de Parnaíba - SP, 06530-565",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2503,
+      "name": "Clínica Veterinária Alphaville",
+      "number": "1141537377",
+      "address": "Av. Marte, 451 - Santana, Santana de Parnaíba - SP, 06541-015",
+      "site": "http://www.cvalphaville.com.br/"
+    },
+    {
+      "id_lead": 2504,
+      "name": "Alpha Star",
+      "number": "1141952011",
+      "address": "R. Sagitário, 12 - Alphaville Conde II, Barueri - SP, 06473-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2505,
+      "name": "Ração para cães e gatos e Acessórios pet cajueiro casa de ração",
+      "number": "11960287575",
+      "address": "R. Capricórnio - Parque Santana, Santana de Parnaíba - SP, 06515-090",
+      "site": "http://wa.me/5511960287575"
+    },
+    {
+      "id_lead": 2506,
+      "name": "Especiale Pet - Especialidades Veterinárias e Medicina Preventiva",
+      "number": "11945546734",
+      "address": "Av. Valville, 320 - Tanquinho, Santana de Parnaíba - SP, 06532-010",
+      "site": "https://especialepet.com.br/"
+    },
+    {
+      "id_lead": 2507,
+      "name": "Mimi Pet's",
+      "number": "11986335613",
+      "address": "Av. Moacir da Silveira, 1013 - Jardim Isaura, Santana de Parnaíba - SP, 06516-050",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2508,
+      "name": "Renova",
+      "number": "1141532590",
+      "address": "Av. Marte, 465 - Alphaville, Santana de Parnaíba - SP, 06541-005",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2509,
+      "name": "Uau My Dog Lino",
+      "number": "1123795007",
+      "address": "Av. Lino Jardim, 879 - Vila Bastos, Santo André - SP, 09041-031",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2510,
+      "name": "Shoppinho Animal (S.A.Pet Boutique, Spa e Resort)",
+      "number": "1149913707",
+      "address": "Av. Dom Pedro II, 1953 - Campestre, Santo André - SP, 09080-111",
+      "site": "http://www.shoppinhoanimal.com/"
+    },
+    {
+      "id_lead": 2511,
+      "name": "AtlantiCão Pet Store",
+      "number": "11989397093",
+      "address": "Av. Atlântica, 128 - Vila Valparaíso, Santo André - SP, 09060-000",
+      "site": "http://atlanticao.com.br/"
+    },
+    {
+      "id_lead": 2512,
+      "name": "Pet Anjo Santo André Av Dos Estados",
+      "number": "1150399549",
+      "address": "Av. dos Estados, 5745 - Parque Jaçatuba, Santo André - SP, 09290-520",
+      "site": "https://www.petanjo.com/"
+    },
+    {
+      "id_lead": 2513,
+      "name": "Animal Shopping Pet Shop",
+      "number": "11973691555",
+      "address": "Av. das Nações, 862 - Parque Novo Oratório, Santo André - SP, 09260-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2514,
+      "name": "Pet Shop Amigão Unidade 01",
+      "number": "11914358026",
+      "address": "Av. Utinga, 874 - Utinga, Santo André - SP, 09220-611",
+      "site": "https://bit.ly/Amigao_loja01"
+    },
+    {
+      "id_lead": 2515,
+      "name": "Pet Jardim",
+      "number": "1149909272",
+      "address": "Alameda Francisco Alves, 52 - Jardim, Santo André - SP, 09090-790",
+      "site": "https://www.instagram.com/pet.jardim/"
+    },
+    {
+      "id_lead": 2516,
+      "name": "Dr. Hato - Pet Shop (Vila Alto de Santo André)",
+      "number": "1142001160",
+      "address": "Av. Martim Francisco, 802 - Vila Alto de, Santo André - SP, 09230-700",
+      "site": "http://www.drhato.com.br/"
+    },
+    {
+      "id_lead": 2517,
+      "name": "Pet Shop Animal Shopping - Unidade 2",
+      "number": "11958680111",
+      "address": "Rua Coronel Alfredo Flaquer, 754 - Vila Assunção, Santo André - SP, 09020-041",
+      "site": "https://www.facebook.com/profile.php?id=100065457882878&mibextid=ZbWKwL"
+    },
+    {
+      "id_lead": 2518,
+      "name": "Dr. Hato - Hospital Veterinário e Pet Shop (Unidade Campestre)",
+      "number": "1144281222",
+      "address": "Av. Dom Pedro II, 3309 - Campestre, Santo André - SP, 09080-111",
+      "site": "http://www.drhato.com.br/"
+    },
+    {
+      "id_lead": 2519,
+      "name": "Doce Pet Banho e Tosa",
+      "number": "11985185085",
+      "address": "R. Coréia, 166 - Vila Curuçá, Santo André - SP, 09280-190",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2520,
+      "name": "Pet Shop C&G - Loja 1",
+      "number": "11983094733",
+      "address": "Av. Sorocaba, 500 - Parque João Ramalho, Santo André - SP, 09290-260",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2521,
+      "name": "Hospital Veterinário Santa Terezinha 24h e Pet Shop",
+      "number": "1149971146",
+      "address": "Alameda Vieira de Carvalho, 532/534 - Santa Terezinha, Santo André - SP, 09210-630",
+      "site": "https://hovetsantaterezinha.com.br/"
+    },
+    {
+      "id_lead": 2522,
+      "name": "Pit Pet Jardim",
+      "number": "11976272000",
+      "address": "R. das Aroeiras, 430 - Jardim, Santo André - SP, 09090-000",
+      "site": "http://www.pitpetjardim.com.br/"
+    },
+    {
+      "id_lead": 2523,
+      "name": "Espaço Pet & Co - Banho e Tosa na Vila Assunção",
+      "number": "11920114070",
+      "address": "R. Paranapanema, 81 - Loja 2 - Vila Assunção, Santo André - SP, 09195-120",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2524,
+      "name": "Pet Shop Utinga",
+      "number": "1149764230",
+      "address": "Praça Mario Guindani, 53 - Utinga, Santo André - SP, 09220-690",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2525,
+      "name": "Sabichões Pet Store - O melhor para o seu Pet",
+      "number": "1149975616",
+      "address": "R. Japão, 17 - Parque das Nações, Santo André - SP, 09240-170",
+      "site": "http://www.sabichoes.com.br/"
+    },
+    {
+      "id_lead": 2526,
+      "name": "Nina's Pet Shop",
+      "number": "11940890981",
+      "address": "Av. Araucária, 551 - Parque Oratório, Santo André - SP, 09251-040",
+      "site": "https://www.instagram.com/_ninaspet_/"
+    },
+    {
+      "id_lead": 2527,
+      "name": "Pet Anjo Santo André Prestes Maia",
+      "number": "1144211420",
+      "address": "Praça Uirapuru, 9 - Santa Maria, Santo André - SP, 09071-220",
+      "site": "https://www.petanjo.com/"
+    },
+    {
+      "id_lead": 2528,
+      "name": "PETSHOP E CRECHE CLUBE DO PELO",
+      "number": "1144273684",
+      "address": "Av. Lino Jardim, 680 - Jardim Bela Vista, Santo André - SP, 09041-031",
+      "site": "https://clubedopelo.com.br/creche"
+    },
+    {
+      "id_lead": 2529,
+      "name": "Pet Jardim Prime - Clínica Veterinária",
+      "number": "11978129208",
+      "address": "R. das Palmeiras, 174 - Jardim, Santo André - SP, 09080-160",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2530,
+      "name": "PET SHOP REINA PETS",
+      "number": "1128962110",
+      "address": "R. Dr. Eduardo Monteiro, 181 - Jardim Bela Vista, Santo André - SP, 09041-300",
+      "site": "https://reinapets.mercadoshops.com.br/"
+    },
+    {
+      "id_lead": 2531,
+      "name": "Oba Pet Shop - Banho e Tosa em Santo André",
+      "number": "11961808352",
+      "address": "R. Helena Ferreira, 92 - Vila Clarice, Santo André - SP, 09250-720",
+      "site": "https://www.instagram.com/oba_pet_/"
+    },
+    {
+      "id_lead": 2532,
+      "name": "Happy Pet",
+      "number": "1143190888",
+      "address": "R. Xingu, 580 - Vila Valparaíso, Santo André - SP, 09060-050",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2533,
+      "name": "Miu Pets Banho e Tosa Santo André | Banho e Tosa Em Utinga",
+      "number": "1145090005",
+      "address": "Av. Nova Iorque, 249 - Utinga, Santo André - SP, 09220-780",
+      "site": "https://instagram.com/miu.pets?igshid=1awzsdmjn3slt"
+    },
+    {
+      "id_lead": 2534,
+      "name": "Cozy Pet - Centro Médico Veterinário",
+      "number": "1144363255",
+      "address": "Av. Pedro Américo, 674 - Vila Homero Thon, Santo André - SP, 09110-560",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2535,
+      "name": "Au Mada Pet Shop e Clínica Veterinária",
+      "number": "11951290538",
+      "address": "R. Fenícia, 125 - Parque Novo Oratório, Santo André - SP, 09260-420",
+      "site": "https://www.facebook.com/AuMadaPetshop/"
+    },
+    {
+      "id_lead": 2536,
+      "name": "Pets Onaga - Unidade Matriz",
+      "number": "1129884222",
+      "address": "Alameda São Caetano, 1630 - Jardim, Santo André - SP, 09070-210",
+      "site": "https://www.petsonaga.com.br/"
+    },
+    {
+      "id_lead": 2537,
+      "name": "Centro Veterinário Dr. Gleycon de Camargo - Santo André - SP",
+      "number": "11982524993",
+      "address": "R. Cel. Abílio Soares, 37 - Centro, Santo André - SP, 09020-260",
+      "site": "https://cvpdrgleycondecamargo.com.br/"
+    },
+    {
+      "id_lead": 2538,
+      "name": "Pet Shop Felix",
+      "number": "1142533604",
+      "address": "Av. Utinga, 1115 - Utinga, Santo André - SP, 09220-611",
+      "site": "https://tiny.cc/petshopfelix"
+    },
+    {
+      "id_lead": 2539,
+      "name": "Pet Shop Nações",
+      "number": "1144763352",
+      "address": "Av. das Nações, 2672 - Parque Capuava, Santo André - SP, 09270-260",
+      "site": "http://www.petshopnacoes.com.br/"
+    },
+    {
+      "id_lead": 2540,
+      "name": "Agronilo Pet Shop | Entrega de Ração | Ração Delivery | Ração São Paulo | Ração Abc",
+      "number": "1149964488",
+      "address": "Rua Antonina 44 Av Eng Olavo Alaysio de Lima 33 - Vila Metalúrgica, Santo André - SP, 09210-330",
+      "site": "http://www.agronilo.com.br/"
+    },
+    {
+      "id_lead": 2541,
+      "name": "Clínica Veterinária Santo André",
+      "number": "11940193990",
+      "address": "R. das Esmeraldas, 378 - Jardim, Santo André - SP, 09070-770",
+      "site": "http://www.veterinariasantoandre.com.br/"
+    },
+    {
+      "id_lead": 2542,
+      "name": "PetShop - Bicho da Villa",
+      "number": "11913367687",
+      "address": "Av. Higienópolis, 101 - Vila Gilda, Santo André - SP, 09190-360",
+      "site": "https://www.bichodavilla.com.br/"
+    },
+    {
+      "id_lead": 2543,
+      "name": "Phill's Pet Club: Pet Shop e Banho e Tosa no Lauzane Paulista",
+      "number": "11976394111",
+      "address": "Av. do Guacá, 605 - Lauzane Paulista, São Paulo - SP, 02435-060",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2544,
+      "name": "Pet Shop Santos",
+      "number": "1133375093",
+      "address": "R. Barão de Tatuí, 64 - Vila Buarque, São Paulo - SP, 01226-031",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2545,
+      "name": "Stock Petshop",
+      "number": "11992417086",
+      "address": "R. Alfredo Pujol, 1101 - Santana, São Paulo - SP, 02017-011",
+      "site": "https://stockpetshop.com.br/"
+    },
+    {
+      "id_lead": 2546,
+      "name": "Laicão Matriz",
+      "number": "11991503758",
+      "address": "R. Dr. Miranda de Azevedo, 470 - Vila Anglo Brasileira, São Paulo - SP, 05027-000",
+      "site": "http://laicao.com.br/"
+    },
+    {
+      "id_lead": 2547,
+      "name": "Cãotinho Pet Shop",
+      "number": "11978144932",
+      "address": "Av. João dos Santos Abreu, 689 - Vila Espanhola, São Paulo - SP, 02566-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2548,
+      "name": "Pet's Fran - Banho e Tosa",
+      "number": "11967517513",
+      "address": "Av. João dos Santos Abreu, 629 - Cachoeirinha, São Paulo - SP, 02556-020",
+      "site": "https://www.facebook.com/petsfran/"
+    },
+    {
+      "id_lead": 2549,
+      "name": "Pet Shop Bem Locão",
+      "number": "11992131256",
+      "address": "Av. Águas de São Pedro, 149 - Vila Pauliceia, São Paulo - SP, 02302-070",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2550,
+      "name": "WeVets | Hospital Veterinário 24h | Unidade Santana",
+      "number": "1129590459",
+      "address": "R. Conselheiro Moreira de Barros, 1201 - Santana, São Paulo - SP, 02018-012",
+      "site": "https://wevets.com.br/unidades/unidade-santana/"
+    },
+    {
+      "id_lead": 2551,
+      "name": "Pet Mania - Pet Shop e Clínica Veterinária",
+      "number": "1332257967",
+      "address": "R. Carvalho de Mendonça, 504 - Campo Grande, Santos - SP, 11070-102",
+      "site": "http://petmaniasantos.com.br/"
+    },
+    {
+      "id_lead": 2552,
+      "name": "Beach Dogs C5 - Pet Shop e Banho & Tosa",
+      "number": "13996365884",
+      "address": "Av. Dr. Epitácio Pessoa, 344 - Aparecida, Santos - SP, 11030-600",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2553,
+      "name": "Petland Boqueirão - Santos",
+      "number": "1332354637",
+      "address": "R. Bento de Abreu, 4 - Boqueirão, Santos - SP, 11045-140",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2554,
+      "name": "Empório Animal - Canal 3",
+      "number": "1332225859",
+      "address": "Av. Washington Luís, 422 - Gonzaga, Santos - SP, 11055-000",
+      "site": "http://www.emporioanimalsantos.com.br/"
+    },
+    {
+      "id_lead": 2555,
+      "name": "Beach PetShop",
+      "number": "1338776071",
+      "address": "Av. Bartholomeu de Gusmão, 88 - Embaré, Santos - SP, 11045-401",
+      "site": "https://beachpet.com.br/"
+    },
+    {
+      "id_lead": 2556,
+      "name": "Pet Shop Banho E Tosa",
+      "number": "1330262776",
+      "address": "Rua Miguel Kodja, 19 - Jardim castelo, Santos - SP, 11087-240",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2557,
+      "name": "Elegância Pet Shop",
+      "number": "1322021082",
+      "address": "R. Dr. Lincoln Feliciano, 22 - Boqueirão, Santos - SP, 11045-560",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2558,
+      "name": "Hospital Mar a Pet",
+      "number": "1332517374",
+      "address": "Av. Bernardino de Campos, 533 - Vila Belmiro, Santos - SP, 11065-001",
+      "site": "http://www.marapet.com.br/"
+    },
+    {
+      "id_lead": 2559,
+      "name": "Pet Friends - Revista Eletrônica do Mundo Animal",
+      "number": "1332244978",
+      "address": "Av. Washington Luís, 452 - 8ª andar - Gonzaga, Santos - SP, 11055-000",
+      "site": "http://www.petfriends.com.br/"
+    },
+    {
+      "id_lead": 2560,
+      "name": "Pet Shop João De Barro",
+      "number": "1332039088",
+      "address": "R. Prof. Laurindo Chaves, 329 - Castelo, Santos - SP, 11087-100",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2561,
+      "name": "Animal Shop",
+      "number": "1333498578",
+      "address": "R. Prof. Luís Gomes Cruz, 30 - Castelo, Santos - SP, 11087-020",
+      "site": "https://www.instagram.com/petshopanimalsantos/?hl=pt-br"
+    },
+    {
+      "id_lead": 2562,
+      "name": "PET SHOP CANARINHO",
+      "number": "1332035641",
+      "address": "Zap (13 - 95538-5022 - Jardim Brasil (Zona Norte), Santos - SP, 11088-180",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2563,
+      "name": "Molecão",
+      "number": "1332275249",
+      "address": "R. Ricardo Pinto, 89 - Aparecida, Santos - SP, 11035-171",
+      "site": "http://www.molecao.com.br/"
+    },
+    {
+      "id_lead": 2564,
+      "name": "Pet Pitangueiras Miramar",
+      "number": "13982141458",
+      "address": "R. Euclydes da Cunha, 21 - Gonzaga, Santos - SP, 11065-100",
+      "site": "https://m.facebook.com/ShoppingMiramar/"
+    },
+    {
+      "id_lead": 2565,
+      "name": "Pet Shop Dog Love | Banho e Tosa em Santos",
+      "number": "13981167863",
+      "address": "R. Batista Pereira, 191 - Macuco, Santos - SP, 11015-100",
+      "site": "http://www.petshopdoglove.com.br/"
+    },
+    {
+      "id_lead": 2566,
+      "name": "PET SHOP ANI+ Tudo para seu Pet",
+      "number": "13991808264",
+      "address": "R. Evaristo da Veiga, 182 - Campo Grande, Santos - SP, 11075-660",
+      "site": "https://www.facebook.com/PetShopAnimaiis/"
+    },
+    {
+      "id_lead": 2567,
+      "name": "Camaleão Pet Shop",
+      "number": "1333852285",
+      "address": "Av. Bernardino de Campos, 459 - Campo Grande, Santos - SP, 11065-003",
+      "site": "https://instagram.com/camaleaopetshop"
+    },
+    {
+      "id_lead": 2568,
+      "name": "Pet Salon Evandro Santos",
+      "number": "1338778218",
+      "address": "Av. Dr. Pedro Lessa, N° 1808 - Aparecida, Santos - SP, 11025-002",
+      "site": "https://www.instagram.com/petsalonevandrosantos"
+    },
+    {
+      "id_lead": 2569,
+      "name": "Maison Pet Clinica Veterinaria e Pet Shop",
+      "number": "1338777783",
+      "address": "R. Carlos Gomes, 157 - Marapé, Santos - SP, 11075-672",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2570,
+      "name": "D-Dog Pet Shop",
+      "number": "13978108183",
+      "address": "R. Piauí, 47 - Pompéia, Santos - SP, 11065-420",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2571,
+      "name": "Mundo Animal",
+      "number": "1332226343",
+      "address": "Av. Conselheiro Nébias, 460 - Paquetá, Santos - SP, 11045-000",
+      "site": "http://www.facebook.com/mundoanimalsantos"
+    },
+    {
+      "id_lead": 2572,
+      "name": "Kahu Petshop",
+      "number": "13981450050",
+      "address": "Av. dos Bancários, 120 - Ponta da Praia, Santos - SP, 11030-300",
+      "site": "http://www.petshopkahu.com.br/"
+    },
+    {
+      "id_lead": 2573,
+      "name": "MAISON CHIEN PET SHOP",
+      "number": "1330262776",
+      "address": "R: MIGUEL KODJA, 19 - JARDIM CASTELO, Santos - SP, 11087-240",
+      "site": "https://www.instagram.com/petshopmchien/"
+    },
+    {
+      "id_lead": 2574,
+      "name": "República dos Bichos",
+      "number": "1333450018",
+      "address": "R. Euclydes da Cunha, 40 - Gonzaga, Santos - SP, 11065-100",
+      "site": "http://www.petrepublicadosbichos.com.br/"
+    },
+    {
+      "id_lead": 2575,
+      "name": "Filhotes Santos",
+      "number": "13978050770",
+      "address": "R. Bento de Abreu, 04 - Boqueirão, Santos - SP, 11045-140",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2576,
+      "name": "Pet’s House - A casa do seu pet",
+      "number": "13991962888",
+      "address": "Rua Oswaldo Cochrane, 269 - Embaré, Santos - SP, 11040-110",
+      "site": "http://instagram.com/petshouse013"
+    },
+    {
+      "id_lead": 2577,
+      "name": "Pet Anjo Francisco Glicério: Veterinário, Banho e tosa, Vacinas em Santos",
+      "number": "1332332929",
+      "address": "Av. Gal. Francisco Glycério, 206 - Gonzaga, Santos - SP, 11065-400",
+      "site": "https://www.petanjo.com/"
+    },
+    {
+      "id_lead": 2578,
+      "name": "Art Pet Litoral",
+      "number": "1332257056",
+      "address": "Av. Bernardino de Campos, 208 - Campo Grande, Santos - SP, 11065-002",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2579,
+      "name": "Pet Shop Ebenezer",
+      "number": "1332215900",
+      "address": "Av. Affonso Penna, 143 - Macuco, Santos - SP, 11020-001",
+      "site": "https://m.facebook.com/EbenezerPetShopSantos/"
+    },
+    {
+      "id_lead": 2580,
+      "name": "Mercadão Pet Pequini SBC - Pet Shop",
+      "number": "1126696724",
+      "address": "Av. Luiz Pequini, 1050 - Santa Terezinha, São Bernardo do Campo - SP, 09780-250",
+      "site": "https://www.instagram.com/mercadaopetpequinisbc/"
+    },
+    {
+      "id_lead": 2581,
+      "name": "Internacional Pet's",
+      "number": "1143387334",
+      "address": "Av. Rotary, 624 - Loja 1003/1004 - Ferrazópolis, São Bernardo do Campo - SP, 09721-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2582,
+      "name": "Eco Pet - Centro Veterinário e Pet Shop",
+      "number": "1143687123",
+      "address": "Av. Caminho do Mar, 2906 - Rudge Ramos, São Bernardo do Campo - SP, 09611-000",
+      "site": "https://ecopetonline.com.br/"
+    },
+    {
+      "id_lead": 2583,
+      "name": "DOM PET - Petshop SBC",
+      "number": "11961818170",
+      "address": "Av. Álvaro Guimarães, 1020 - Jardim Calux, São Bernardo do Campo - SP, 09890-001",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2584,
+      "name": "Laquiatto Pet Store - São Bernardo do Campo - Banho e Tosa , Cursos de Banho e Tosa, Vererinario , Rações , Creche e Hotel.",
+      "number": "11964523795",
+      "address": "Av. Senador Vergueiro, 3170 - Rudge Ramos, São Bernardo do Campo - SP, 09600-004",
+      "site": "https://laquiattopetstore.com.br/"
+    },
+    {
+      "id_lead": 2585,
+      "name": "Bem Estar Animal",
+      "number": "11950924519",
+      "address": "R. Alfeu Taváres, 254 - Rudge Ramos, São Bernardo do Campo - SP, 09641-000",
+      "site": "https://www.bemestaranimal.com/"
+    },
+    {
+      "id_lead": 2586,
+      "name": "Beauty Golden Estética Pet",
+      "number": "1135047014",
+      "address": "Av. Kennedy, 700 - Jardim do Mar, São Bernardo do Campo - SP, 09726-253",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2587,
+      "name": "Amity Pet",
+      "number": "1128332450",
+      "address": "Alameda Dona Tereza Cristina, 539 - Nova Petrópolis, São Bernardo do Campo - SP, 09770-330",
+      "site": "http://www.amitypet.com.br/"
+    },
+    {
+      "id_lead": 2588,
+      "name": "LM Bichinho",
+      "number": "1143621723",
+      "address": "Av. Caminho do Mar, 2094 - Rudge Ramos, São Bernardo do Campo - SP, 09610-000",
+      "site": "http://www.lmbichinho.com.br/"
+    },
+    {
+      "id_lead": 2589,
+      "name": "Petland Rudge Ramos",
+      "number": "11933558985",
+      "address": "Av. Caminho do Mar, 2227 - Rudge Ramos, São Bernardo do Campo - SP, 09609-000",
+      "site": "https://www.instagram.com/petlandsbc_rudgeramos/"
+    },
+    {
+      "id_lead": 2590,
+      "name": "Força Pet Petshop",
+      "number": "11995296214",
+      "address": "Rua: José Bonifácio, 601 - Centro, São Bernardo do Campo - SP, 09721-161",
+      "site": "http://www.forcapet.com.br/"
+    },
+    {
+      "id_lead": 2591,
+      "name": "Point dos Pets SBC",
+      "number": "11964202611",
+      "address": "R. Gonçalves Dias, 280 - Centro, São Bernardo do Campo - SP, 09715-160",
+      "site": "https://pointdospets.online/"
+    },
+    {
+      "id_lead": 2592,
+      "name": "Mimu's Pet Shop",
+      "number": "11965822079",
+      "address": "R. Ayame, 120 - Jardim do Mar, São Bernardo do Campo - SP, 09726-370 - Jardim do Mar, São Bernardo do Campo - SP, 09726-370",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2593,
+      "name": "Pet Shop São José",
+      "number": "1141033445",
+      "address": "Av. Senador Vergueiro, 3687 - Rudge Ramos, São Bernardo do Campo - SP, 09601-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2594,
+      "name": "Dr. Hato - Hospital Veterinário e Pet Shop (Unidade Baeta Neves)",
+      "number": "1143367185",
+      "address": "Rua Thales dos Santos Freire, 136 - Baeta Neves, São Bernardo do Campo - SP, 09751-020",
+      "site": "http://www.drhato.com.br/"
+    },
+    {
+      "id_lead": 2595,
+      "name": "Dog's Day",
+      "number": "11988560644",
+      "address": "Av. Redenção, 280 - Jardim do Mar, São Bernardo do Campo - SP, 09725-680",
+      "site": "https://www.dogsday.com.br/"
+    },
+    {
+      "id_lead": 2596,
+      "name": "BARRACÃO PET SHOP LTDA ME",
+      "number": "1143385489",
+      "address": "Rua José Bonifacio, 473 - Centro, São Bernardo do Campo - SP, 09721-160",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2597,
+      "name": "Cão Barão: Banho e Tosa, Pet Shop, e Clínica Veterinária em São Bernardo do Campo",
+      "number": "11932843940",
+      "address": "Av. Barão de Mauá, 317 - Jardim Maria Adelaide, São Bernardo do Campo - SP, 09726-000",
+      "site": "https://www.instagram.com/petcaobarao/"
+    },
+    {
+      "id_lead": 2598,
+      "name": "Bichos e Caprichos",
+      "number": "1143525461",
+      "address": "Av. Cap. Casa, 378 - Vila Jerusalem, São Bernardo do Campo - SP, 09811-250",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2599,
+      "name": "Pet Shop Aunelli - São Bernardo do Campo - Senador Vergueiro",
+      "number": "11997420026",
+      "address": "Av. Senador Vergueiro, 1230 - Rudge Ramos, São Bernardo do Campo - SP, 09750-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2600,
+      "name": "Pet Shop Bichos e Acessórios",
+      "number": "11981600548",
+      "address": "Av. Senador Vergueiro, 3465 - Anchieta, São Bernardo do Campo - SP, 09601-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2601,
+      "name": "Pet Shop Pet Vida",
+      "number": "11966330650",
+      "address": "jafet assad - R. Wadia Jafete Assad, 480 - Bairro dos Casa, São Bernardo do Campo - SP, 09850-090",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2602,
+      "name": "Pet Shop Princesa",
+      "number": "11962749037",
+      "address": "R. Janete Clair, 52 - Vila Sao Pedro, São Bernardo do Campo - SP, 09783-050",
+      "site": "https://instagram.com/petshop.princesa?utm_medium=copy_link"
+    },
+    {
+      "id_lead": 2603,
+      "name": "Pet Shop Bom Cão",
+      "number": "11952187335",
+      "address": "R. Maria Nicolina Bellucce Piatto, 336 - Montanhão, São Bernardo do Campo - SP, 09791-580",
+      "site": "https://www.instagram.com/petshop_bomcao/"
+    },
+    {
+      "id_lead": 2604,
+      "name": "Maikina Pet Shop (ex PET LOVERS)",
+      "number": "1149306772",
+      "address": "Área Verde - Pr. Giovani Breda, 1884 - Assunção, São Bernardo do Campo - SP, 09850-310",
+      "site": "https://www.instagram.com/maikinapetshop"
+    },
+    {
+      "id_lead": 2605,
+      "name": "4 Patas e Cia.",
+      "number": "1141786461",
+      "address": "Rua M.M.D.C., 770, lojas 1 e 2 - Paulicéia, São Bernardo do Campo - SP, 09690-000",
+      "site": "https://www.4patasecia.com.br/"
+    },
+    {
+      "id_lead": 2606,
+      "name": "Show de Banho - PetShop",
+      "number": "11930660202",
+      "address": "R. José D'Ângelo, 310 - Parque Terra Nova II, São Bernardo do Campo - SP, 09820-670",
+      "site": "https://linktr.ee/showdebanhopet?utm_source=linktree_profile_share&ltsid=fb16723d-e15d-4e13-8fd2-c0b071bb8330"
+    },
+    {
+      "id_lead": 2607,
+      "name": "Patynhas Pet",
+      "number": "1143921889",
+      "address": "Av. José Odorizzi, 2117 - Parque dos Passaros, São Bernardo do Campo - SP, 09861-001",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2608,
+      "name": "Pet Shop Mundo Dos Bichos E Clinica Veterinária",
+      "number": "11952752310",
+      "address": "Av Nelson Mandela, 551 - Vila Sao Pedro, São Bernardo do Campo - SP, 09784-105",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2609,
+      "name": "BEST PET SHOP",
+      "number": "11930292183",
+      "address": "R. Marabá, 107 - Rudge Ramos, São Bernardo do Campo - SP, 09635-040",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2610,
+      "name": "BR PET STORE",
+      "number": "1141044363",
+      "address": "R. Heitor de Souza, 109 - Assunção, São Bernardo do Campo - SP, 09811-300",
+      "site": "http://www.brpetstore.com.br/"
+    },
+    {
+      "id_lead": 2611,
+      "name": "Hospital Veterinário Cão Bernardo",
+      "number": "1149304551",
+      "address": "Rua Municipal, 140 - Centro, São Bernardo do Campo - SP, 09710-210",
+      "site": "https://www.telelistas.net/locais/sp/sao+bernardo+do+campo/clinicas+e+hospitais+veterinarios/bu-19725603/hospital+veterinario+cao+bernardo+em+centro"
+    },
+    {
+      "id_lead": 2612,
+      "name": "Banho e tosa São Bernardo do Campo - Nosso Cantinho.c.t",
+      "number": "11982752841",
+      "address": "R. Ipê Rosa, 18 - Jardim Ipe, São Bernardo do Campo - SP, 09845-230",
+      "site": "https://www.instagram.com/nossocantinho.c.t?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+    },
+    {
+      "id_lead": 2613,
+      "name": "Pet Shop Dr. Hato Limitada",
+      "number": "1143367185",
+      "address": "R. Amparo, 29 - Baeta Neves, São Bernardo do Campo - SP, 09751-350",
+      "site": "https://www.drhato.com.br/unidades/lojavirtual/"
+    },
+    {
+      "id_lead": 2614,
+      "name": "Grand Palace Pet Unidade Paulicéia",
+      "number": "11988101576",
+      "address": "R. Francisco Alves, 321 - Paulicéia, São Bernardo do Campo - SP, 09692-000",
+      "site": "https://www.instagram.com/grandpalacepet/"
+    },
+    {
+      "id_lead": 2615,
+      "name": "Patas & Pelos Veterinária e Pet Shop",
+      "number": "11992857094",
+      "address": "R. do Oleoduto, 35 - Vila Sao Pedro, São Bernardo do Campo - SP, 09784-050",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2616,
+      "name": "Animal Feliz Banho e Tosa",
+      "number": "11986402586",
+      "address": "R. da Pátria, 207 - Santa Terezinha, São Bernardo do Campo - SP, 09780-190",
+      "site": "https://www.instagram.com/animalfelizz/"
+    },
+    {
+      "id_lead": 2617,
+      "name": "Pet Center São Caetano",
+      "number": "11947562764",
+      "address": "Estr. das Lágrimas, 1796 - Jardim Sao Caetano, São Caetano do Sul - SP, 09580-500",
+      "site": "http://www.petcentersaocaetano.com.br/"
+    },
+    {
+      "id_lead": 2618,
+      "name": "Pet Para Pets",
+      "number": "11932244775",
+      "address": "Rua Oswaldo Cruz, 189 - Santa Paula, São Caetano do Sul - SP, 09541-270",
+      "site": "http://www.petparapets.com.br/"
+    },
+    {
+      "id_lead": 2619,
+      "name": "Dog's Day - São Caetano",
+      "number": "1142329930",
+      "address": "R. Visc. de Inhaúma, 65 - Oswaldo Cruz, São Caetano do Sul - SP, 09571-000",
+      "site": "http://www.dogsday.com.br/"
+    },
+    {
+      "id_lead": 2620,
+      "name": "Anima Pets",
+      "number": "1123768107",
+      "address": "Av. Goiás, 313 - Santo Antônio, São Caetano do Sul - SP, 09521-310",
+      "site": "http://www.animapets.com.br/"
+    },
+    {
+      "id_lead": 2621,
+      "name": "Pet Shop Boa Vista & Clínica Veterinária",
+      "number": "1123769395",
+      "address": "R. Frieda, 15 - Boa Vista, São Caetano do Sul - SP, 09572-300",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2622,
+      "name": "Xodhó Centro Veterinário & Pet Shop",
+      "number": "11961680808",
+      "address": "R. São Paulo, 1317 - Santa Paula, São Caetano do Sul - SP, 09530-211",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2623,
+      "name": "Petland São Caetano do Sul",
+      "number": "1142244787",
+      "address": "Rua: Rafael Correa Sampaio, 879 - Santa Paula, São Caetano do Sul - SP, 09541-250",
+      "site": "http://www.petlandbrasil.com.br/"
+    },
+    {
+      "id_lead": 2624,
+      "name": "For Pet - Banho e Tosa e Pet Shop em São Caetano do Sul",
+      "number": "11994199000",
+      "address": "Alameda São Caetano, 2423 - Santa Maria, São Caetano do Sul - SP, 09070-210",
+      "site": "https://www.forpetsaocaetano.com.br/"
+    },
+    {
+      "id_lead": 2625,
+      "name": "Petlife São Caetano",
+      "number": "11950289537",
+      "address": "R. Amazonas, 1159 - Oswaldo Cruz, São Caetano do Sul - SP, 09520-070",
+      "site": "https://petlifesaocaetano.com.br/"
+    },
+    {
+      "id_lead": 2626,
+      "name": "Pet & Co - Consultório Veterinário e Banho e Tosa",
+      "number": "11976304312",
+      "address": "Rua Oswaldo Cruz, 1580 - Santa Paula, São Caetano do Sul - SP, 09540-280",
+      "site": "https://www.instagram.com/petco.sp/"
+    },
+    {
+      "id_lead": 2627,
+      "name": "Clínica Veterinária Lolo Pets",
+      "number": "11941901009",
+      "address": "Rua José Benedetti, 484 - Santo Antônio, São Caetano do Sul - SP, 09531-000",
+      "site": "https://www.instagram.com/lolopetsoficial/"
+    },
+    {
+      "id_lead": 2628,
+      "name": "Amanimal PetCare Clínica Veterinária e Creche Canina",
+      "number": "1123760621",
+      "address": "R. São Paulo, 872 - Cerâmica, São Caetano do Sul - SP, 09530-211",
+      "site": "http://amanimal.com.br/"
+    },
+    {
+      "id_lead": 2629,
+      "name": "Woofy - Pet Store & Estética Animal",
+      "number": "11937343837",
+      "address": "R. Monte Alegre, 208 - Santo Antônio, São Caetano do Sul - SP, 09531-110",
+      "site": "https://linktr.ee/WoofyPetStore?utm_source=linktree_profile_share&ltsid=d91bf28d-8538-4677-bb11-f4654fc07d30"
+    },
+    {
+      "id_lead": 2630,
+      "name": "Vida de Cão",
+      "number": "11940024260",
+      "address": "_R. Rafael Corrêa Sampaio, 456 - Santa Paula, São Caetano do Sul - SP, 09541-250",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2631,
+      "name": "São Francisco Pet Center",
+      "number": "11988100678",
+      "address": "Estr. das Lágrimas, 980 - Jardim Sao Caetano, São Caetano do Sul - SP, 09581-300 - Jardim, São Caetano do Sul - SP, 09581-300",
+      "site": "http://petsaofrancisco.com.br/"
+    },
+    {
+      "id_lead": 2632,
+      "name": "Boutique Pet Planet Dog ParkShopping São Caetano",
+      "number": "11989883397",
+      "address": "Alameda Terracota, 545 - 1079 - Cerâmica, São Caetano do Sul - SP, 09531-190",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2633,
+      "name": "Padaria Pet São Caetano",
+      "number": "11952390665",
+      "address": "R. Aquidaban, 301 - quiosque 10 - Fundação, São Caetano do Sul - SP, 09520-180",
+      "site": "https://www.instagram.com/padariapetsaocaetano/"
+    },
+    {
+      "id_lead": 2634,
+      "name": "Pet Store Galerinha Animal",
+      "number": "11940349839",
+      "address": "R. Tapajós, 779 - Barcelona, São Caetano do Sul - SP, 09551-230",
+      "site": "https://www.petstoregalerinhaanimal.com.br/"
+    },
+    {
+      "id_lead": 2635,
+      "name": "Veterinário à Domicílio em São Caetano do Sul | Luccão Veterinário",
+      "number": "11956640463",
+      "address": "R. Floriano Peixoto, 134 - Apartamento 103 - Santa Paula, São Caetano do Sul - SP, 09541-350",
+      "site": "https://www.luccao.com/"
+    },
+    {
+      "id_lead": 2636,
+      "name": "Centro Veterinário Animalis",
+      "number": "1143183330",
+      "address": "Av. Pres. Kennedy, 2145 - Santa Maria, São Caetano do Sul - SP, 09560-010",
+      "site": "https://www.instagram.com/animalisveterinaria/"
+    },
+    {
+      "id_lead": 2637,
+      "name": "Clínica Veterinária São Caetano",
+      "number": "11933545454",
+      "address": "R. Floriano Peixoto, 264 - Santa Paula, São Caetano do Sul - SP, 09541-350",
+      "site": "http://clinvetsaocaetano.com.br/"
+    },
+    {
+      "id_lead": 2638,
+      "name": "CanineCat",
+      "number": "11951176419",
+      "address": "R. Nove de Julho, 290 - Olímpico, São Caetano do Sul - SP, 09540-670",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2639,
+      "name": "Espaço ThamiVet e petshop",
+      "number": "11932119954",
+      "address": "R. Clemente Ferreira, 166 - Santo Antônio, São Caetano do Sul - SP, 09530-440",
+      "site": "http://www.instagram.com/thamivet"
+    },
+    {
+      "id_lead": 2640,
+      "name": "Petshop Estúdio Pet Fabi",
+      "number": "11941297990",
+      "address": "R. Ceará, 55 - Fundação, São Caetano do Sul - SP, 09520-420",
+      "site": "https://www.instagram.com/studio_pet_fabi_?igsh=MTBmdDdoZzVnZXJuMg=="
+    },
+    {
+      "id_lead": 2641,
+      "name": "Carrefour Hipermercado",
+      "number": "1130042222",
+      "address": "R. Aquidaban, s/n - Fundação, São Caetano do Sul - SP, 09520-180",
+      "site": "https://mercado.carrefour.com.br/?_gl=1*i0oi14*_gcl_au*NDQwMzMzNjUwLjE3NjE1NDU3OTM.*FPAU*NDQwMzMzNjUwLjE3NjE1NDU3OTM."
+    },
+    {
+      "id_lead": 2642,
+      "name": "Bable Pet - São Caetano do Sul",
+      "number": "1126294386",
+      "address": "Ao lado do Pão de Açúcar Minuto - Ao ladoPosto Ipiranga Leandrini - Estr. das Lágrimas, 1270 - Jardim Sao Caetano, São Caetano do Sul - SP, 09581-300",
+      "site": "https://bablepet.com.br/bable-pet-sao-caetano"
+    },
+    {
+      "id_lead": 2643,
+      "name": "PATA CHEIA - ARMAZÉM PET",
+      "number": "11983948662",
+      "address": "R. Antônio Garbeloto, 368 - Barcelona, São Caetano do Sul - SP, 09551-260",
+      "site": "https://www.meucomercio.com.br/patacheia"
+    },
+    {
+      "id_lead": 2644,
+      "name": "Petland Ipiranga",
+      "number": "11944472928",
+      "address": "R. Bom Pastor, 2177 - Ipiranga, São Paulo - SP, 04203-052",
+      "site": "http://www.instagram.com/petland.ipiranga"
+    },
+    {
+      "id_lead": 2645,
+      "name": "Doug Pet Care | São Caetano do Sul",
+      "number": "11975585468",
+      "address": "R. Matilde, 27 - Jardim Sao Caetano, São Caetano do Sul - SP, 09581-350",
+      "site": "https://www.instagram.com/doug_pet_care/"
+    },
+    {
+      "id_lead": 2646,
+      "name": "Chanelle Pet Boutique",
+      "number": "1123762206",
+      "address": "Rua José Benedetti, 234 - Santo Antônio, São Caetano do Sul - SP, 09531-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2647,
+      "name": "Alp Centro Estético Animal",
+      "number": "11937375992",
+      "address": "R. Flórida, 729 - Barcelona, São Caetano do Sul - SP, 09551-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2648,
+      "name": "Cantinho Do Banho Mon Petit",
+      "number": "1142261396",
+      "address": "R. Maceió, 811 - Barcelona, São Caetano do Sul - SP, 09551-030",
+      "site": "https://api.whatsapp.com/send/?phone=5511965869858&text&app_absent=0"
+    },
+    {
+      "id_lead": 2649,
+      "name": "Vetnasa São Caetano do Sul 24 horas - Clínica Veterinária 24h",
+      "number": "1123767558",
+      "address": "Av. Goiás, 315 - Santo Antônio, São Caetano do Sul - SP, 09521-300",
+      "site": "http://www.vetnasa.com.br/"
+    },
+    {
+      "id_lead": 2650,
+      "name": "Eco Club Pet Resort",
+      "number": "1142242551",
+      "address": "Av. Sen. Roberto Símonsen, 1278 - Santo Antônio, São Caetano do Sul - SP, 09530-401",
+      "site": "http://www.ecoclubpet.com.br/"
+    },
+    {
+      "id_lead": 2651,
+      "name": "Skin Pets - Pet Shop",
+      "number": "1142381018",
+      "address": "Av. Pres. Kennedy, 3096 - Boa Vista, São Caetano do Sul - SP, 09572-200",
+      "site": "https://skinpets.com.br/"
+    },
+    {
+      "id_lead": 2652,
+      "name": "Patas Preciosas",
+      "number": "11985841626",
+      "address": "R. Piratininga, 341 - Barcelona, São Caetano do Sul - SP, 09550-160",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2653,
+      "name": "Shiba Pet Care",
+      "number": "11969440495",
+      "address": "Av. Tijucussú, 130 - Olímpico, São Caetano do Sul - SP, 09540-700",
+      "site": "https://shiba-petcare.netlify.app/"
+    },
+    {
+      "id_lead": 2654,
+      "name": "Acquaterapia Peixes Ornamentais",
+      "number": "11949973666",
+      "address": "Sam's Club - Av. Conde Francisco Matarazzo, 838 - 10 - Fundação, São Caetano do Sul - SP, 09520-110",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2655,
+      "name": "Pets House",
+      "number": "1142342384",
+      "address": "Av. Goiás, 269 - Santo Antônio, São Caetano do Sul - SP, 09521-310",
+      "site": "https://instagram.com/_petshouse"
+    },
+    {
+      "id_lead": 2656,
+      "name": "Family Pet e Vet",
+      "number": "11910581430",
+      "address": "R. Manoel Augusto Ferreirinha, 818 - Nova Gerti, São Caetano do Sul - SP, 09580-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2657,
+      "name": "Donruizpetshop",
+      "number": "11930319730",
+      "address": "R. Rafael Corrêa Sampaio, 705 - Santo Antônio, São Caetano do Sul - SP, 09541-250",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2658,
+      "name": "Pet Shop Karamelo",
+      "number": "11924987673",
+      "address": "R. Guia Lopes, 27 - Osvaldo Cruz, São Caetano do Sul - SP, 09571-050",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2659,
+      "name": "Mundi Pet Shop e Estética Animal",
+      "number": "1143186015",
+      "address": "R. Vinte e Oito de Julho, 199 - Fundação, São Caetano do Sul - SP, 09520-610",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2660,
+      "name": "Sino's Pet",
+      "number": "11915271418",
+      "address": "R. Piratininga - Santa Paula, São Caetano do Sul - SP, 09550-160",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2661,
+      "name": "Pet Boutique Daju",
+      "number": "11948924966",
+      "address": "Rua Pirajú - Olímpico, São Caetano do Sul - SP, 09570-050",
+      "site": "http://www.petboutiquedaju.com.br/"
+    },
+    {
+      "id_lead": 2662,
+      "name": "Leo's Pet Shop",
+      "number": "11968465357",
+      "address": "Praça 10 de Agosto, 25 - Centro, São Lourenço da Serra - SP, 06890-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2663,
+      "name": "Centro Médico Veterinário",
+      "number": "1146864952",
+      "address": "R. João Paes - Centro, São Lourenço da Serra - SP, 06890-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2664,
+      "name": "Comercio de Rações São Lourenço",
+      "number": "11956702336",
+      "address": "Av. Evaristo Delfino Pinto, 610 - Centro, São Lourenço da Serra - SP, 06890-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2665,
+      "name": "Casa Agricola Delfino- Loja autorizada STIHL",
+      "number": "1146861439",
+      "address": "Av. Evaristo Delfino Pinto, 777 - Centro, São Lourenço da Serra - SP, 06890-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2666,
+      "name": "Pet shop Au que mia",
+      "number": "11920553826",
+      "address": "R. João Paes, 64 - Centro, São Lourenço da Serra - SP, 06890-000",
+      "site": "https://www.instagram.com/au.que.mia.pets?igsh=MTd4aGh3dmhiNmRvOA=="
+    },
+    {
+      "id_lead": 2667,
+      "name": "Parada do Pet - banho e Tosa da Josy",
+      "number": "11955865583",
+      "address": "R. Roberto Fadlo Daher, 252 - Centro, São Lourenço da Serra - SP, 06890-000",
+      "site": "https://www.instagram.com/paradapetcremm/"
+    },
+    {
+      "id_lead": 2668,
+      "name": "MONTANA AGRO SHOP LTDA",
+      "number": "11970680529",
+      "address": "R. Oredo Pinto Ribeiro, 152 - Galpão 01 - Jardim Serrano, São Lourenço da Serra - SP, 06890-000",
+      "site": "https://www.montanaagroshop.com.br/"
+    },
+    {
+      "id_lead": 2669,
+      "name": "M&S Ração Shangrilá",
+      "number": "11950800352",
+      "address": "Estr. do Shangrilá, 111 - Paiol do Meio, São Lourenço da Serra - SP, 06950-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2670,
+      "name": "PET SHOP BANHO E TOSA AMOR POR PET",
+      "number": "35998822369",
+      "address": "Rua José semiao Dutra, 1475 - Nossa senhora de Lourdes, São Lourenço - MG, 37470-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2671,
+      "name": "Casa dos pássaros Xavier",
+      "number": "11992860204",
+      "address": "R. Roberto Fadlo Daher, 94 - Centro, São Lourenço da Serra - SP, 06890-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2672,
+      "name": "Focinhos Banho e Tosa",
+      "number": "11970564775",
+      "address": "Av. Santa Rita, 52 - Centro, São Roque - SP, 18130-675",
+      "site": "https://instagram.com/focinhossr?igshid=MzNlNGNkZWQ4Mg=="
+    },
+    {
+      "id_lead": 2673,
+      "name": "Cão Roque Beauty Banho e Tosa",
+      "number": "1147844782",
+      "address": "R. José Henrique da Costa, 215 - Jardim Bela Vista, São Roque - SP, 18134-190",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2674,
+      "name": "GARRAS & PEGADAS PET SHOP BOUTIQUE",
+      "number": "1147128213",
+      "address": "R. Pedro Vaz, 94 - Centro, São Roque - SP, 18130-490",
+      "site": "https://www.facebook.com/petshopgarrasepegadas"
+    },
+    {
+      "id_lead": 2675,
+      "name": "Casa de Ração Na Pets e Banho Tosa",
+      "number": "1124287098",
+      "address": "Av. Anhanguera, 60 - Jardim Bandeirantes, São Roque - SP, 18134-240",
+      "site": "https://wa.me/message/RBIZEPWUFTWOH1"
+    },
+    {
+      "id_lead": 2676,
+      "name": "Cão Chic",
+      "number": "1147125540",
+      "address": "R. Rui Barbosa, 615 - Centro, São Roque - SP, 18130-440",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2677,
+      "name": "Clínica Veterinária Animale 24H - Unidade São Roque",
+      "number": "11950749408",
+      "address": "R. Matias Leme de Barros, 109 - Centro, São Roque - SP, 18130-130",
+      "site": "https://animalevet.com.br/"
+    },
+    {
+      "id_lead": 2678,
+      "name": "S.t Dog's Pet Shop",
+      "number": "11941270089",
+      "address": "Gabriel Piza - R. Júlio Salvetti, 22 - Parque Primavera, São Roque - SP, 18135-580",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2679,
+      "name": "Bellas Patas",
+      "number": "1139845293",
+      "address": "R. João Roque, 27 - Imirim, São Paulo - SP, 02472-000",
+      "site": "https://instagram.com/bellaspatas_petshop"
+    },
+    {
+      "id_lead": 2680,
+      "name": "PET HOUSE",
+      "number": "11978639191",
+      "address": "R. Tomás Antônio Gonzaga, 62 - Paisagem Colonial, São Roque - SP, 18136-700",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2681,
+      "name": "São Roque Pet Hotel",
+      "number": "11911903113",
+      "address": "R. Padre Marçal, 99 - Centro, São Roque - SP, 18130-100",
+      "site": "https://instagram.com/saoroquehotelpet?igshid=OGQ5ZDc2ODk2ZA=="
+    },
+    {
+      "id_lead": 2682,
+      "name": "Stop Dog's",
+      "number": "1147843111",
+      "address": "18130-100, R. Padre Marçal, 239-317 - Centro, São Roque - SP, 18130-100",
+      "site": "https://www.facebook.com/Stop-Dogs-103095225269894/"
+    },
+    {
+      "id_lead": 2683,
+      "name": "Petnês",
+      "number": "11988680638",
+      "address": "Av. Gérson Nastri, 310 - Vila Santa Rita, São Roque - SP, 18130-700",
+      "site": "https://instagram.com/petnes_"
+    },
+    {
+      "id_lead": 2684,
+      "name": "Amigo Pet SR",
+      "number": "11974755396",
+      "address": "R. Santa Quitéria, 955 - Vila Irene, São Roque - SP, 18132-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2685,
+      "name": "Tinella Pet Store Venda de Filhotes",
+      "number": "11939325286",
+      "address": "Rua São Francisco,335, Estr. do Vinho (Spv-077), 18135, São Roque - SP, 18135-280",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2686,
+      "name": "Cantinho Pet",
+      "number": "1147124932",
+      "address": "R. São Paulo, 807 - Centro, São Roque - SP, 18135-125",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2687,
+      "name": "Society Pet Shop",
+      "number": "1147123545",
+      "address": "R. Prof. Tibério Justo da Silva, 485 - 5 - Jardim Florida, São Roque - SP, 18130-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2688,
+      "name": "101 Patas Estética Animal",
+      "number": "11994058114",
+      "address": "R. Manuel de Oliveira Pessoa Júnior, 147 - Mandaqui, São Paulo - SP, 02471-220",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2689,
+      "name": "Alto da Serra Canil",
+      "number": "11961894744",
+      "address": "Estr. Taipas de Pedra, 2640 - Alto da Serra, São Roque - SP, 18143-420",
+      "site": "https://www.altodaserracanil.com.br/"
+    },
+    {
+      "id_lead": 2690,
+      "name": "Mercado Estrela Zhang",
+      "number": "11949180504",
+      "address": "R. João Roque, 52 - Imirim, São Paulo - SP, 02472-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2691,
+      "name": "VilaDog São Roque",
+      "number": "11912196627",
+      "address": "Av. São Luíz, 720 - Jardim Villaca, São Roque - SP, 18135-150",
+      "site": "https://www.instagram.com/viladogsaoroque/"
+    },
+    {
+      "id_lead": 2692,
+      "name": "Bempet - Creche, Veterinária e Estética",
+      "number": "11919364919",
+      "address": "Av. Três de Maio, 573 - Jardim Maria Trindade, São Roque - SP, 18133-445",
+      "site": "https://www.bempetsr.com.br/"
+    },
+    {
+      "id_lead": 2693,
+      "name": "Hotel Pet Village",
+      "number": "1147122374",
+      "address": "R. da Rancharia, 276 - Vinhedos, São Roque - SP, 18136-656",
+      "site": "https://hotelpetvillagesr.com.br/"
+    },
+    {
+      "id_lead": 2694,
+      "name": "Agropec Brasil l Casa de Ração l Pet Shop",
+      "number": "11917837225",
+      "address": "R. Sotero de Souza, 136 - Centro, São Roque - SP, 18130-200",
+      "site": "https://bit.ly/WhatsappAgropec"
+    },
+    {
+      "id_lead": 2695,
+      "name": "Vila Don Patto",
+      "number": "1147113001",
+      "address": "Estrada do Vinho, KM 2,5 - Jardim Villaca, São Roque - SP, 18145-002",
+      "site": "http://infinitta.link/viladonpatto"
+    },
+    {
+      "id_lead": 2696,
+      "name": "Villa Pet - Clínica Veterinária e Banho & Tosa",
+      "number": "11975192309",
+      "address": "Praça da Republica, 31 - Centro, São Roque - SP, 18130-365",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2697,
+      "name": "Agrocat",
+      "number": "1147122058",
+      "address": "Av. Antônino Dias Bastos, 1191 - Centro, São Roque - SP, 18130-351",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2698,
+      "name": "🐶 Rabiscão Pet Shop",
+      "number": "11966454985",
+      "address": "R. Amador Bueno, 68 - Centro, São Roque - SP, 18130-320",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2699,
+      "name": "Animed",
+      "number": "11932282893",
+      "address": "R. Dr. José Brenha Ribeiro, 86 - Centro, São Roque - SP, 18130-495",
+      "site": "https://instagram.com/clinicanimed?igshid=NmNmNjAwNzg="
+    },
+    {
+      "id_lead": 2700,
+      "name": "Flabo Agro e Pet - Loja de ração em São Roque",
+      "number": "11974223339",
+      "address": "Rua Dr. Durval Villaça, 523 - Jardim Villaca, São Roque - SP, 18135-180",
+      "site": "https://linkr.bio/5pk9"
+    },
+    {
+      "id_lead": 2701,
+      "name": "Casa & Cia Utilidades",
+      "number": "1147122003",
+      "address": "Av. Antônino Dias Bastos, 577 - Centro, São Roque - SP, 18132-000",
+      "site": "https://www.facebook.com/casaeciautilidades"
+    },
+    {
+      "id_lead": 2702,
+      "name": "AGRO UNIÃO PETSHOP",
+      "number": "11967173218",
+      "address": "R. Faustina Maria das Dores, 81 - São João Novo, São Roque - SP, 18140-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2703,
+      "name": "Reino Animal SW",
+      "number": "11933164331",
+      "address": "Rodovia Prefeito Quintino de Lima, 356 - Jardim Conceicao, São Roque - SP, 18136-540",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2704,
+      "name": "Pet KX",
+      "number": "11971103300",
+      "address": "R. Prof. Alino de Oliveira, 76 - Loja 3 - Centro, São Roque - SP, 18130-475",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2705,
+      "name": "Policlínica Veterinária Alto da Serra",
+      "number": "1147140773",
+      "address": "Rod. Raposo Tavares, 50 - Taboão, São Roque - SP, 18135-135",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2706,
+      "name": "Agromais agropecuaria",
+      "number": "1147129396",
+      "address": "Av. São Luíz, 384 - Jardim Villaca, São Roque - SP, 18135-150",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2707,
+      "name": "São RoCÃO banho e tosa",
+      "number": "11942730629",
+      "address": "R. Faustino Henrique da Costa, 65 - Jardim Brasil, São Roque - SP, 18133-190",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2708,
+      "name": "Centro Veterinário Pierroni Dias",
+      "number": "1147842759",
+      "address": "Av. Três de Maio, 789 - Jardim Bela Vista, São Roque - SP, 18134-300",
+      "site": "https://www.centervetsr.com.br/"
+    },
+    {
+      "id_lead": 2709,
+      "name": "Agrosrocha SR",
+      "number": "11983872951",
+      "address": "R. Amador Bueno, 98 - Centro, São Roque - SP, 18130-320",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2710,
+      "name": "Clinica Veterinária São Roque",
+      "number": "1147843075",
+      "address": "Av. Brasil, 129 - São Roque, SP, 18130-485",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2711,
+      "name": "Pet Nina",
+      "number": "11995546841",
+      "address": "Rua Carmelina crem de Aguiar, 56 Rua Carmelina crem 56 - Vila Aguiar, São Roque - SP, 18130-650",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2712,
+      "name": "Cãoguera Casa de Ração e Matérias de Construção- São Roque",
+      "number": "11973051090",
+      "address": "Zap (15, 99857.2770 - Canguera, São Roque - SP, 18145-022",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2713,
+      "name": "Fashion Dog",
+      "number": "1147129252",
+      "address": "R. São Paulo - Taboão, São Roque - SP, 18135-125",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2714,
+      "name": "Casa de Rações Guaçu",
+      "number": "11996214251",
+      "address": "R. das Laranjeiras, 65 - Jardim Guacu, São Roque - SP, 18132-500",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2715,
+      "name": "Recanto da Cascata",
+      "number": "1147849630",
+      "address": "Av. Antônio Maria Picena, 34 - Vila Junqueira, São Roque - SP, 18130-010",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2716,
+      "name": "Thänks Brewing Co. - Cervejaria e Brewpub",
+      "number": "1151999250",
+      "address": "R. Bento Antônio Pereira, 236 - Jardim Bela Vista, São Roque - SP, 18134-180",
+      "site": "https://www.thanksbrewing.com.br/"
+    },
+    {
+      "id_lead": 2717,
+      "name": "Duckbill Cookies & Coffee",
+      "number": "11992871367",
+      "address": "R. Marino Camurça, 33 - Centro, São Roque - SP, 18130-515",
+      "site": "https://www.instagram.com/duckbill.saoroque/"
+    },
+    {
+      "id_lead": 2718,
+      "name": "Dogs Wash Banho e Tosa",
+      "number": "11998389460",
+      "address": "R. Prof. Joaquim de Oliveira - Centro, São Roque - SP, 18130-140",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2719,
+      "name": "Casa de Ração São Roque- disque entrega",
+      "number": "11975023132",
+      "address": "R. Martin Afonso de Souza, 200 - Paisagem Colonial, São Roque - SP, 18136-600",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2720,
+      "name": "TUDO DE PET",
+      "number": "1124281506",
+      "address": "R. São Paulo, 235 - Centro, São Roque - SP, 18130-120",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2721,
+      "name": "Surreal Petstética - Produtos para Banho e Tosa da Surreal Pet",
+      "number": "27933003203",
+      "address": "Av.Brigadeiro Faria Lima, 1451 - Jardim Cocaia, Guarulhos - SP, 07130-000",
+      "site": "https://surrealpet.com.br/"
+    },
+    {
+      "id_lead": 2722,
+      "name": "Agropecuária Maylasky",
+      "number": "1147141405",
+      "address": "R. Luís Mateus Mailasqui, 313 - Centro (Mailasqui), São Roque - SP, 18143-040",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2723,
+      "name": "Quero Quero Sorvetes",
+      "number": "1147125669",
+      "address": "R. América, 137 - Vila Aguiar, São Roque - SP, 18130-580",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2724,
+      "name": "Altenburg Outlet São Roque",
+      "number": "11941514556",
+      "address": "R. 22 de Abril, 24 - Jardim Rene, São Roque - SP, 18135-000",
+      "site": "https://crm.altenburg.com.br/altenburg-outlet-sao-roque?utm_source=meu_negocio&utm_medium=organic&utm_campaign=SP-Sao-Roque&utm_content=OTSR"
+    },
+    {
+      "id_lead": 2725,
+      "name": "Pet Peixe Aquarismo - Loja Online",
+      "number": "11914647405",
+      "address": "R. Atenor Ferreira Campos - Mailasqui, São Roque - SP, 18143-697",
+      "site": "https://shopee.com.br/petpeixe_aquarismo"
+    },
+    {
+      "id_lead": 2726,
+      "name": "Sonho Meu Criadouro de Aves Ornamentais",
+      "number": "11991150065",
+      "address": "Estr. do Trânsito - Canguera, São Roque - SP, 18145-657",
+      "site": "https://www.sonhomeucriadouro.com.br/"
+    },
+    {
+      "id_lead": 2727,
+      "name": "El Barracon, Rações, Medicamentos e Agropecuária",
+      "number": "11997911319",
+      "address": "Av. Três de Maio, 326 - Parque IX de Julho, São Roque - SP, 18134-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2728,
+      "name": "Agromais Agropecuaria Guaçu",
+      "number": "1147123257",
+      "address": "Rua Jamila Abumanssur Mana, 440 - Jardim Guacu, São Roque - SP, 18132-620",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2729,
+      "name": "Estilla Destilaria e Cervejaria",
+      "number": "1147111631",
+      "address": "Estr. do Vinho (Spv-077), Km 4 - Sorocamirim, São Roque - SP, 18145-002",
+      "site": "http://www.estilla.com.br/"
+    },
+    {
+      "id_lead": 2730,
+      "name": "Vet+Vida Clínica Veterinária",
+      "number": "11972059451",
+      "address": "Av. Dezesseis de Agosto, 16 - Vila Junqueira, São Roque - SP, 18136-060",
+      "site": "http://www.vetvidasr.com.br/"
+    },
+    {
+      "id_lead": 2731,
+      "name": "Upvet São Roque - Farmácia de Manipulação Veterinária",
+      "number": "1124284655",
+      "address": "Av. Brasil, 200 - sala 13 - Centro, São Roque - SP, 18133-485",
+      "site": "https://www.upvetsaoroque.com.br/"
+    },
+    {
+      "id_lead": 2732,
+      "name": "Quinta do Olivardo",
+      "number": "11988563222",
+      "address": "Estr. do Vinho (Spv-077), S/N - Sorocamirim, São Roque - SP, 18145-002",
+      "site": "http://www.quintadoolivardo.com.br/"
+    },
+    {
+      "id_lead": 2733,
+      "name": "Canil Illimani Pastor Australiano",
+      "number": "11986906908",
+      "address": "R. Ver. Nelson Sebben, 252 - Vila Darci Penteado, São Roque - SP, 18143-867",
+      "site": "http://canilillimani.com.br/"
+    },
+    {
+      "id_lead": 2734,
+      "name": "Equi pharm São Roque.",
+      "number": "11998682185",
+      "address": "R. Santa Quitéria, 795 - Vila Irene, São Roque - SP, 18132-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2735,
+      "name": "Leroy Merlin Marginal Tietê",
+      "number": "1140205376",
+      "address": "Av. Pres. Castelo Branco, 6061 - Parque Res. da Lapa, São Paulo - SP, 05034-000",
+      "site": "https://www.leroymerlin.com.br/mais/marginal-tiete-p.html"
+    },
+    {
+      "id_lead": 2736,
+      "name": "Leve Hortifruti",
+      "number": "1147135412",
+      "address": "R. Benjamin Constant, 149 - Centro, São Roque - SP, 18370-370",
+      "site": "http://www.levehortifruti.com.br/home"
+    },
+    {
+      "id_lead": 2737,
+      "name": "Cia Dog",
+      "number": "1138362776",
+      "address": "Rua Brigadeiro Henrique Fontenelle, 695 - Parque Sao Domingos, São Paulo - SP, 05125-000",
+      "site": "https://www.lojalocal.com/pets/73160632000196"
+    },
+    {
+      "id_lead": 2738,
+      "name": "Empório Vinhos Santa Cecília",
+      "number": "1147844404",
+      "address": "Estrada. do Vinho Km1, Estr. Velha de Gabriel Pizá, São Roque - SP, 18145-002",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2739,
+      "name": "Maronasa Pet & Construção",
+      "number": "11988865412",
+      "address": "Rodovia Prefeito Quintino de Lima, 318 - KM 5 - São Roque, SP, 02855-270",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2740,
+      "name": "Agrovida rações",
+      "number": "11971290054",
+      "address": "R. Padre Anchieta - Esplanada Mendes Moraes, São Roque - SP, 18130-720",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2741,
+      "name": "Casa De Rações Bonanza",
+      "number": "1147121609",
+      "address": "Av. Três de Maio, 988 - Parque IX de Julho, São Roque - SP, 18133-445",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2742,
+      "name": "Benevet Veterinaria",
+      "number": "1147127774",
+      "address": "Av. Brasil, 138 - Centro, São Roque - SP, 18130-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2743,
+      "name": "Don Crêpe",
+      "number": "11963790360",
+      "address": "Av. Bandeirantes, 361 - Jardim Bandeirantes, São Roque - SP, 18134-220",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2744,
+      "name": "DSR AgroVet",
+      "number": "11992042529",
+      "address": "Av. Santa Rita, 135 - Vila Santa Rita, São Roque - SP, 18130-675",
+      "site": "http://www.dsragrovet.com.br/"
+    },
+    {
+      "id_lead": 2745,
+      "name": "Bouticão Top Dog",
+      "number": "11998031825",
+      "address": "Av. Antônino Dias Bastos, 747 - Vila Irene, São Roque - SP, 18130-351",
+      "site": "https://www.bouticaotopdog.com.br/contato/"
+    },
+    {
+      "id_lead": 2746,
+      "name": "Sacolao Taboao",
+      "number": "1547122671",
+      "address": "R. São Paulo, 1259 - Centro, São Roque - SP, 18135-125",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2747,
+      "name": "Agro São Roque",
+      "number": "11994342968",
+      "address": "R. Maria Augusta Ferreira - São Roque, SP, 18132-653",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2748,
+      "name": "Pet Center Fiore",
+      "number": "11985788358",
+      "address": "Rua Miguel Rachid, 493 - Ermelino Matarazzo, São Paulo - SP, 03808-130",
+      "site": "https://www.petcenterfiore.com.br/"
+    },
+    {
+      "id_lead": 2749,
+      "name": "Supermercado CZ",
+      "number": "1147126000",
+      "address": "Av. Três de Maio, 983 - Jardim Maria Trindade, São Roque - SP, 18133-445",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2750,
+      "name": "AGRO AGUIA REAL",
+      "number": "11956669309",
+      "address": "R. Águia Real, 25 - Jardim Carambei, São Roque - SP, 18132-250",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2751,
+      "name": "Vinícola Casa da Árvore",
+      "number": "11996201212",
+      "address": "Rodovia Prefeito Quintino de Lima, km 1,5 - Jardim Conceicao, São Roque - SP, 18136-540",
+      "site": "http://vinicolacasadaarvore.com.br/"
+    },
+    {
+      "id_lead": 2752,
+      "name": "Petland Itararé",
+      "number": "1333561318",
+      "address": "Av. Presidente Wilson, 466 - Itararé, São Vicente - SP, 11320-001",
+      "site": "https://www.instagram.com/petland.itarare/"
+    },
+    {
+      "id_lead": 2753,
+      "name": "CENTRAL PET - Petshop em São Vicente",
+      "number": "1333955770",
+      "address": "Av. Capitão-Mor Aguiar, 277 - Centro, São Vicente - SP, 11310-201",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2754,
+      "name": "MUNDO ANIMAL SV",
+      "number": "1335613500",
+      "address": "Av. Antônio Emmerich, 810 - Vila Sao Jorge, São Vicente - SP, 11370-001",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2755,
+      "name": "Vida Animal Centro Médico",
+      "number": "13996452920",
+      "address": "Av. Irmã Dolores, 282 - Jardim Irmã Dolores, São Vicente - SP, 11347-520",
+      "site": "http://www.vidaanimalcentromedico.com.br/"
+    },
+    {
+      "id_lead": 2756,
+      "name": "Club Pet - Pet Shop",
+      "number": "13997583560",
+      "address": "R. João Ramalho, 259 - Centro, São Vicente - SP, 11310-050",
+      "site": "https://www.instagram.com/clubpetsv/"
+    },
+    {
+      "id_lead": 2757,
+      "name": "Pets Baracho | PetShop em São Vicente | Rações | Cães e Gatos | Acessórios | Medicamentos",
+      "number": "13997390720",
+      "address": "Av. Sen. Salgado Filho, 115 - Parque Sao Vicente, São Vicente - SP, 11360-200",
+      "site": "https://www.instagram.com/petsbaracho/"
+    },
+    {
+      "id_lead": 2758,
+      "name": "Pets Baracho | PetShop em São Vicente | Rações | Cães e Gatos | Acessórios | Medicamentos | Brinquedos Pet",
+      "number": "13988708087",
+      "address": "R. Prof. Antônio Pedro de Jesus, 311 - Esplanada dos Barreiros, São Vicente - SP, 11340-230",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2759,
+      "name": "Casa dos Animais Veterinária & Pet Shop",
+      "number": "1334696096",
+      "address": "Av. Marechal Deodoro, 1123 - Vila Valenca, São Vicente - SP, 11390-100",
+      "site": "http://www.casadosanimais24h.com.br/"
+    },
+    {
+      "id_lead": 2760,
+      "name": "Pet Shop Piquitucho São Vicente",
+      "number": "1333797075",
+      "address": "Av. Prefeito José Monteiro, 438 - Jardim Independencia, São Vicente - SP, 11380-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2761,
+      "name": "Pet Shop Moderna",
+      "number": "1334639867",
+      "address": "R. Frei Gaspar, 3187/3195 - 3187/3195 - Cidade Náutica, São Vicente - SP, 11350-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2762,
+      "name": "Petland Mexicão",
+      "number": "1333049938",
+      "address": "Av. Capitão-Mor Aguiar, 483 - Centro, São Vicente - SP, 11310-201",
+      "site": "https://wa.me/5513997287070?text=Ol%C3%A1%20vi%20sua%20empresa%20no%20Google%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es!!!"
+    },
+    {
+      "id_lead": 2763,
+      "name": "Dogs Day - São Vicente",
+      "number": "1333047594",
+      "address": "R. Jacob Emmerich, 689 - Centro, São Vicente - SP, 11310-070",
+      "site": "https://www.dogsday.com.br/"
+    },
+    {
+      "id_lead": 2764,
+      "name": "Petshop Catarina",
+      "number": "13991078183",
+      "address": "R. Lourival Moreira do Amaral, 958 - Parque Sao Vicente, São Vicente - SP, 11365-100",
+      "site": "https://pet-shop-mu-murex.vercel.app/"
+    },
+    {
+      "id_lead": 2765,
+      "name": "Picharro Pet Shop",
+      "number": "1335643504",
+      "address": "Av. Dr. José Singer, 129 - Conjunto Residencial Humaitá, São Vicente - SP, 11349-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2766,
+      "name": "Mega Animais Petshop São Vicente",
+      "number": "1334694749",
+      "address": "Av. Penedo, 85 A - Catiapoã, São Vicente - SP, 11370-400",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2767,
+      "name": "Clínica Veterinária My Pet Home Care",
+      "number": "13997798742",
+      "address": "Av. Antônio Emmerich, 841 - Vila Cascatinha, São Vicente - SP, 11390-000",
+      "site": "http://www.mypethomecare.com.br/"
+    },
+    {
+      "id_lead": 2768,
+      "name": "SDPET CENTRO DE ESTETICA ANIMAL E PET SHOP",
+      "number": "1333560223",
+      "address": "Av. Antônio Rodrigues, 88 - LJ 1 - Boa Vista, São Vicente - SP, 11320-410",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2769,
+      "name": "Doguitus Banho Tosa e Pet Shop",
+      "number": "13996260292",
+      "address": "Pr. Matteo Bei, 239 - Loja 5 - Jóquei Club, São Vicente - SP, 11360-260",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2770,
+      "name": "Villa PetShop",
+      "number": "1334662628",
+      "address": "R. Cândido Rodrigues, 32 - Centro, São Vicente - SP, 11320-050",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2771,
+      "name": "Pet Club São Vicente",
+      "number": "13981485080",
+      "address": "R. Antônio Frederico Ozanan, 319 - Centro, São Vicente - SP, 11310-150",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2772,
+      "name": "PET da ILHA",
+      "number": "1333954301",
+      "address": "R. Saldanha da Gama, 76 - Itararé, São Vicente - SP, 11320-180",
+      "site": "https://www.instagram.com/petdailha"
+    },
+    {
+      "id_lead": 2773,
+      "name": "Paraíso dos animais",
+      "number": "1334668876",
+      "address": "R. Expedicionários Vicentinos, 74 - Centro, São Vicente - SP, 11310-510",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2774,
+      "name": "Pet Star",
+      "number": "1334673848",
+      "address": "R. Freitas Guimarães, 368 - Itararé, São Vicente - SP, 11320-080",
+      "site": "https://m.facebook.com/clinicavetpetstar/?locale2=pt_BR"
+    },
+    {
+      "id_lead": 2775,
+      "name": "Casa de Ração Pet Brown",
+      "number": "13974057087",
+      "address": "R. Frei Gaspar, 1722 - Parque Sao Vicente, São Vicente - SP, 11340-000",
+      "site": "https://wa.me/5513974057087"
+    },
+    {
+      "id_lead": 2776,
+      "name": "Clinica Veterinaria e Pet Shop Happy Pet - Dra Elaine Tonetti especialista em Cannabis medicinal",
+      "number": "1335681616",
+      "address": "R. Messia Assú, 534 - Itararé, São Vicente - SP, 11320-130",
+      "site": "https://www.instagram.com/happy_pet_sv/"
+    },
+    {
+      "id_lead": 2777,
+      "name": "Petshop Cachorrão",
+      "number": "13974180479",
+      "address": "Av. Mal. Humberto de Alencar Castelo Branco, 439 - Cidade Náutica, São Vicente - SP, 11355-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2778,
+      "name": "Pet shop Gabriele",
+      "number": "1335642303",
+      "address": "Av. Ver. Walter Melarato, 392 - Parque Continental, São Vicente - SP, 11348-100",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2779,
+      "name": "Cães & Gatos24horas",
+      "number": "13997547353",
+      "address": "Av. Antônio Emmerich, 1648 - Vila Sao Jorge, São Vicente - SP, 11370-000",
+      "site": "https://lp.caesegatos24horas.com.br/"
+    },
+    {
+      "id_lead": 2780,
+      "name": "Eros Pet Care",
+      "number": "1333881513",
+      "address": "R. José Bonifácio, 185 - Centro, São Vicente - SP, 11310-080",
+      "site": "https://www.erospetcareveterinaria.com.br/"
+    },
+    {
+      "id_lead": 2781,
+      "name": "Pet Shop Picharro",
+      "number": "1335666051",
+      "address": "Av. Dep. Ulisses Guimarães - Jardim Rio Branco, São Vicente - SP, 11347-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2782,
+      "name": "Focinhos e Rabinhos | Clínica Veterinária em São Vicente | Banho e Tosa",
+      "number": "1335612005",
+      "address": "Av. Antônio Emmerich, 1210 - Vila Sao Jorge, São Vicente - SP, 11370-000",
+      "site": "https://sites.google.com/view/focinhoserabinhos/"
+    },
+    {
+      "id_lead": 2783,
+      "name": "Casa Pupi Rações & Cia",
+      "number": "13996122450",
+      "address": "R. Guarany, n° 480 - Parque Sao Vicente, São Vicente - SP, 11360-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2784,
+      "name": "Avicultura Andorinha",
+      "number": "1334689059",
+      "address": "R. Marquês de São Vicente, 821 - Parque Bitaru, São Vicente - SP, 11330-185",
+      "site": "https://www.lojalocal.com/pets/13697014000158"
+    },
+    {
+      "id_lead": 2785,
+      "name": "Veterinary clinic Guarany",
+      "number": "1334675189",
+      "address": "R. Guarany, 350 - Parque Sao Vicente, São Vicente - SP, 11360-000",
+      "site": "https://www.lojalocal.com/pets/06791434000133"
+    },
+    {
+      "id_lead": 2786,
+      "name": "PET SHOP CASA PITA",
+      "number": "1334616003",
+      "address": "R. Mal. Mascarenhas de Moraes, 1330 - Vila Margarida, São Vicente - SP, 11330-000",
+      "site": "https://www.instagram.com/casa_pitapet/"
+    },
+    {
+      "id_lead": 2787,
+      "name": "Pet Shop Beira Mar",
+      "number": "1335683090",
+      "address": "R. Manoel Rodrigues de Moraes, 05 - Beira Mar, São Vicente - SP, 11340-090",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2788,
+      "name": "Pet Shop Esteticão",
+      "number": "1334682422",
+      "address": "Rua Padre Anchieta, 613 - Centro, São Vicente - SP, 11310-040",
+      "site": "https://petshopesteticao.preki.com.br/"
+    },
+    {
+      "id_lead": 2789,
+      "name": "Petland Rio Branco",
+      "number": "13978121010",
+      "address": "Av. Dep. Ulisses Guimarães, 290 - Jardim Rio Branco, São Vicente - SP, 09990-080",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2790,
+      "name": "Mega Animais Pet Shop",
+      "number": "1334060681",
+      "address": "Av. Dep. Ulisses Guimarães, 1348 - Jardim Rio Branco, São Vicente - SP, 11347-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2791,
+      "name": "Pet shop Safira",
+      "number": "13991602284",
+      "address": "R. Fernando José Augusto Bittencourt, 242 - Vila Mateo Bei, São Vicente - SP, 11335-190",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2792,
+      "name": "Mundo Pet e Gatô",
+      "number": "13991194208",
+      "address": "R. Leonardo Nunes, 580 - loja, São Vicente - SP, 11365-280",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2793,
+      "name": "Pet Shop Rações Natal",
+      "number": "13997602490",
+      "address": "R. Carlos Gomes, 43 - Parque Sao Vicente, São Vicente - SP, 11365-230",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2794,
+      "name": "Pet Shop Rouxinol",
+      "number": "1335611770",
+      "address": "Av. Antônio Emmerich, 1672 - Vila Cascatinha, São Vicente - SP, 11370-001",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2795,
+      "name": "Centro De Rações Vitória São Vicente",
+      "number": "13981515184",
+      "address": "R. Vale do Rio Pó, 262 - Vila Margarida, São Vicente - SP, 11330-670",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2796,
+      "name": "Agropet Rações - Pet shop",
+      "number": "13981092056",
+      "address": "R. Padre André de Soveral, 221 - Vila Ema, São Vicente - SP, 11345-310",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2797,
+      "name": "Pet Shop Beleza Animal",
+      "number": "13988413457",
+      "address": "Av. Dom Pedro II, 1010 - Conj. Res. Tancredo Neves, São Vicente - SP, 11350-100",
+      "site": "https://www.instagram.com/mopetbelezaanimal?igsh=em90bnhkZjljeGRy"
+    },
+    {
+      "id_lead": 2798,
+      "name": "Casa de Ração e avicultura do indio",
+      "number": "1335642423",
+      "address": "Rua Maria de Lurdes Martins, 70 - Conjunto Residencial Humaitá, São Vicente - SP, 11349-320",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2799,
+      "name": "Casa de ração Pet Gold",
+      "number": "13997189530",
+      "address": "R. José Maria Gonçalves, 38 - Jardim Rio Branco, São Vicente - SP, 11347-170",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2800,
+      "name": "Zanotta Fish",
+      "number": "13996489875",
+      "address": "R. Frei Gaspar, 1119 - Centro, São Vicente - SP, 11310-061",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2801,
+      "name": "Pet Shop Legal pra Cachorro",
+      "number": "13988214411",
+      "address": "Av. Marechal Deodoro, 253 - Vila Valenca, São Vicente - SP, 11390-100",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2802,
+      "name": "Pcm Store Ltda",
+      "number": "13997188712",
+      "address": "R. Benedito Calixto, 167 - Gonzaguinha, São Vicente - SP, 11320-070",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2803,
+      "name": "Pet Feliz - Petshop, Casa de Ração",
+      "number": "13996836992",
+      "address": "Av. Dr. Esmeraldo Soares Tarquínio de Campos Filho, 82 - Parque das Bandeiras, São Vicente - SP, 11346-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2804,
+      "name": "Banho e Tosa. MR PETS",
+      "number": "13974166350",
+      "address": "Antônio Militão de Azevedo 98 Próximo ao fórum Parque Bitaru - Centro, São Vicente - SP, 11365-050",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2805,
+      "name": "La Casa de Pet",
+      "number": "13974268965",
+      "address": "Av. Mal. Humberto de Alencar Castelo Branco, 1194 - Cidade Náutica, São Vicente - SP, 11355-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2806,
+      "name": "Atacadão - São Vicente",
+      "number": "1335693100",
+      "address": "Av. Penedo, 585 - Catiapoã, São Vicente - SP, 11370-400",
+      "site": "https://www.atacadao.com.br/"
+    },
+    {
+      "id_lead": 2807,
+      "name": "Pet Amor&Patas",
+      "number": "13991187721",
+      "address": "R. Franklin Clasen de Moura, 829 - Cidade Náutica, São Vicente - SP, 11355-170",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2808,
+      "name": "DOG CAT | Banho e Tosa com Táxi Pet",
+      "number": "1334677419",
+      "address": "Av.: Prefeito José Monteiro, 604 - Vila Valenca, São Vicente - SP, 11380-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2809,
+      "name": "MC Pet Shop",
+      "number": "1334684401",
+      "address": "R. Frei Gaspar, 1945 - Parque Sao Vicente, São Vicente - SP, 11340-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2810,
+      "name": "Casa de Ração Vitória Sv",
+      "number": "1330430353",
+      "address": "Av. Pérsio de Queirós Filho, 326 - Catiapoã, São Vicente - SP, 11370-300",
+      "site": "https://casaderacaovitoria.com.br/"
+    },
+    {
+      "id_lead": 2811,
+      "name": "Pet Planet R5",
+      "number": "13991493957",
+      "address": "Av. Irmã Dolores, 50 - Jardim Quarentenario, São Vicente - SP, 11347-520",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2812,
+      "name": "Estrela Pet Shop | Rações, Banho e Tosa | Táxi Dog",
+      "number": "1335668076",
+      "address": "Av. Irmã Dolores, 350 - Jardim Irmã Dolores, São Vicente - SP, 11347-520",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2813,
+      "name": "Família Animal - São Vicente",
+      "number": "1335611937",
+      "address": "Av. Capitão Luiz Hourneaux, 386 - Jardim Guassu, São Vicente - SP, 11730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2814,
+      "name": "PET LOVERS SAÚDE & ESTÉTICA ANIMAL",
+      "number": "13981080562",
+      "address": "Avenida Paschoal Gzebien, antiga Avenida Um, 750 - Parque Continental, São Vicente - SP, 11348-100",
+      "site": "http://www.facebook.com/eusoupetlovers"
+    },
+    {
+      "id_lead": 2815,
+      "name": "Brasil Vet Sao Vicente Hospital Veterinario 24H",
+      "number": "1334697914",
+      "address": "Av. Antônio Emmerich, 1 - Vila Cascatinha, São Vicente - SP, 11370-001",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2816,
+      "name": "Casa de Racao Vitoria Pq das Bandeiras",
+      "number": "1335761625",
+      "address": "Av. Dr. Esmeraldo Soares Tarquínio de Campos Filho, 745 - Parque das Bandeiras, São Vicente - SP, 11346-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2817,
+      "name": "Animal Shop Filial",
+      "number": "13996207921",
+      "address": "Av. Mal. Humberto de Alencar Castelo Branco, 885 - Cidade Náutica, São Vicente - SP, 11355-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2818,
+      "name": "Petpark - Petshop (RAÇÃO, MEDICAMENTOS, ACESSÓRIOS)",
+      "number": "13996899908",
+      "address": "R. Newton Classen Moura, 675 - Parque das Bandeiras, São Vicente - SP, 11346-070",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2819,
+      "name": "Mundial pet",
+      "number": "1334649322",
+      "address": "Av. Nações Unidas, 324 - Vila Margarida, São Vicente - SP, 11330-300",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2820,
+      "name": "PetShop Labrador",
+      "number": "34622796",
+      "address": "R. Diogo Jácome - Conj. Res. Tancredo Neves, São Vicente - SP, 11350-360",
+      "site": "https://www.facebook.com/petlabrador"
+    },
+    {
+      "id_lead": 2821,
+      "name": "Pet Shop Casa de ração Três Irmãos",
+      "number": "13974121205",
+      "address": "R. Vítor Torquarto dos Santos - Parque das Bandeiras, São Vicente - SP, 11346-150",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2822,
+      "name": "Banho e tosa Centro Estético Lilly Pet",
+      "number": "13991171346",
+      "address": "R. Frei Gaspar, 4765 - Cidade Náutica, São Vicente - SP, 11340-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2823,
+      "name": "Mister Pet Estética Canina",
+      "number": "13996628672",
+      "address": "Av. Antônio Emmerich, 826 - Vila Cascatinha, São Vicente - SP, 11370-020",
+      "site": "https://instagram.com/eomisterpet?igshid=NmNmNjAwNzg="
+    },
+    {
+      "id_lead": 2824,
+      "name": "Pet Shop Rio branco -ALEMÃO RAÇÕES",
+      "number": "1335667353",
+      "address": "R. Mário Davis Lerner, 181 - Jardim Rio Branco, São Vicente - SP, 11347-110",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2825,
+      "name": "Los Pets PetShop",
+      "number": "13996091648",
+      "address": "Av. Pérsio de Queirós Filho, 358 - Catiapoã, São Vicente - SP, 11370-300",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2826,
+      "name": "Mimu’sPet Shop 2",
+      "number": "1333712498",
+      "address": "R. Lima Machado, 20 - Centro, São Vicente - SP, 11310-310",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2827,
+      "name": "Aldiri Pet Shop",
+      "number": "1334062159",
+      "address": "R. Ariovaldo de Oliveira Rosa, 170 - Conjunto Residencial Humaitá, São Vicente - SP, 11349-260",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2828,
+      "name": "Europet Japuí",
+      "number": "1335671399",
+      "address": "R. Caetano Cardamone, 145 - Jardim Bechara, São Vicente - SP, 11325-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2829,
+      "name": "Mi Au Banho e Tosa",
+      "number": "13996581662",
+      "address": "R. Saul de Oliveira Ventura, 269 - Conjunto Residencial Humaitá, São Vicente - SP, 11349-060",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2830,
+      "name": "Clínica Veterinária Popular Cão Vicente",
+      "number": "1334621469",
+      "address": "Avenida João Francisco, R. João Francisco Bensdorf, 202 - Cidade Náutica, São Vicente - SP, 11350-011",
+      "site": "https://www.lojalocal.com/pets/15772362000178"
+    },
+    {
+      "id_lead": 2831,
+      "name": "Pet Ville",
+      "number": "13974072473",
+      "address": "Av. Marechal Cândido Mariano da Silva Rondon, 1775 - Vila Margarida, São Vicente - SP, 11330-800",
+      "site": "https://instagram.com/petville_dogsalon?igshid=YmMyMTA2M2Y="
+    },
+    {
+      "id_lead": 2832,
+      "name": "Pet da Sol",
+      "number": "1333710936",
+      "address": "Praça 22 de janeiro, 415 Biquinha - Centro, São Vicente - SP, 11310-090",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2833,
+      "name": "Pet Shop Denise",
+      "number": "1334649640",
+      "address": "Av. Marcolino Xavier de Carvalho, 241 - Conj. Res. Tancredo Neves, São Vicente - SP, 11350-170",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2834,
+      "name": "Pet Brown LTDA",
+      "number": "13992013775",
+      "address": "Av. João Francisco Bensdorp, 645 - Cidade Náutica, São Vicente - SP, 11350-010",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2835,
+      "name": "Pet Mendes - João Leme - Pet Shop Sorocaba",
+      "number": "15998470817",
+      "address": "Rod. João Leme dos Santos, 680 - Terras de São Francisco, Sorocaba - SP, 18119-001",
+      "site": "https://www.petmendes.com.br/"
+    },
+    {
+      "id_lead": 2836,
+      "name": "Pet Mendes - Alto da Boa Vista - Pet Shop Sorocaba",
+      "number": "15997514458",
+      "address": "Av. Eng. Carlos Reinaldo Mendes, 3062 - Alto da Boa Vista, Sorocaba - SP, 18013-280",
+      "site": "https://www.petmendes.com.br/"
+    },
+    {
+      "id_lead": 2837,
+      "name": "Sploot! Bem Estar pet",
+      "number": "15991630130",
+      "address": "Av. José Joaquim de Lacerda, 1480 - Jardim Sorocabano, Sorocaba - SP, 18080-410",
+      "site": "http://www.sploot.com.br/"
+    },
+    {
+      "id_lead": 2838,
+      "name": "Agroverde Sorocaba Shopping",
+      "number": "15998138714",
+      "address": "Av. Dr. Afonso Vergueiro, 1700 - Centro, Sorocaba - SP, 18080-070",
+      "site": "https://www.agroverdesr.com.br/"
+    },
+    {
+      "id_lead": 2839,
+      "name": "Pet Mendes - Boa Supermercados - Pet Shop Sorocaba",
+      "number": "15996321582",
+      "address": "R. Cel. Nogueira Padilha, 2112 - Vila Hortência, Sorocaba - SP, 18020-003",
+      "site": "https://www.petmendes.com.br/"
+    },
+    {
+      "id_lead": 2840,
+      "name": "Quirino Pet Shop",
+      "number": "1532177424",
+      "address": "R. Maria de Lourdes Ferreira, 118 - Jardim Nova Esperanca, Sorocaba - SP, 18061-470",
+      "site": "https://www.instagram.com/petshopquirino/"
+    },
+    {
+      "id_lead": 2841,
+      "name": "Caninos Pet Shop | Banho e Tosa, Hotel, Creche para Cães | Sorocaba",
+      "number": "15988000892",
+      "address": "Rua Fernando Silva, 226 - Jardim Astro, Sorocaba - SP, 18017-158",
+      "site": "https://www.instagram.com/petcaninos/"
+    },
+    {
+      "id_lead": 2842,
+      "name": "Pet Shop Gato.Cão",
+      "number": "15998018927",
+      "address": "Av. Manoel de Camargo Sampaio, 795 - Vila Helena, Sorocaba - SP, 18071-195",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2843,
+      "name": "Pet Mendes - Armando Pannunzio - Pet Shop Sorocaba",
+      "number": "15997630730",
+      "address": "Av. Dr. Armando Pannunzio, 1601 - Jardim Sao Carlos, Sorocaba - SP, 18046-340",
+      "site": "https://www.petmendes.com.br/"
+    },
+    {
+      "id_lead": 2844,
+      "name": "Agroverde Sorocaba",
+      "number": "1533332560",
+      "address": "R. Comendador Oetterer, 1699 - Vila Carvalho, Sorocaba - SP, 18060-070",
+      "site": "http://www.agroverdesr.com.br/"
+    },
+    {
+      "id_lead": 2845,
+      "name": "Pet Anjo Sorocaba Itavuvu",
+      "number": "1534422999",
+      "address": "Av. Itavuvu, 1878 - Jardim Maria Antônia Prado, Sorocaba - SP, 18076-005",
+      "site": "https://www.petanjo.com/"
+    },
+    {
+      "id_lead": 2846,
+      "name": "Dr. Coruja PET SHOP e Clínica Veterinária 24h",
+      "number": "1532028498",
+      "address": "Rua Dr. Luiz Mendes de Almeida, 1783 - Jardim Sao Paulo, Sorocaba - SP, 18051-290",
+      "site": "http://www.doutorcoruja.com.br/"
+    },
+    {
+      "id_lead": 2847,
+      "name": "Fino Faro - Pet Shop Sorocaba",
+      "number": "15996111325",
+      "address": "R. Aparecida, 1565 - Jardim Santa Rosália, Sorocaba - SP, 18095-000",
+      "site": "http://www.finofarosorocaba.com.br/"
+    },
+    {
+      "id_lead": 2848,
+      "name": "PetNet | Pet Shop | Carrefour Shopping Esplanada",
+      "number": "15974001212",
+      "address": "Galeria Carrefour Esplanada - Avenida Professora Izoraida Marques Peres, 401 - Loja 10 - Parque Campolim, Sorocaba - SP, 18047-900",
+      "site": "https://www.instagram.com/petnet_esplanada?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+    },
+    {
+      "id_lead": 2849,
+      "name": "Pet Mendes Campolim - Pet Shop Sorocaba",
+      "number": "15996156924",
+      "address": "Av. Gisele Constantino, 1495 - Parque Campolim, Votorantim - SP, 18110-650",
+      "site": "https://www.petmendes.com.br/"
+    },
+    {
+      "id_lead": 2850,
+      "name": "Pet Store Sorocaba",
+      "number": "15997315119",
+      "address": "Av. Edward Fru Fru Marciano da Silva, 880 - Jardim Sao Guilherme, Sorocaba - SP, 18074-621",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2851,
+      "name": "Autelie",
+      "number": "15996888897",
+      "address": "R. Paulo Antônio do Nascimento, 30 - Jardim Portal da Colina, Sorocaba - SP, 18047-400",
+      "site": "https://www.autelie.com/"
+    },
+    {
+      "id_lead": 2852,
+      "name": "PET SHOP SOROCABA PLANETA ANIMAL",
+      "number": "15997813204",
+      "address": "Rua Walter Luiz D'avilla, 178 - Central Parque, Sorocaba - SP, 18051-180",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2853,
+      "name": "CÃES & GATOS Clínica Veterinária Sorocaba",
+      "number": "1532323750",
+      "address": "R. Cap. Alfredo Cardoso, 152 - Jardim Faculdade, Sorocaba - SP, 18030-310",
+      "site": "http://www.caesegatosveterinaria.com.br/"
+    },
+    {
+      "id_lead": 2854,
+      "name": "Pet Shop Amor de Bicho",
+      "number": "15996288065",
+      "address": "Av. Prof. Joaquim Silva, 400 - Jardim Saira, Sorocaba - SP, 18085-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2855,
+      "name": "Pet Mendes - Carlos Mendes - Pet Shop Sorocaba",
+      "number": "15998137569",
+      "address": "Av. Eng. Carlos Reinaldo Mendes, 1351 - Além Ponte, Sorocaba - SP, 18013-280",
+      "site": "https://www.petmendes.com.br/"
+    },
+    {
+      "id_lead": 2856,
+      "name": "Pet Ração Sorocaba Banho e tosa Sorocaba Vó Coruja Pet Shop Sorocaba",
+      "number": "15991630261",
+      "address": "Em frente ao parquinho infantil CEI - R. Bolívia, 160 - Vila Barcelona, Sorocaba - SP, 18025-720",
+      "site": "https://www.facebook.com/julio.coutopetshop"
+    },
+    {
+      "id_lead": 2857,
+      "name": "Empório Pet",
+      "number": "15996100454",
+      "address": "R. Julio Cesar Golombieski, 160 - Jardim Res. Nikkey, Sorocaba - SP, 18087-804",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2858,
+      "name": "PetBu - Petshop e Clínica Veterinária",
+      "number": "15991668744",
+      "address": "R. Atanázio Soares, 3282 - Vila Formosa, Sorocaba - SP, 18074-385",
+      "site": "https://www.instagram.com/petbu.shop.vet/"
+    },
+    {
+      "id_lead": 2859,
+      "name": "Pet Shop Simus",
+      "number": "1532028016",
+      "address": "R. Dr. Américo Figueiredo, 1120 - Jardim Simus, Sorocaba - SP, 18055-000",
+      "site": "https://petshopsimus.pedidook.com.br/"
+    },
+    {
+      "id_lead": 2860,
+      "name": "Pet Mendes - Chile - Pet Shop Sorocaba",
+      "number": "15998369896",
+      "address": "R. Chile, 949 - Vila Barcelona, Sorocaba - SP, 18025-280",
+      "site": "https://www.petmendes.com.br/"
+    },
+    {
+      "id_lead": 2861,
+      "name": "Pet Mendes - Nogueira Padilha - Pet Shop Sorocaba",
+      "number": "15996369932",
+      "address": "R. Cel. Nogueira Padilha, 2370 - Vila Hortência, Sorocaba - SP, 18020-003",
+      "site": "https://www.petmendes.com.br/"
+    },
+    {
+      "id_lead": 2862,
+      "name": "Lili Banho & Tosa",
+      "number": "15997962112",
+      "address": "R. Demanda do Valle Blaseck, 571 - Vila Barao, Sorocaba - SP, 18065-580",
+      "site": "https://www.instagram.com/lilibanho/"
+    },
+    {
+      "id_lead": 2863,
+      "name": "Lar do Cão",
+      "number": "15991180753",
+      "address": "Av. Salvador Milego, 610 - Jardim Vera Cruz, Sorocaba - SP, 18050-010",
+      "site": "https://www.instagram.com/lar_docao/"
+    },
+    {
+      "id_lead": 2864,
+      "name": "Casinha de Cachorro Pet Shop/ Creche / Hotel.",
+      "number": "15974038802",
+      "address": "R. Pedro José Senger, 1836 - Jardim Gutierres, Sorocaba - SP, 18015-000",
+      "site": "https://petshopcasinhadecachorro.com.br/"
+    },
+    {
+      "id_lead": 2865,
+      "name": ".",
+      "number": "15974042626",
+      "address": "Avenida Professora Izoraida Marques Peres - Parque Campolim, Sorocaba - SP, 18110-650",
+      "site": "https://www.freefaro.com.br/"
+    },
+    {
+      "id_lead": 2866,
+      "name": "Cãobeleireiro - Unidade Trujilo",
+      "number": "15998216914",
+      "address": "Av. Dr. Armando Sales de Oliveira, 718 - Vila Trujillo, Sorocaba - SP, 18060-370",
+      "site": "https://bio.site/caobeleleiro.ads"
+    },
+    {
+      "id_lead": 2867,
+      "name": "Pet Shop Armazém Nakasone (Mercado Municipal de Sorocaba)",
+      "number": "1532243845",
+      "address": "Lateral externa do Mercado Municipal - Praça Comendador Nicolau Scarpa, s/n - Box 52 - Centro, Sorocaba - SP, 18035-011",
+      "site": "https://nakasonepetshop.com.br/"
+    },
+    {
+      "id_lead": 2868,
+      "name": "Casa Pet",
+      "number": "1534423630",
+      "address": "R. Profa. Zélia Dulce de Campos Maia, 206 - Jardim Paulistano, Sorocaba - SP, 18030-010",
+      "site": "http://casapet.vet.br/"
+    },
+    {
+      "id_lead": 2869,
+      "name": "Contente Banho e Tosa",
+      "number": "15991953619",
+      "address": "R. Belmira Loureiro de Almeida, 302 - Jardim Piratininga, Sorocaba - SP, 18016-081",
+      "site": "https://beacons.ai/caocontente"
+    },
+    {
+      "id_lead": 2870,
+      "name": "PARK PETS",
+      "number": "1532272008",
+      "address": "Av. São Paulo, 1149 - Vila Arruda, Sorocaba - SP, 18013-210",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2871,
+      "name": "ARCA BANHO E TOSA",
+      "number": "15991285533",
+      "address": "R. Luís Costa Coimbra, 132 - Vila Angelica, Sorocaba - SP, 18065-370",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2872,
+      "name": "CatDog Pet Store",
+      "number": "15974033385",
+      "address": "R. Visc. do Rio Branco, 842 - Vila Jardini, Sorocaba - SP, 18044-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2873,
+      "name": "Life Pet Shop Sorocaba",
+      "number": "15998102900",
+      "address": "R. Antônio de Oliveira, 161 - Centro, Sorocaba - SP, 18040-120",
+      "site": "https://instagram.com/lifepetshopsorocaba"
+    },
+    {
+      "id_lead": 2874,
+      "name": "Vira lata Pet",
+      "number": "15991646581",
+      "address": "Av. Ipanema, 1755A - Jardim Planalto, Sorocaba - SP, 18070-631",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2875,
+      "name": "Bellas Pet Shop Sorocaba",
+      "number": "15998212264",
+      "address": "Av. Votuporanga, 80 - Vila Nova Sorocaba, Sorocaba - SP, 18070-670",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2876,
+      "name": "Bichomania Pet Shop",
+      "number": "15998602200",
+      "address": "Av. Dr. Artur Bernardes, 866 - Vila Gabriel, Sorocaba - SP, 18081-190",
+      "site": "http://www.bichomaniapet.com.br/"
+    },
+    {
+      "id_lead": 2877,
+      "name": "Pet Gato",
+      "number": "1533466538",
+      "address": "R. Galileu Pasquineli, 201 - Loja 02 - Vila Fiori, Sorocaba - SP, 18075-610",
+      "site": "https://www.facebook.com/Pet-Gato-467811843353064/"
+    },
+    {
+      "id_lead": 2878,
+      "name": "Do G Au GG Dog Shop",
+      "number": "15996623194",
+      "address": "Av. Dr. Artur Bernardes, 1218 - Próximo ao - Parque das Águas, Sorocaba - SP, 18081-000",
+      "site": "https://www.instagram.com/dogaugg"
+    },
+    {
+      "id_lead": 2879,
+      "name": "Bella Athena Pet's Banho e tosa, ração e medicamentos",
+      "number": "15997266709",
+      "address": "R. Antônio Piantore, 144 - Jardim Sao Guilherme, Sorocaba - SP, 18074-638",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2880,
+      "name": "Vip Pet Shop",
+      "number": "1530114175",
+      "address": "R. Araraquara, 322 - lateral - Jardim Iguatemi, Sorocaba - SP, 18085-470",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2881,
+      "name": "Dudu e Edu Pet Store",
+      "number": "15991340074",
+      "address": "R. Goiás, 106 - Centro, Sorocaba - SP, 18035-550",
+      "site": "http://dudueedupetstore.com.br/"
+    },
+    {
+      "id_lead": 2882,
+      "name": "Grasifico Petshop - Banho e Tosa | Creche e Hotel",
+      "number": "15988263532",
+      "address": "Av. Getúlio Vargas, 55 - Jardim Sao Paulo, Sorocaba - SP, 18051-480",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2883,
+      "name": "PETTICO PET SHOP",
+      "number": "15997586862",
+      "address": "Av. São Paulo, 2717 - S1, L1 - Além Ponte, Sorocaba - SP, 18013-004",
+      "site": "http://www.petticopetshop.com.br/"
+    },
+    {
+      "id_lead": 2884,
+      "name": "Águia de Ouro - Pet Shop e Aquarismo",
+      "number": "1532327201",
+      "address": "Rua Olávo Bilac, 190 - Atendimento Via WhatsApp (15, 99639-0769 - Vila Santana, Sorocaba - SP, 18080-691",
+      "site": "http://www.aguiadouro.com.br/"
+    },
+    {
+      "id_lead": 2885,
+      "name": "Petit Shop",
+      "number": "1532334430",
+      "address": "Av. Washington Luiz, 1222 - Sala 3 - Jardim America, Sorocaba - SP, 18046-700",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2886,
+      "name": "Pet Shop Ibiti",
+      "number": "15991380880",
+      "address": "Av. Victor Andrew, 700 - Zona Industrial, Sorocaba - SP, 18086-390",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2887,
+      "name": "Pet Shop Fábio Lima Banho E Tosa",
+      "number": "15996132816",
+      "address": "Alameda Augusto Severo, 1401 - Vila Elza, Sorocaba - SP, 18070-275",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2888,
+      "name": "PetShop Amigão",
+      "number": "1532265999",
+      "address": "ATENDIMENTO VIA WHATSAPP - Av. Olinda Aires Paulete, 355 - 75) 9877-8715 - Santa marina 2, Sorocaba - SP, 18078-638",
+      "site": "https://wa.me/5515981287689"
+    },
+    {
+      "id_lead": 2889,
+      "name": "Pet Mendes Loja 10",
+      "number": "1532172183",
+      "address": "Av. Abraham Lincoln, 121 - Jardim dos Estados, Sorocaba - SP, 18046-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2890,
+      "name": "Soropet Sorocaba - Loja de Equipamentos para Banho e Tosa",
+      "number": "15981280636",
+      "address": "Linc Sorocaba, Parque Empresarial das Mangueiras - R. Francisca de Lourdes Silva Camargo, 651 - Vila Mineirao, Sorocaba - SP, 18086-434",
+      "site": "http://www.soropetsorocaba.com.br/"
+    },
+    {
+      "id_lead": 2891,
+      "name": "PetCamp - Avenida Ipanema",
+      "number": "15992407325",
+      "address": "Av. Ipanema, 4000 - Jardim Novo Horizonte, Sorocaba - SP, 18071-801",
+      "site": "https://www.petcamp.com.br/"
+    },
+    {
+      "id_lead": 2892,
+      "name": "Vet Center Sorocaba 24h",
+      "number": "1532331083",
+      "address": "R. Mascarenhas Camelo, 15 - Vila Carvalho, Sorocaba - SP, 18080-692",
+      "site": "https://linktr.ee/vetcentersorocaba"
+    },
+    {
+      "id_lead": 2893,
+      "name": "Dog House",
+      "number": "15996399268",
+      "address": "R. Francisco Cano Guerreiro, 17 - Jardim Pacaembu, Sorocaba - SP, 18074-320",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2894,
+      "name": "Popular Pet - Sorocaba",
+      "number": "1533111352",
+      "address": "Av. Olinda Aires Paulete, 957 - Jardim Santa Marina II, Sorocaba - SP, 18078-638",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2895,
+      "name": "Pet Shop Reino dos Animais",
+      "number": "1533270679",
+      "address": "R. Rene Regaçoni, 208 - Jardim Residencial Villa Amato, Sorocaba - SP, 18087-663",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2896,
+      "name": "Dog Style Pet Shop Banho e Tosa",
+      "number": "15991405175",
+      "address": "R. Ramon Haro Martini, 789 - Vila Haro, Sorocaba - SP, 18015-140",
+      "site": "https://contatos-clique-aqui.my.canva.site/dog-style"
+    },
+    {
+      "id_lead": 2897,
+      "name": "Animal Doctor's - Clínica Veterinária em Sorocaba",
+      "number": "15991481551",
+      "address": "Av. Prof. Arthur Fonseca, 52 - Jardim Emilia, Sorocaba - SP, 18031-005",
+      "site": "https://www.animaldoctors.com.br/"
+    },
+    {
+      "id_lead": 2898,
+      "name": "Pet Cidade Jardim",
+      "number": "15998281778",
+      "address": "Alameda dos Cravos, 100 - Jardim Simus, Sorocaba - SP, 18055-135",
+      "site": "https://www.instagram.com/petcidadejardim/"
+    },
+    {
+      "id_lead": 2899,
+      "name": "Bicholândia",
+      "number": "1532022528",
+      "address": "Av. Gen. Carneiro, 69 - Vila Lucy, Sorocaba - SP, 18043-000",
+      "site": "http://www.bicholandiasorocaba.com.br/"
+    },
+    {
+      "id_lead": 2900,
+      "name": "Agropet Bicho & Cia",
+      "number": "15998471787",
+      "address": "R. Augusto de Assis, 90 - Vila Assis, Sorocaba - SP, 18025-172",
+      "site": "https://www.instagram.com/bichoecia/"
+    },
+    {
+      "id_lead": 2901,
+      "name": "PET SHOP VILLE",
+      "number": "15998050765",
+      "address": "Galeria Externa do Santo Supermercado - Av. Elias Maluf, 1835 - BOX 33 - Wanel Ville, Sorocaba - SP, 18055-215",
+      "site": "https://www.petshopville.com.br/"
+    },
+    {
+      "id_lead": 2902,
+      "name": "Maximus Agropet",
+      "number": "15981612734",
+      "address": "R. Atanázio Soares, 3414 - Jardim Maria Eugenia, Sorocaba - SP, 18074-385",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2903,
+      "name": "Dom Pet Shop",
+      "number": "15998502996",
+      "address": "ATENDIMENTO VIA WHATSAPP - Av. Dom Aguirre, 4555 - 75) 9877-8715 - Vila Progresso, Sorocaba - SP, 18081-101",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2904,
+      "name": "Pet Shop Amo Bicho",
+      "number": "15991561333",
+      "address": "Av. Edward Fru Fru Marciano da Silva, 361 - Jardim Sao Guilherme, Sorocaba - SP, 18074-621",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2905,
+      "name": "Agro Pet Vida Animal Banho e Tosa Sorocaba",
+      "number": "1532398092",
+      "address": "Rua Vicente Miranda, 313 - Jardim Santa Lucia, Sorocaba - SP, 18035-240",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2906,
+      "name": "Mimo's Pet shop",
+      "number": "15998090288",
+      "address": "Av. Edward Fru Fru Marciano da Silva, 684 - Jardim Sao Guilherme, Sorocaba - SP, 18074-621",
+      "site": "https://www.facebook.com/mimospetgroomer/"
+    },
+    {
+      "id_lead": 2907,
+      "name": "Mania Pet Center",
+      "number": "1533428082",
+      "address": "Av. Dr. Armando Pannunzio, 1940 - Jardim Piazza Di Roma, Sorocaba - SP, 18050-000",
+      "site": "http://www.maniapetcenter.com.br/"
+    },
+    {
+      "id_lead": 2908,
+      "name": "Agropecuária Lipi",
+      "number": "1532173000",
+      "address": "Av. Paulo Emanuel de Almeida, 464 - Wanel Ville, Sorocaba - SP, 18053-505",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2909,
+      "name": "Avicultura Divino",
+      "number": "1532217778",
+      "address": "Rua Dr. Luiz Mendes de Almeida, 600 - Largo do Divino, Sorocaba - SP, 18051-290",
+      "site": "https://www.instagram.com/avicultura.divino?igsh=Mzd0YmJkOGlldmo%3D&utm_source=qr"
+    },
+    {
+      "id_lead": 2910,
+      "name": "Pet É o bicho",
+      "number": "15997816086",
+      "address": "R. Atanázio Soares, 3936 - Jardim Casa Branca, Sorocaba - SP, 18077-416",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2911,
+      "name": "Pet Shop Agromil",
+      "number": "15991407775",
+      "address": "Av. Miguel Patrício de Moraes, 455 - Jardim Itangua, Sorocaba - SP, 18056-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2912,
+      "name": "Pet Shop Grazi Paixão",
+      "number": "15988187492",
+      "address": "R. Andrelino de Camargo, 671 - Vila Carvalho, Sorocaba - SP, 18060-160",
+      "site": "https://wa.me/5515988187492?text=Ol%C3%A1%20quero%20agendar%20um%20hor%C3%A1rio!"
+    },
+    {
+      "id_lead": 2913,
+      "name": "Reino Animal Pet shop",
+      "number": "15991885246",
+      "address": "Av. Ipanema, 930 - Vila Nova Sorocaba, Sorocaba - SP, 18070-671",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2914,
+      "name": "Clinica Veterinaria e Pet Shop - Vet Moon Sorocaba",
+      "number": "15981639027",
+      "address": "R. João Gabriel Mendes, 580 - Jardim Maria do Carmo, Sorocaba - SP, 18095-000",
+      "site": "https://vet-moon-sorocaba.my.canva.site/"
+    },
+    {
+      "id_lead": 2915,
+      "name": "Meu Pet Ok",
+      "number": "15991583161",
+      "address": "R. Atanázio Soares, 1661 - Vila Olimpia, Sorocaba - SP, 18075-000",
+      "site": "https://www.facebook.com/Meupetok/"
+    },
+    {
+      "id_lead": 2916,
+      "name": "Pet de Luxo",
+      "number": "15991726376",
+      "address": "R. Inglaterra, 95 - Jardim Europa, Sorocaba - SP, 18045-070",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2917,
+      "name": "Bixinho Pet Shop",
+      "number": "15998275623",
+      "address": "R. Dr. Américo Figueiredo, 4087 - Júlio de Mesquita Filho, Sorocaba - SP, 18053-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2918,
+      "name": "Fofura Canina - Petshop",
+      "number": "15996100696",
+      "address": "Av. Ipanema, 1988 - Jardim Planalto, Sorocaba - SP, 18070-631",
+      "site": "https://beacons.ai/fofuracanina"
+    },
+    {
+      "id_lead": 2919,
+      "name": "Agromil Petshop Vila Barão",
+      "number": "15992432642",
+      "address": "R. Gonçalves Júnior, 556 - Vila Barao, Sorocaba - SP, 18065-600",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2920,
+      "name": "Dog Center pet shop",
+      "number": "15988342615",
+      "address": "Rua Cônego Lúcio Floro Graziosi - Ipanema Ville, Sorocaba - SP, 18071-060",
+      "site": "https://www.instagram.com/dogcentersorocaba/"
+    },
+    {
+      "id_lead": 2921,
+      "name": "Fofuchos Mimados Banho e Tosa",
+      "number": "1533264657",
+      "address": "R. Mascarenhas Camelo, 144 - Vila Santana, Sorocaba - SP, 18080-692",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2922,
+      "name": "Pet Shop Bem Locão",
+      "number": "1532027360",
+      "address": "Av. Gen. Carneiro, 131 - Vila Lucy, Sorocaba - SP, 18043-000",
+      "site": "https://www.bemlocaopet.com.br/"
+    },
+    {
+      "id_lead": 2923,
+      "name": "Holly Pet Espaço Banho e Tosa | Hotel e Creche Pet",
+      "number": "15996551707",
+      "address": "Av. Santa Cruz, 1545 - Jardim Sao Marcos, Sorocaba - SP, 18050-260",
+      "site": "https://instagram.com/hollypetespaco?igshid=YmMyMTA2M2Y="
+    },
+    {
+      "id_lead": 2924,
+      "name": "AQUA PET - SOROCABA",
+      "number": "1532023341",
+      "address": "R. João Pessoa, 44 - Vila Jardini, Sorocaba - SP, 18044-050",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2925,
+      "name": "Patas Pets Service",
+      "number": "1532336575",
+      "address": "R. Ana Monteiro de Carvalho, 89 - Jardim Santa Rosália, Sorocaba - SP, 18090-230",
+      "site": "http://www.pataspetservice.com.br/"
+    },
+    {
+      "id_lead": 2926,
+      "name": "Espaço do Cão",
+      "number": "15997622838",
+      "address": "R. Mascarenhas Camelo, 915 - Vila Santana, Sorocaba - SP, 18080-692",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2927,
+      "name": "Pet Shop Ville Rações",
+      "number": "15996878873",
+      "address": "I - R. Alexandre Caldini, 455 - Wanel Ville, Sorocaba - SP, 18055-710",
+      "site": "http://encurtador.com.br/xIW37"
+    },
+    {
+      "id_lead": 2928,
+      "name": "PetCamp - Campolim",
+      "number": "15991086318",
+      "address": "R. Heloísa Oliveira Evangelista, 300 - Parque Campolim, Sorocaba - SP, 18046-700",
+      "site": "https://www.petcamp.com.br/"
+    },
+    {
+      "id_lead": 2929,
+      "name": "Pet Shop Stop Cão",
+      "number": "15997128796",
+      "address": "Av. Dr. Afonso Vergueiro, 2128 - Vila Augusta, Sorocaba - SP, 18040-000",
+      "site": "http://stopcao.com.br/"
+    },
+    {
+      "id_lead": 2930,
+      "name": "Mymos Agropet",
+      "number": "1533189904",
+      "address": "Av. Itavuvu, 3947 - Jardim Santa Cecilia, Sorocaba - SP, 18078-005",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2931,
+      "name": "Hospital Saúde Animal",
+      "number": "15997811661",
+      "address": "Av. Gen. Carneiro, 2093 - Vila Lucy, Sorocaba - SP, 18043-004",
+      "site": "http://www.hsaudeanimal.com.br/"
+    },
+    {
+      "id_lead": 2932,
+      "name": "AgroPet Agropecuária e Pet Shop Ltda",
+      "number": "1532173033",
+      "address": "Av. Elias Maluf, 1106 - Wanel Ville, Sorocaba - SP, 18055-215",
+      "site": "https://www.lojalocal.com/pets/10454713000189"
+    },
+    {
+      "id_lead": 2933,
+      "name": "Carecão Banho, Tosa e Pet Shop",
+      "number": "11950321987",
+      "address": "Av. Salvador Milego, 108 - Jardim Vera Cruz, Sorocaba - SP, 18050-010",
+      "site": "https://www.instagram.com/carecaopetbanhoetosa/"
+    },
+    {
+      "id_lead": 2934,
+      "name": "Hipercão Pet Shop",
+      "number": "1533424188",
+      "address": "Av. Paulo Emanuel de Almeida, 889 - Wanel Ville, Sorocaba - SP, 18053-505",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2935,
+      "name": "Taxi Pet - Taxi Dog",
+      "number": "15988338926",
+      "address": "Rua Joaquim bastos, R. Vital Brasil - Vila Haro, Sorocaba - SP, 18015-090",
+      "site": "https://instagram.com/ajude_umpet_resgatado?igshid=MzRlODBiNWFlZA=="
+    },
+    {
+      "id_lead": 2936,
+      "name": "Pés & Patas Suzano",
+      "number": "11919496107",
+      "address": "Av. Armando Salles de Oliveira, 1520 - Parque Suzano, Suzano - SP, 08673-000",
+      "site": "http://www.pesepatas.com.br/"
+    },
+    {
+      "id_lead": 2937,
+      "name": "GranPet",
+      "number": "1147479589",
+      "address": "R. Nove de Julho, 1171 - Jardim Santa Helena, Suzano - SP, 08674-265",
+      "site": "https://granpetsuzano.com.br/"
+    },
+    {
+      "id_lead": 2938,
+      "name": "Mitsuhoshi GranPet",
+      "number": "1147476709",
+      "address": "Av. Antônio Marques Figueira, 847 - Vila Costa, Suzano - SP, 08675-023",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2939,
+      "name": "Pet Jg Rações E Acessórios",
+      "number": "11945952943",
+      "address": "Estr. Portão do Ronda, 1515 - Jardim Revista, Suzano - SP, 08694-080",
+      "site": "http://petjgjorge.gi/"
+    },
+    {
+      "id_lead": 2940,
+      "name": "Casa dos Ursinhos – Hotel & Banho & Tosa - Suzano",
+      "number": "11932259295",
+      "address": "R. Tókio, 369 - Cidade Edson, Suzano - SP, 08665-520",
+      "site": "http://www.pethousecasadosursinhos.com.br/"
+    },
+    {
+      "id_lead": 2941,
+      "name": "Pet shop Dog's Family Suzano",
+      "number": "11943840815",
+      "address": "R. Lobato, 382 A - Cidade Edson, Suzano - SP, 08665-400",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2942,
+      "name": "Zeca Rações",
+      "number": "11963471387",
+      "address": "Av. Antônio Marques Figueira, 1292 - Vila Figueira, Suzano - SP, 08676-165",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2943,
+      "name": "Amipet Dona Benta",
+      "number": "1146100223",
+      "address": "Av. Francisco Marengo, 1644 - Loja 03 - Jardim Dona Benta, Suzano - SP, 08694-000",
+      "site": "https://www.amipet.com.br/"
+    },
+    {
+      "id_lead": 2944,
+      "name": "Naka Petshop",
+      "number": "11953236398",
+      "address": "Av. Miguel Badra, 1289 - Cidade Miguel Badra, Suzano - SP, 08690-000",
+      "site": "https://wa.me/c/551153236398"
+    },
+    {
+      "id_lead": 2945,
+      "name": "Mimu's Pet Shop",
+      "number": "11977511334",
+      "address": "Av. Paulista, 1336 - Jardim Monte Cristo, Suzano - SP, 08670-025",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2946,
+      "name": "Hospital Veterinário Mundo Animal 24H",
+      "number": "1147463691",
+      "address": "Av. Antônio Marques Figueira, 1962 - Vila Figueira, Suzano - SP, 08676-165",
+      "site": "https://hospitalmundoanimalsuzano.com.br/"
+    },
+    {
+      "id_lead": 2947,
+      "name": "Peludos e Pelados Suzano - Estética Pet - Banho e Tosa; Pet Shop - Ração, Medicamentos, Acessórios, tudo para seu pet",
+      "number": "1147487798",
+      "address": "Av. Mogi das Cruzes, 111 - Parque Suzano, Suzano - SP, 08673-030",
+      "site": "https://www.instagram.com/peludos_e_pelados_/"
+    },
+    {
+      "id_lead": 2948,
+      "name": "Groomer pet Suzano",
+      "number": "11972314890",
+      "address": "R. Esphinges, n° 61 - Vila Urupes, Suzano - SP, 08615-180",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2949,
+      "name": "Puro Mimo - Pet Shop",
+      "number": "11919025736",
+      "address": "Av. Katsutoshi naito, Av. Boa Vista, 1103A, Suzano - SP, 08693-495",
+      "site": "https://instagram.com/puro_mimo.pet?utm_source=qr&igshid=ZDc4ODBmNjlmNQ=="
+    },
+    {
+      "id_lead": 2950,
+      "name": "Paraíso Pets",
+      "number": "11955840594",
+      "address": "R. Bandeirantes, 735 - Jardim Revista, Suzano - SP, 08694-180",
+      "site": "https://instagram.com/paraisopets.suzano?utm_medium=copy_link"
+    },
+    {
+      "id_lead": 2951,
+      "name": "Pet Shop Jardim Suzano",
+      "number": "11915867768",
+      "address": "R. Gen. Francisco Glicério, 2497 - Jardim Anzai, Suzano - SP, 08665-000",
+      "site": "https://pet-jardim-suzano.webnode.com/"
+    },
+    {
+      "id_lead": 2952,
+      "name": "Pet Top Banho e Tosa / hotel domiciliar",
+      "number": "11988409082",
+      "address": "R. Príncipe Feliz, 550 - loja 1 - Vila Urupes, Suzano - SP, 08615-090",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2953,
+      "name": "Cazarini Pets",
+      "number": "11941374044",
+      "address": "Av. Armando Salles de Oliveira, 1317 - Conj. Res. Irai, Suzano - SP, 08673-115",
+      "site": "http://cazarinipets.com.br/"
+    },
+    {
+      "id_lead": 2954,
+      "name": "Canto Pet Suzano | Creche, Hotel, Banho e Tosa para Cães",
+      "number": "1147422479",
+      "address": "Rua Paulino Ayres de Barros, 145 - Jardim Marcato, Suzano - SP, 08665-070",
+      "site": "https://cantopet.com.br/"
+    },
+    {
+      "id_lead": 2955,
+      "name": "Pérolas Pet Shop",
+      "number": "11976914942",
+      "address": "Rua estrada do marengo, Av. Boa Vista, 199 - A, Suzano - SP, 08693-200",
+      "site": "https://www.instagram.com/perolas_petshop_sp?igsh=Y3A2Z2Ztdmo0eW55"
+    },
+    {
+      "id_lead": 2956,
+      "name": "Comercial Mitsuhoshi",
+      "number": "1147483440",
+      "address": "R. Felício de Camargo, 278 - Centro, Suzano - SP, 08674-030",
+      "site": "https://granpetsuzano.com.br/"
+    },
+    {
+      "id_lead": 2957,
+      "name": "Vitha Pet Clin - Veterinário em Suzano",
+      "number": "11965842261",
+      "address": "R. Expedicionário João de Carvalho, 90 - Centro, Suzano - SP, 08674-250",
+      "site": "http://vithapetclin.com.br/"
+    },
+    {
+      "id_lead": 2958,
+      "name": "Spaço Agropet",
+      "number": "1147462550",
+      "address": "R. Baruel, 207 - Vila Costa, Suzano - SP, 08675-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2959,
+      "name": "🐶 STUDIO PET CASANOVA - BANHO E TOSA SUZANO",
+      "number": "11961637367",
+      "address": "Av. Manoel Casanova, 606 - Parque Santa Rosa, Suzano - SP, 08664-565",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2960,
+      "name": "LILLY PET",
+      "number": "11932584687",
+      "address": "Av. Jaguari, 323 - Cidade Boa Vista, Suzano - SP, 08693-010",
+      "site": "https://www.instagram.com/oficial_lillypet?igsh=cGJteGc4ZGNobHhx"
+    },
+    {
+      "id_lead": 2961,
+      "name": "PetShop do Primo",
+      "number": "11972613236",
+      "address": "Av. Boa Vista, 124 - Cidade Boa Vista, Suzano - SP, 08693-000",
+      "site": "http://petboavista.blogspot.com/"
+    },
+    {
+      "id_lead": 2962,
+      "name": "Pet Shop 4 Patas",
+      "number": "1147522177",
+      "address": "R. Bandeirantes, 800 - Jardim Revista, Suzano - SP, 08694-180",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2963,
+      "name": "Imperio Pet Suzano",
+      "number": "11997832541",
+      "address": "Av. Mogi das Cruzes, 420 - Parque Suzano, Suzano - SP, 08673-010",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2964,
+      "name": "🐾Petludos | petshop em Suzano",
+      "number": "11941818368",
+      "address": "R. Lobato, 75 - Cidade Edson, Suzano - SP, 08630-130",
+      "site": "https://www.instagram.com/petshoppetludos?igsh=bjM3eXl1am5oa3c3&utm_source=qr"
+    },
+    {
+      "id_lead": 2965,
+      "name": "Meu Cãopanheiro Banho e tosa, hotel domiciliar, pet sitter, passeador - Suzano",
+      "number": "11982640443",
+      "address": "R. Portugal, 170 - Jardim São José, Suzano - SP, 08695-155",
+      "site": "https://www.instagram.com/meucaopanheiropet/"
+    },
+    {
+      "id_lead": 2966,
+      "name": "Centro Veterinário Zeca Rações",
+      "number": "11944954439",
+      "address": "R. Caboclos, 495 - Vila Urupes, Suzano - SP, 08615-190",
+      "site": "https://wa.me/message/D2BLKL7I6EXGC1"
+    },
+    {
+      "id_lead": 2967,
+      "name": "Animal Pet",
+      "number": "11968226279",
+      "address": "Av. Edmilson R. Marcelino, 1251 - Cidade Miguel Badra, Suzano - SP, 08690-185",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2968,
+      "name": "Junior Pet Shop",
+      "number": "1147421245",
+      "address": "R. Cidade de Diadema, 274 - Parque Maria Helena, Suzano - SP, 08683-120",
+      "site": "https://juniorpetshopsuzano.com.br/"
+    },
+    {
+      "id_lead": 2969,
+      "name": "Vet Para Todos - Veterinário em Suzano",
+      "number": "11989223339",
+      "address": "Estr. dos Fernandes, 1419 - Parque Santa Rosa, Suzano - SP, 08664-005",
+      "site": "https://sites.google.com/view/vetparatodos"
+    },
+    {
+      "id_lead": 2970,
+      "name": "Pet Shop Alemão",
+      "number": "11954309712",
+      "address": "R. do Diamante, 506 - Jardim Monte Cristo, Suzano - SP, 08670-110",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2971,
+      "name": "Pet Shop Kalebh Banho & Tosa",
+      "number": "11966898128",
+      "address": "Estr. Portão do Ronda - Jardim Europa, Suzano - SP, 09694-080",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2972,
+      "name": "Clínica Veterinária Tech Vet Centro de Castração Animal",
+      "number": "1147476484",
+      "address": "R. Portugal Freixo, 136 - Centro, Suzano - SP, 08674-170",
+      "site": "https://tech-vet-centro-de-castracao-animal.ueniweb.com/"
+    },
+    {
+      "id_lead": 2973,
+      "name": "Piticos Pet Shop / Banho e Tosa",
+      "number": "11973932839",
+      "address": "R. Guarani, 621 - Jardim Revista, Suzano - SP, 08694-030",
+      "site": "https://www.instagram.com/piticospetshop/"
+    },
+    {
+      "id_lead": 2974,
+      "name": "Pet Shop Mascote",
+      "number": "1147486948",
+      "address": "R. Prudente de Morais, 2705 - Vila Monte Sion, Suzano - SP, 08613-135",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2975,
+      "name": "Pet Shop Rubios",
+      "number": "1147447294",
+      "address": "R. Baruel, 1588 - Cidade Edson, Suzano - SP, 08665-380",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2976,
+      "name": "SonPet - Banho&Tosa",
+      "number": "11974344926",
+      "address": "Rua Roque Eroles, 50 - Caxangá, Suzano - SP, 08663-040",
+      "site": "https://www.instagram.com/son.petshop/"
+    },
+    {
+      "id_lead": 2977,
+      "name": "Pet Shop Sardinha",
+      "number": "1147425083",
+      "address": "R. Gen. Francisco Glicério, 2135 - Centro, Suzano - SP, 08674-001",
+      "site": "https://www.lojalocal.com/pets/06049821000107"
+    },
+    {
+      "id_lead": 2978,
+      "name": "A Casa do Rex",
+      "number": "1147427107",
+      "address": "R. Antônio Renzi Primo, 215 - Vila Adelina, Suzano - SP, 08675-350",
+      "site": "https://sites.google.com/view/acasadorex"
+    },
+    {
+      "id_lead": 2979,
+      "name": "Mike Pets",
+      "number": "11934750486",
+      "address": "R. Oswaldo Fillinger, 49 B - Jardim Suzanopolis, Suzano - SP, 08671-310",
+      "site": "http://instagram.com/racoes_mike/"
+    },
+    {
+      "id_lead": 2980,
+      "name": "Banho e Tosa Pata Nobre",
+      "number": "11974751439",
+      "address": "R. Eulália Rodrigues Escurço, 39 - Jardim Luella, Suzano - SP, 08616-360",
+      "site": "https://instagram.com/pata_nobre?igshid=MzMyNGUyNmU2YQ=="
+    },
+    {
+      "id_lead": 2981,
+      "name": "Aumor de pet",
+      "number": "11916729377",
+      "address": "Av. Mogi das Cruzes, 332 - Parque Suzano, Suzano - SP, 08673-010",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2982,
+      "name": "Casa pet shop",
+      "number": "11970356448",
+      "address": "R. Manoel Gonçalves Reigado, 43 - Jardim Vitoria, Suzano - SP, 08664-400",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2983,
+      "name": "Casa de Rações Baruel",
+      "number": "11976438034",
+      "address": "R. Baruel, 1468 - Loja 2 - Vila Costa, Suzano - SP, 08674-010",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2984,
+      "name": "Pink Pet Banho e Tosa",
+      "number": "11943651066",
+      "address": "Av. Sen. Roberto Símonsen, 787 - Jardim Imperador, Suzano - SP, 08673-270",
+      "site": "https://www.facebook.com/pinkpetsuzano?mibextid=ZbWKwL"
+    },
+    {
+      "id_lead": 2985,
+      "name": "Patitas - banho - tosa",
+      "number": "11989349265",
+      "address": "n - R. Jeca Tatú, 175 - Vila Urupes, Suzano - SP, 08615-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2986,
+      "name": "Pet Shop Dog & Mia",
+      "number": "11954720987",
+      "address": "R. Kaneji Kodama, 1370 - Vila Figueira, Suzano - SP, 08676-410",
+      "site": "https://www.instagram.com/pet.shop.dog.e.mia/"
+    },
+    {
+      "id_lead": 2987,
+      "name": "Bellas Patas Pet shop Estética Animal",
+      "number": "11919992537",
+      "address": "R. Pres. Getúlio Vargas, 303 A - Jardim Santa Helena, Suzano - SP, 08674-260",
+      "site": "http://www.facebook.com/bellas.patas"
+    },
+    {
+      "id_lead": 2988,
+      "name": "Pet Mika temos banho de ozônio",
+      "number": "11985308436",
+      "address": "Alameda Meyer Joseph Nigri, 426 - Jardim Imperador, Suzano - SP, 08673-170",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2989,
+      "name": "Avicultura Carlinhos",
+      "number": "1147488618",
+      "address": "R. Santa Isabel, 96 - Cidade Edson, Suzano - SP, 08665-480",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2990,
+      "name": "Império das Rações - Atacado e Varejo",
+      "number": "11934106688",
+      "address": "Av. Brasília, 391 - Vila Amorim, Suzano - SP, 08610-100",
+      "site": "https://imperiodasracoes.com.br/"
+    },
+    {
+      "id_lead": 2991,
+      "name": "Hani Petshop - Suzano - SP",
+      "number": "11953528487",
+      "address": "R. Sete de Setembro, 995 - Centro, Suzano - SP, 08673-020",
+      "site": "https://www.instagram.com/petthani/"
+    },
+    {
+      "id_lead": 2992,
+      "name": "Nina Pet Estética Animal",
+      "number": "11974877387",
+      "address": "R. Koichi Yoshikawa, 193 - Parque Maria Helena, Suzano - SP, 08683-200",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2993,
+      "name": "Zen Pet",
+      "number": "1147411598",
+      "address": "Av. Mogi das Cruzes, 07 - Parque Suzano, Suzano - SP, 08673-010",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2994,
+      "name": "petshop Alvorada",
+      "number": "11939570951",
+      "address": "R. Antônia Bocuzzi Lopes - Jardim Suzanopolis, Suzano - SP, 08670-300",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2995,
+      "name": "Atacadão - Suzano",
+      "number": "1147448624",
+      "address": "Av. Ver. João Batista Fitipaldi, 380 - Vila Maluf, Suzano - SP, 08685-000",
+      "site": "https://www.atacadao.com.br/"
+    },
+    {
+      "id_lead": 2996,
+      "name": "Petshop Caokilate",
+      "number": "11932670057",
+      "address": "R. Manoel Raimundo da Silva, 342 - Jardim Dona Benta, Suzano - SP, 08694-530",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 2997,
+      "name": "Lu Pet's Banho e Tosa",
+      "number": "11911641165",
+      "address": "R. Benedito Gonçalves Pereira, 146 - Parque Maria Helena, Suzano - SP, 08683-310",
+      "site": "https://www.instagram.com/lupetsuzano/"
+    },
+    {
+      "id_lead": 2998,
+      "name": "Clínica Veterinária em Suzano - Paiol",
+      "number": "1127646994",
+      "address": "R. Baruel, 770 - Centro, Suzano - SP, 08675-000",
+      "site": "http://suzano.vetpaiol.com.br/"
+    },
+    {
+      "id_lead": 2999,
+      "name": "Moda Pet",
+      "number": "1128914530",
+      "address": "Av. Manoel Casanova, 434 - Parque Santa Rosa, Suzano - SP, 08664-410",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3000,
+      "name": "Marley Petshop Banho e Tosa em Suzano",
+      "number": "11971372089",
+      "address": "R. Jeca Tatú, 1319 - Vila Urupes, Suzano - SP, 08616-050",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3001,
+      "name": "BELLA PET SHOP",
+      "number": "11963371818",
+      "address": "R. Expedicionário Abílio Fernandes, 149 A - Vila Paiva, Suzano - SP, 08675-100",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3002,
+      "name": "Amora's Pet Shop",
+      "number": "11971575572",
+      "address": "R. Prof. José Medina, 20 - Jardim Japao, Suzano - SP, 08674-400",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3003,
+      "name": "My Pet Rubi",
+      "number": "1128913320",
+      "address": "R. José Luís Moreira, 321 - Vila Maluf, Suzano - SP, 08685-150",
+      "site": "https://www.instagram.com/mypetrubi_/"
+    },
+    {
+      "id_lead": 3004,
+      "name": "Aumores",
+      "number": "11920191148",
+      "address": "R. Albert Fink, 1035 - Parque Maria Helena, Suzano - SP, 08683-220",
+      "site": "https://linktr.ee/aumores.pets"
+    },
+    {
+      "id_lead": 3005,
+      "name": "Suzano Shopping",
+      "number": "1125007940",
+      "address": "R. Sete de Setembro, 555 - Parque Suzano, Suzano - SP, 08673-020",
+      "site": "http://suzanoshopping.com.br/"
+    },
+    {
+      "id_lead": 3006,
+      "name": "My Pet Banho e Tosa - Estética Animal",
+      "number": "11944590242",
+      "address": "R. Antônio dos Réis, 69 - Jardim Imperador, Suzano - SP, 08673-100",
+      "site": "https://instagram.com/mypetsuzano?utm_medium=copy_link"
+    },
+    {
+      "id_lead": 3007,
+      "name": "pet butique sofia",
+      "number": "11963365859",
+      "address": "Alameda Tenente José Bernardino, 334 - Cidade Cruzeiro do Sul, Suzano - SP, 08673-190",
+      "site": "https://www.instagram.com/petbutiquesofia/"
+    },
+    {
+      "id_lead": 3008,
+      "name": "Pet Shop Cachorrão",
+      "number": "1147479204",
+      "address": "R. Biotonico, 901 - Jardim Cacique, Suzano - SP, 08616-040",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3009,
+      "name": "Clínica Veterinária Health Vet Center",
+      "number": "11914925164",
+      "address": "R. Washington Luiz, 70 - Vila Costa, Suzano - SP, 08675-040",
+      "site": "https://healthvetcenter.com.br/"
+    },
+    {
+      "id_lead": 3010,
+      "name": "Beauty Pet",
+      "number": "11914010408",
+      "address": "R. Baruel, 272 - Vila Urupes, Suzano - SP, 08675-000",
+      "site": "https://www.instagram.com/_beautypet/profilecard/?igsh=M3Yzb2ZjNnNmMWw0"
+    },
+    {
+      "id_lead": 3011,
+      "name": "Pet Sabino",
+      "number": "11941837590",
+      "address": "R. Gen. Francisco Glicério, 2739 - Jardim Anzai, Suzano - SP, 08665-000",
+      "site": "https://instagram.com/sabinopet"
+    },
+    {
+      "id_lead": 3012,
+      "name": "Bem Pets",
+      "number": "11995657649",
+      "address": "R. Adélino Matias, 402 - Jardim Lincoln, Suzano - SP, 08676-250",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3013,
+      "name": "Caçullinha pet Store",
+      "number": "11978510063",
+      "address": "Av. Brasília, 578 - Vila Amorim, Suzano - SP, 08610-100",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3014,
+      "name": "Banho de Luz - Estética Animal",
+      "number": "11991850177",
+      "address": "R. Kunimitsu Konishi, 25 - Vila Maluf, Suzano - SP, 08685-110",
+      "site": "https://linktr.ee/BanhoDeLuz"
+    },
+    {
+      "id_lead": 3015,
+      "name": "Centro Veterinário Mundo Animal - Miguel Badra",
+      "number": "1147521676",
+      "address": "Av. Miguel Badra, 1284 - Cidade Miguel Badra, Suzano - SP, 08690-010",
+      "site": "https://hospitalmundoanimalsuzano.com.br/"
+    },
+    {
+      "id_lead": 3016,
+      "name": "Clínica Veterinária Suzano - Oftalmologista,Ortopedista - Animais Sadios",
+      "number": "1147428707",
+      "address": "R. Gen. Francisco Glicério, 1420 - Vila Sao Jorge, Suzano - SP, 08674-002",
+      "site": "https://animais-sadios.simples.vet.br/?_gl=1*1dvgo*_ga*MTY3NTQ3OTQ1OC4xNjk3MjEzOTMy*_ga_MDQQVKEHE4*MTc0MzI3MzM1NS4xMjY5LjEuMTc0MzI3NDU3Mi41MS4wLjIwODI2MjcyMDk"
+    },
+    {
+      "id_lead": 3017,
+      "name": "Fazenda Pet Shop 7 Cravos",
+      "number": "11946265846",
+      "address": "Estr. Takashi Kobata, 601 - Jardim Europa, Suzano - SP, 08696-040",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3018,
+      "name": "Pet Shop Batista Rações",
+      "number": "1147595438",
+      "address": "R. Biotonico, 915 - Jardim Cacique, Suzano - SP, 08615-000",
+      "site": "https://www.lojalocal.com/pets/26523823000195"
+    },
+    {
+      "id_lead": 3019,
+      "name": "Pet fino moda pet",
+      "number": "11954901010",
+      "address": "Av. Brasília, 700 - Vila Amorim, Suzano - SP, 08615-350",
+      "site": "http://upmulikids.wix.com/up-muli-kids"
+    },
+    {
+      "id_lead": 3020,
+      "name": "Casa de Ração e Pet Shop Família Andrade",
+      "number": "11942182770",
+      "address": "R. Dr. Aniz Fadul, 739 - Vila Maluf, Suzano - SP, 08685-020",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3021,
+      "name": "Villa Dog - Creche/Hotel - Banho e tosa - Clinica Veterinaria",
+      "number": "11956494361",
+      "address": "R. Esmeraldo José de Oliveira, 952 - Vila Nova Amorim, Suzano - SP, 08610-050",
+      "site": "https://m.facebook.com/Villa-Dog-399091730178645/"
+    },
+    {
+      "id_lead": 3022,
+      "name": "Centro Veterinário - Paiol Dona Benta",
+      "number": "11968991368",
+      "address": "Av. Francisco Marengo, 1890 - Piso 2 - Jardim Dona Benta, Suzano - SP, 08694-520",
+      "site": "https://www.instagram.com/centroveterinariopaiol/"
+    },
+    {
+      "id_lead": 3023,
+      "name": "P&B Casa De Rações",
+      "number": "11962734996",
+      "address": "Estr. Takashi Kobata, 31 - Jardim Europa, Suzano - SP, 08696-040",
+      "site": "https://instagram.com/peb1.9?igshid=MmU2YjMzNjRlOQ=="
+    },
+    {
+      "id_lead": 3024,
+      "name": "Happy Dog",
+      "number": "11960375050",
+      "address": "R. Tiradentes, 541 - Conj. Res. Irai, Suzano - SP, 08673-150",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3025,
+      "name": "La Pet Spa",
+      "number": "11950694424",
+      "address": "R. Gato Cinzento, 996 - Vila Nova Urupes, Suzano - SP, 08615-070",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3026,
+      "name": "Laterne Pets",
+      "number": "11932721936",
+      "address": "R. Otávio Miguel da Silva, 57 - Parque Suzano, Suzano - SP, 08673-060",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3027,
+      "name": "Pet Shop Bichinho Feliz",
+      "number": "1134778628",
+      "address": "R. Caboclos, 1115 - Vila Urupes, Suzano - SP, 08615-190",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3028,
+      "name": "PET SHOP CANOLEZE",
+      "number": "11930141781",
+      "address": "R. Jeca Tatú, 1826 - Vila Colorado, Suzano - SP, 08616-050",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3029,
+      "name": "SpaCão Clinica Veterinária Popular - Unidade Suzano SP8",
+      "number": "1142406640",
+      "address": "R. Jeca Tatú, 825 - Vila Urupes, Suzano - SP, 08616-050",
+      "site": "https://www.clinicaspacao.com.br/"
+    },
+    {
+      "id_lead": 3030,
+      "name": "Pet Assistência Crematório De Animais - Escritório Adm",
+      "number": "1128571815",
+      "address": "Av. Antônio Marques Figueira, 1166 - Vila Figueira, Suzano - SP, 08676-000",
+      "site": "http://www.petassistencia.com.br/"
+    },
+    {
+      "id_lead": 3031,
+      "name": "Cazarini Pets Creche Hotel",
+      "number": "11959399505",
+      "address": "R. Motoji Nagano, 78 - Vila Adelina, Suzano - SP, 08675-340",
+      "site": "https://www.instagram.com/cazarinipets_crechehotel/?hl=pt"
+    },
+    {
+      "id_lead": 3032,
+      "name": "Comercial de Rações Casa Branca",
+      "number": "1147474556",
+      "address": "Estr. dos Fernandes, 1871 - Parque Santa Rosa, Suzano - SP, 08664-005",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3033,
+      "name": "Show pet - Banho&Tosa",
+      "number": "11974344926",
+      "address": "R. Alcídes Pizolito, 70 - Jardim Casa Branca, Suzano - SP, 08663-060",
+      "site": "https://www.instagram.com/son.petshop/"
+    },
+    {
+      "id_lead": 3034,
+      "name": "Pet Care Estética Animal",
+      "number": "1147425455",
+      "address": "R. Monsenhor Nuno, 849 - Centro, Suzano - SP, 08674-090",
+      "site": "https://www.facebook.com/petcareesteticaanimal/?fref=ts"
+    },
+    {
+      "id_lead": 3035,
+      "name": "Pet Mia",
+      "number": "11959673833",
+      "address": "R. Condé Domingos Papaiz, 42 - Jardim Miriam, Suzano - SP, 08613-010",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3036,
+      "name": "Nick Pet",
+      "number": "1147429773",
+      "address": "R. Dr. Osvaldo Cruz, 49 - Parque Maria Helena, Suzano - SP, 08683-100",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3037,
+      "name": "Pet love Simone",
+      "number": "11976228148",
+      "address": "R. Dr. Armando de Ré - Parque Maria Helena, Suzano - SP, 08683-180",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3038,
+      "name": "Pet Store - Banho e tosa",
+      "number": "11934569083",
+      "address": "R. José Manoel de Oliveira, 327B - Centro, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3039,
+      "name": ",pet Estética Animal e SPA - Banho e Tosa",
+      "number": "1145592113",
+      "address": "R. José Manuel de Almeida, 791 - Jardim Europa, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://www.virgulapet.com.br/"
+    },
+    {
+      "id_lead": 3040,
+      "name": "Pet's Uauu! | Vargem Grande Paulista",
+      "number": "11968565284",
+      "address": "Rodovia Bunjiro Nakao, 45439 - Jardim Margarida, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://www.instagram.com/prapetsbanhoetosa"
+    },
+    {
+      "id_lead": 3041,
+      "name": "Rações Alecão & Cia",
+      "number": "11939543741",
+      "address": "Av. Bela Vista, 140 - Bela Vista, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3042,
+      "name": "Santa Fé Agropecuária",
+      "number": "11988675120",
+      "address": "Av. Elías Alves da Costa, 815 - Centro, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3043,
+      "name": "Cani E Gatti Clínica Veterinária",
+      "number": "1141593870",
+      "address": "R. Assunção, 131 - Jardim Hermnia, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3044,
+      "name": "bunjiro pets",
+      "number": "11963946070",
+      "address": "Rodovia Bunjiro Nakao, 48215 - Parque Belbancy, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3045,
+      "name": "Trevo Produtos Agropecuários LTda",
+      "number": "1141583117",
+      "address": "Av. Pres. Tancredo Neves, 228 - Jardim Floresta, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3046,
+      "name": "Espaço Pet Badin",
+      "number": "11982621974",
+      "address": "R. Itambé, 234 - Jardim Bela Vista, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3047,
+      "name": "Dr Rogerio Pet La Vet - Clínica Veterinária e Pet Shop",
+      "number": "1141593959",
+      "address": "Av. Madagascar, 148 - Jardim Margarida, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://lavetpetcare.onloja.com/"
+    },
+    {
+      "id_lead": 3048,
+      "name": "Pet Móvel 4 PATAS",
+      "number": "11983282600",
+      "address": "R. Genipabú, 85 - Tijuco Preto, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://instagram.com/petmovel4patas?utm_medium=copy_link"
+    },
+    {
+      "id_lead": 3049,
+      "name": "Amor de Pets",
+      "number": "11947001547",
+      "address": "R. Dr. Rene Correa, 385 - Jardim São Marcos, Vargem Grande Paulista - SP, 06732-436",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3050,
+      "name": "Madagascar Agropet",
+      "number": "11938037600",
+      "address": "Rodovia Bunjiro Nakao, 46.540 - Jardim Margarida, Vargem Grande Paulista - SP, 06739-012",
+      "site": "https://www.madagascaragropet.com.br/"
+    },
+    {
+      "id_lead": 3051,
+      "name": "Rações Resende",
+      "number": "1145592523",
+      "address": "R. José Manuel de Almeida, 498 - Jardim Europa, Vargem Grande Paulista - SP, 06733-144",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3052,
+      "name": "Casa de Raçoes Raios do Sol ( Santa Catarina )",
+      "number": "1145592981",
+      "address": "R. Cel. José Nunes dos Santos, 20 - Centro, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3053,
+      "name": "Mirai - Centro de Diagnóstico Veterinário | Veterinário 24hs",
+      "number": "11989696259",
+      "address": "R. Aroeira, 214 - Jardim Floresta, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://miraivgp.com.br/"
+    },
+    {
+      "id_lead": 3054,
+      "name": "Pet Vip Clínica Veterinária",
+      "number": "1145590629",
+      "address": "Avenida - R. José Manuel de Almeida, 1187 - Jardim Europa, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3055,
+      "name": "Vida Animal Rações Pet Shop",
+      "number": "11980260549",
+      "address": "R. Flamengo, 324 - Parque do Agreste Gl Dois, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3056,
+      "name": "Caminho Dos Dog's",
+      "number": "11995802654",
+      "address": "R. São Bernardo do Campo, 138 - Jardim São Marcos, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://instagram.com/caminhodosdogs?igshid=1s7r0ddea8wc8"
+    },
+    {
+      "id_lead": 3057,
+      "name": "Hotel e creche Mont Ludovici",
+      "number": "11989252294",
+      "address": "Avenida Vovó Mendonça - Tijuco Preto, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://www.hotelpetmontludovici.com.br/"
+    },
+    {
+      "id_lead": 3058,
+      "name": "Canil Chemps Dog",
+      "number": "11995974487",
+      "address": "Estrada Mineração Ouro Branco, 2667 - Tijuco Preto, Vargem Grande Paulista - SP, 06730-000",
+      "site": "http://www.canilchempsdog.com.br/"
+    },
+    {
+      "id_lead": 3059,
+      "name": "CASA DE AVES SOSSEGO",
+      "number": "11934054920",
+      "address": "Almeida de Oliveira - Av. Sulim Abramovit - Centro, Vargem Grande Paulista - SP, 06730-000",
+      "site": "http://www.instagram.com/casadeavessossego/"
+    },
+    {
+      "id_lead": 3060,
+      "name": "Caminha PET",
+      "number": "11940170465",
+      "address": "R. Pitoresca, 50 - Tijuco Preto, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3061,
+      "name": "Fidelis Beagle",
+      "number": "11939606727",
+      "address": "Jardim Betania, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://fidelisbeagle.com.br/"
+    },
+    {
+      "id_lead": 3062,
+      "name": "Pet Lion",
+      "number": "11990041426",
+      "address": "R. São Paulo das Missões, 1 - Tijuco Preto, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://linkme.bio/petlion.racoes/"
+    },
+    {
+      "id_lead": 3063,
+      "name": "Center Tudo Mega Store Casa e Utilidades Vargem Grande Paulista",
+      "number": "1141586264",
+      "address": "Av. Pres. Tancredo Neves, 1630 - Jardim Bela Vista, Vargem Grande Paulista - SP, 06730-000",
+      "site": "http://www.centertudo.com/"
+    },
+    {
+      "id_lead": 3064,
+      "name": "Estética Pet Gold",
+      "number": "11910254704",
+      "address": "R. Veredas das Margaridas, 92 - Nagoya Garden, Vargem Grande Paulista - SP, 06737-524",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3065,
+      "name": "Papinha Pet I Comida Caseira Especialista em Alimentação Natural para Pets I Europa",
+      "number": "11976295105",
+      "address": "R. José Manuel de Almeida, 2620 - Jardim Europa, Vargem Grande Paulista - SP, 06737-624",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3066,
+      "name": "Pets Caminhas Artesanais km47",
+      "number": "11972406040",
+      "address": "Av. Madagascar, 372 - Jardim Margarida, Vargem Grande Paulista - SP, 06730-000",
+      "site": "http://facebook.com/caminhasartesanais"
+    },
+    {
+      "id_lead": 3067,
+      "name": "Cactos Pet",
+      "number": "11990060701",
+      "address": "R. Salvador Eduardo de Sousa, 76 - Jardim Mirian, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3068,
+      "name": "Casa de racao amicão 01",
+      "number": "11915859598",
+      "address": "R. Camburiú, 171 - Parque do Agreste Gl Um, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3069,
+      "name": "Agrovet46",
+      "number": "1141599408",
+      "address": "SP-270, 226 - Centro, Vargem Grande Paulista - SP, 06730-000",
+      "site": "https://www.meucomercio.com.br/agrovet46"
+    },
+    {
+      "id_lead": 3070,
+      "name": "A Lista de São Francisco",
+      "number": "1130900591",
+      "address": "Alameda Crinus, 272 - Parque Ruth Maria, Vargem Grande Paulista - SP, 06731-608",
+      "site": "https://www.alistadesaofrancisco.com.br/"
+    },
+    {
+      "id_lead": 3071,
+      "name": "imperium pet shop",
+      "number": "1141580020",
+      "address": "R. Amaralina, 667 - Loja 3 - Parque do Agreste Gl Um, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3072,
+      "name": "Chacrinha Hotel para Cães",
+      "number": "11993258340",
+      "address": "R. Hawaí, 121 - Jardim Margarida, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3073,
+      "name": "UBSvet - A Lista de São Francisco",
+      "number": "1130900591",
+      "address": "Alameda Crinus, 272 - Parque Ruth Maria, Vargem Grande Paulista - SP, 06731-608",
+      "site": "http://www.alistadesaofrancisco.com.br/"
+    },
+    {
+      "id_lead": 3074,
+      "name": "Casa de Ração Dias Rações",
+      "number": "11973211724",
+      "address": "R. Santo André, 102 - Jardim São Marcos, Vargem Grande Paulista - SP, 06732-564",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3075,
+      "name": "SOS ANIMAL",
+      "number": "1147034755",
+      "address": "Av. Ivo Mário Isaac Pires, 3502 - loja 02 - Tijuco Preto, Cotia - SP, 06720-480",
+      "site": "https://instagram.com/sos_petshop_?igshid=YmMyMTA2M2Y="
+    },
+    {
+      "id_lead": 3076,
+      "name": "Notável Pet",
+      "number": "11970595482",
+      "address": "R. Opala, 420 - Casa Blanca, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3077,
+      "name": "Kiki Biju & Presentes",
+      "number": "1153590139",
+      "address": "Av. Elías Alves da Costa, 683 - Centro, Vargem Grande Paulista - SP, 06730-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3078,
+      "name": "Oficina do Peixe Lagos",
+      "number": "11993619742",
+      "address": "Rodovia Bunjiro Nakao, 46555 - Mariápolis Ginetta, Vargem Grande Paulista - SP, 06730-000",
+      "site": "http://www.oficinadopeixe.com.br/"
+    },
+    {
+      "id_lead": 3079,
+      "name": "Mini Fazenda Pet Zoo",
+      "number": "11995847098",
+      "address": "Chácara São José - Estr. da Escola Agrícola, 165 - Pereiras, Cotia - SP, 06726-410",
+      "site": "http://www.petzoo.com.br/"
+    },
+    {
+      "id_lead": 3080,
+      "name": "São Jorge Capas e acessórios",
+      "number": "11975456091",
+      "address": "Av. Pres. Tancredo Neves, 864 - Centro, Vargem Grande Paulista - SP, 06730-370",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3081,
+      "name": "Bicho Papão Rações / Hatsumi Comércio De Rações Eireli",
+      "number": "11920058355",
+      "address": "Av. Ivo Mário Isaac Pires, 560 - Pedras, Cotia - SP, 06720-480",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3082,
+      "name": "teste ricardo",
+      "number": "11993873984",
+      "address": "bolinha 123 - Tijuco Preto, Vargem Grande Paulista - SP, 06740-852",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3083,
+      "name": "PetCamp",
+      "number": "1932557733",
+      "address": "Av. Independência, 5574 - Jd. Emilia, Vinhedo - SP, 13280-000",
+      "site": "https://www.petcamp.com.br/"
+    },
+    {
+      "id_lead": 3084,
+      "name": "Baloo Vet & Pet Store",
+      "number": "1938261911",
+      "address": "R. Odair Rotella, 135 - Santa Rosa, Vinhedo - SP, 13280-140",
+      "site": "http://baloopet.com.br/"
+    },
+    {
+      "id_lead": 3085,
+      "name": "Só Pet - Petshop e Clínica Veterinária",
+      "number": "1938766308",
+      "address": "Av. Brasil, 760 - Jardim Brasil, Vinhedo - SP, 13289-068",
+      "site": "https://sopet.com.br/"
+    },
+    {
+      "id_lead": 3086,
+      "name": "Tanakão Pet Shop (Vinhedo)",
+      "number": "1938363065",
+      "address": "R. dos Bandeirantes, 15 - Jardim America, Vinhedo - SP, 13280-000",
+      "site": "https://www.tanakao.com.br/"
+    },
+    {
+      "id_lead": 3087,
+      "name": "Pet Shop Bicho Bacana",
+      "number": "1938865808",
+      "address": "R. São Paulo, 302 - Nova Vinhedo, Vinhedo - SP, 13280-000",
+      "site": "http://www.facebook.com/bichobacanapet"
+    },
+    {
+      "id_lead": 3088,
+      "name": "Mundo Pet",
+      "number": "19982720067",
+      "address": "Estr. da Boiada, 2350 - Aquário, Vinhedo - SP, 13284-022",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3089,
+      "name": "Brubis Entre Patas",
+      "number": "11943728912",
+      "address": "Rua Badejo, 51, Residencial Aquário - Nova Vinhedo, Vinhedo - SP, 13284-044",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3090,
+      "name": "Pet Anjo Vinhedo",
+      "number": "1930302464",
+      "address": "Est Da Boiada (Jardim America), 688 - Santa Rosa, Vinhedo - SP, 13289-020",
+      "site": "https://www.petanjo.com/"
+    },
+    {
+      "id_lead": 3091,
+      "name": "Hospital Veterinário Pet Son",
+      "number": "1938865595",
+      "address": "Av. Independência, 4943 - Jd alba, Vinhedo - SP, 13280-000",
+      "site": "http://www.vetpetson.com.br/"
+    },
+    {
+      "id_lead": 3092,
+      "name": "Totó Agropecuaria e Pet Shop",
+      "number": "1938764532",
+      "address": "R. Santa Cruz, 441 - Barra Funda, Vinhedo - SP, 13280-041",
+      "site": "http://totoagropecuaria.com.br/"
+    },
+    {
+      "id_lead": 3093,
+      "name": "Animal Pet Vinhedo | Pet Shop em Vinhedo",
+      "number": "19993493971",
+      "address": "Av. das Margaridas, 115 - Estância das Flores, Vinhedo - SP, 13289-694",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3094,
+      "name": "Banho e Tosa Tia Dre",
+      "number": "19993197863",
+      "address": "Av. dos Pinheiros, 1385 - Fazenda Santana, Vinhedo - SP, 13283-222",
+      "site": "https://www.instagram.com/tiadrebanhoetosa?igsh=MTRuc2t4eXVweWl0bg=="
+    },
+    {
+      "id_lead": 3095,
+      "name": "Benthô Pet Vet Store & Spa",
+      "number": "19998940765",
+      "address": "R. Luíz Briski, 249 - Res. Aquário, Vinhedo - SP, 13284-054",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3096,
+      "name": "Clínica Veterinaria e Pet Shop Faro Fino",
+      "number": "19992119664",
+      "address": "Estr. da Boiada, 674 - Lot Matheus, Vinhedo - SP, 13289-020",
+      "site": "http://www.veterinariafarofino.com.br/"
+    },
+    {
+      "id_lead": 3097,
+      "name": "Casa de Ração Bicho Mimado1e2",
+      "number": "19999952469",
+      "address": "Rua Juliana Von Zuben Degelo, 187, CAPELA 1, R. João Gasparini, 178 - LOJA 2 - Centro, Vinhedo - SP, 13285-514",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3098,
+      "name": "Viralataria Veterinária e Pet Shop - Unidade Vinhedo",
+      "number": "19997012614",
+      "address": "Av. Benedito Storani, 124 - Vila Thereza, Vinhedo - SP, 13280-017",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3099,
+      "name": "Tutti Pet Banho e Tosa",
+      "number": "19983220122",
+      "address": "R. Humberto Pescarini, 555 - Barra Funda, Vinhedo - SP, 13280-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3100,
+      "name": "PamPatas Pet Shop Banho e Tosa - Vinhedo",
+      "number": "19998902683",
+      "address": "R. Valdomiro Franco de Camargo, 24 - Jardim Santo Antonio, Vinhedo - SP, 13285-628",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3101,
+      "name": "Urban Pet Vinhedo",
+      "number": "19995850403",
+      "address": "R. Juliana Von Zuben Degelo, 76 - Capela, Vinhedo - SP, 13285-514",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3102,
+      "name": "Tanakão Pet Shop (Capela)",
+      "number": "19996226419",
+      "address": "Supermercado Flex - Estr. da Capela, 2500 - subsolo - Capela, Vinhedo - SP, 13280-000",
+      "site": "https://www.tanakao.com.br/"
+    },
+    {
+      "id_lead": 3103,
+      "name": "Nutristeck Loja II",
+      "number": "1938469170",
+      "address": "Estr. da Boiada, 2398 - Aquarios, Vinhedo - SP, 13280-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3104,
+      "name": "PetQuali",
+      "number": "19978251111",
+      "address": "Av. Flamengo, 970 - Bosque, Vinhedo - SP, 13283-530",
+      "site": "http://www.instagram.com.br/petquali"
+    },
+    {
+      "id_lead": 3105,
+      "name": "Mundo das Piscinas & Pet Center",
+      "number": "1938766042",
+      "address": "Av. Brasil, 618 - Santa Rosa, Vinhedo - SP, 13289-068",
+      "site": "https://linktr.ee/mundodaspiscinas"
+    },
+    {
+      "id_lead": 3106,
+      "name": "Pet Ville",
+      "number": "1938262085",
+      "address": "R. Riachuelo, 285 - Barra Funda, Vinhedo - SP, 13280-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3107,
+      "name": "Clube Pet Urbano",
+      "number": "11981326216",
+      "address": "Rod. Edenor João Tasca, 955 - Bosque, Vinhedo - SP, 13283-658",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3108,
+      "name": "PuPet Vinhedo | Clínica Veterinária",
+      "number": "19992512798",
+      "address": "Av. Pres. Castelo Branco, 997 - Nova Vinhedo, Vinhedo - SP, 13284-204",
+      "site": "https://vetpupet.com.br/"
+    },
+    {
+      "id_lead": 3109,
+      "name": "Kcheirinhopets Vinhedo - Banho e Tosa",
+      "number": "19991803939",
+      "address": "R. Lúcia Cosmo Vargas, 172 - Pinheirinho, Vinhedo - SP, 13281-662",
+      "site": "https://www.instagram.com/kcheirinhopets/"
+    },
+    {
+      "id_lead": 3110,
+      "name": "Pet Mundo de Sophia | Banho e Tosa em Vinhedo",
+      "number": "19988114704",
+      "address": "R. Santa Cruz, 234 - loja 1 - Barra Funda, Vinhedo - SP, 13280-041",
+      "site": "https://instagram.com/mundodesophia_oficial?igshid=Yzg5MTU1MDY="
+    },
+    {
+      "id_lead": 3111,
+      "name": "DharmaVet Vinhedo",
+      "number": "19992596997",
+      "address": "R. Maceió, 100 - Nova Vinhedo, Vinhedo - SP, 13284-216",
+      "site": "http://www.dharmavet.com.br/"
+    },
+    {
+      "id_lead": 3112,
+      "name": "Agro Snoop Capela",
+      "number": "19997602447",
+      "address": "Av Nossa Sra. de Lourdes, 89 - Capela, Vinhedo - SP, 13285-540",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3113,
+      "name": "Casa de ração Agro Pérola Comercio Agropecuaria",
+      "number": "19989521246",
+      "address": "Av. dos Pinheiros, Rua São Thomé, 1111, Vinhedo - SP, 13283-222",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3114,
+      "name": "Pet Shop Bicho Bacana",
+      "number": "1938761080",
+      "address": "R. Aparecida Ortiz de Camargo Cieni, 16 - Capela, Vinhedo - SP, 13285-516",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3115,
+      "name": "VetAdvanced",
+      "number": "19994175052",
+      "address": "Av. Independência, 4727 - Jardim Italia, Vinhedo - SP, 13289-152",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3116,
+      "name": "Mascote Pet Hotel",
+      "number": "19992128038",
+      "address": "Av. das Margaridas, 700 - Estância das Flores (Bairro - Pinheirinho, Vinhedo - SP, 13280-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3117,
+      "name": "Social Pet Comércio de Produtos para Animais Ltda.",
+      "number": "19996030224",
+      "address": "R. Ângelo Ormeneze, 85 - Pinheirinho, Vinhedo - SP, 13289-466",
+      "site": "http://www.socialpet.com.br/"
+    },
+    {
+      "id_lead": 3118,
+      "name": "Rações e produtos agropecuários |Agro Nova Vinhedo| Cães - Gatos - Aves | VInhedo",
+      "number": "19995976383",
+      "address": "R. Antônio Vendramine, 281 - Nova Vinhedo, Vinhedo - SP, 13284-192",
+      "site": "https://www.instagram.com/agro.novavinhedo?igsh=ZHhjMXpjcjhvanhy"
+    },
+    {
+      "id_lead": 3119,
+      "name": "Bicharada Vinhedo",
+      "number": "1938861609",
+      "address": "Av. Independência, 5225 - jd alba, Vinhedo - SP, 13289-038",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3120,
+      "name": "Pet da Ju VInhedo",
+      "number": "1938764775",
+      "address": "R. Santa Cruz, 234 - Barra Funda, Vinhedo - SP, 13280-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3121,
+      "name": "Mimos e Caprichos Vinhedo",
+      "number": "19982320231",
+      "address": "R. João Miguel Pafaro, 348 - casa 2 - Jardim florença, Vinhedo - SP, 13283-304",
+      "site": "https://www.facebook.com/mimosecaprichosvinhedo/"
+    },
+    {
+      "id_lead": 3122,
+      "name": "Pink e Blue banho e tosa",
+      "number": "19991470458",
+      "address": "R. Gabriel Damma, 179 - Capela, Vinhedo - SP, 13280-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3123,
+      "name": "Pets & Caprichos",
+      "number": "1938466815",
+      "address": "Av. Pres. Castelo Branco, 997 - Nova Vinhedo, Vinhedo - SP, 13284-204",
+      "site": "http://facebook.com/petsecaprichos"
+    },
+    {
+      "id_lead": 3124,
+      "name": "Pet Esthé",
+      "number": "1938362220",
+      "address": "R. Manoel Matheus, 129 - Barra Funda, Vinhedo - SP, 13280-000",
+      "site": "http://centralvet.com.br/"
+    },
+    {
+      "id_lead": 3125,
+      "name": "Pet da Claudia",
+      "number": "19981711128",
+      "address": "R. Ver. Geraldo Caramello - vida Nova 1, Vinhedo - SP, 13280-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3126,
+      "name": "Pet shop Agro Aves",
+      "number": "19981839049",
+      "address": "Rua dos aerossóis - Capela, Vinhedo - SP, 13285-622",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3127,
+      "name": "Nostro Fumo Vinhedo",
+      "number": "19990181839",
+      "address": "Premium Office & Mall - Av. Benedito Storani, 1425 - LOJA 12 - Res. Aquário, Vinhedo - SP, 13284-014",
+      "site": "https://www.instagram.com/nfvinhedo_/"
+    },
+    {
+      "id_lead": 3128,
+      "name": "Latidos e Miados Pet Shop e Cursos Profissionais",
+      "number": "1938762683",
+      "address": "Rua Largo Monsenhor F. Carlos Marques, 196 - sala 2 - Centro, Vinhedo - SP, 13280-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3129,
+      "name": "Clínica Veterinária Animania",
+      "number": "19993480582",
+      "address": "R das Arapongas, 44 - Jd.Junco, Vinhedo - SP, 13289-136",
+      "site": "https://wa.me/5519993840582"
+    },
+    {
+      "id_lead": 3130,
+      "name": "JK Aquário",
+      "number": "1938760154",
+      "address": "Rua Antonio Maria, R. Antônio M Tôrres Filho, 49, Vinhedo - SP, 13280-166",
+      "site": "http://www.jkaquario.com.br/"
+    },
+    {
+      "id_lead": 3131,
+      "name": "Dog Lar Indústria e Comércio",
+      "number": "11976573448",
+      "address": "R. Aerosois, 179 - Chácara Lago, Vinhedo - SP, 13285-622",
+      "site": "http://www.doglar.com.br/"
+    },
+    {
+      "id_lead": 3132,
+      "name": "Clinica Veterinárias | Portal Vet Veterinário em Vinhedo | Consultas | Vacinas | Medicamentos | Rações",
+      "number": "19998474044",
+      "address": "R. dos Bandeirantes, 15 - Jardim America, Vinhedo - SP, 13280-000",
+      "site": "https://instagram.com/portalvetconsultorio?igshid=v6lwn8be3aiz"
+    },
+    {
+      "id_lead": 3133,
+      "name": "Clínica Veterinária Vinhedo",
+      "number": "1938761389",
+      "address": "Rua Monteiro de Barros, 382 - Centro, Vinhedo - SP, 13280-081",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3134,
+      "name": "Karamelo Shop",
+      "number": "19989829494",
+      "address": "Praça José Von Zuben, Nº 279 - Centro, Vinhedo - SP, 13280-001",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3135,
+      "name": "Banho e Tosa Cat Dog",
+      "number": "19992813122",
+      "address": "R. Mato Grosso, 190 - Vila Joao XXIII, Vinhedo - SP, 13283-058",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3136,
+      "name": "animalle",
+      "number": "19982742567",
+      "address": "R. Mari Curi, 14 - Capela, Vinhedo - SP, 13285-760",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3137,
+      "name": "3 C Clínica Veterinária - Vinhedo",
+      "number": "1941192477",
+      "address": "R. João Gasparini, 32 - Centro, Vinhedo - SP, 13280-306",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3138,
+      "name": "Pomar da Amazônia Açaí e Gelatos",
+      "number": "19999690788",
+      "address": "Av. Independência, 4474 - Santa Rosa, Vinhedo - SP, 13289-148",
+      "site": "http://pomardaamazonia.com.br/"
+    },
+    {
+      "id_lead": 3139,
+      "name": "Nero Gelato Vinhedo",
+      "number": "1933090211",
+      "address": "R. João Corazzari, 141 - Centro, Vinhedo - SP, 13280-091",
+      "site": "http://www.nerogelato.com.br/"
+    },
+    {
+      "id_lead": 3140,
+      "name": "Medcão Clínica Veterinária",
+      "number": "1938362208",
+      "address": "R. Egídio Altieri, 50 - Capela, Vinhedo - SP, 13285-524",
+      "site": "https://www.facebook.com/clinicamedcao/"
+    },
+    {
+      "id_lead": 3141,
+      "name": "WM Estética Animal",
+      "number": "19999027284",
+      "address": "R. Humberto Pescarini, 1170 - Vila Planalto, Vinhedo - SP, 13280-262",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3142,
+      "name": "Flex Atacarejo",
+      "number": "1938295464",
+      "address": "Estr. da Capela, 2500 - Altos do Morumbi, Vinhedo - SP, 13280-000",
+      "site": "https://www.flexatacarejo.com.br/"
+    },
+    {
+      "id_lead": 3143,
+      "name": "Ideal - Jardim Itália",
+      "number": "1933090102",
+      "address": "R. Manoel Matheus, 1623 - Jardim Italia, Vinhedo - SP, 13289-190",
+      "site": "https://www.sorveteriaideal.com.br/"
+    },
+    {
+      "id_lead": 3144,
+      "name": "MiLu Pet Shop",
+      "number": "19998940765",
+      "address": "R. Luíz Briski, 249 - Res. Aquário, Vinhedo - SP, 13284-052",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3145,
+      "name": "Supermercado INFANGER - Unidade Cinco Estrelas",
+      "number": "1938267940",
+      "address": "Av. Independência, 4900 - Santa Rosa, Vinhedo - SP, 13289-152",
+      "site": "http://www.infanger.com.br/"
+    },
+    {
+      "id_lead": 3146,
+      "name": "Vanessa banho e tosa",
+      "number": "19995761492",
+      "address": "R. dos Ipês, 490 - Jardim Tres Irmaos, Vinhedo - SP, 13284-468",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3147,
+      "name": "Carrefour Bairro",
+      "number": "1130042222",
+      "address": "Alameda Jardim, Estr. da Boiada, 97 - Casa Verde, Vinhedo - SP, 13280-000",
+      "site": "https://www.carrefour.com.br/"
+    },
+    {
+      "id_lead": 3148,
+      "name": "RENASCER FERRAGENS MATERIAIS ELÉTRICOS E HIDRÁULICOS",
+      "number": "19982102405",
+      "address": "On-line WhatsApp; (19) 98210 - 2405___R. Santa Cruz, 429 - Vila Thereza, Vinhedo - SP, 13280-041",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3149,
+      "name": "Mariana Malavazzi - Veterinária",
+      "number": "19998455012",
+      "address": "R. João Gasparini, 178 - Centro, Vinhedo - SP, 13280-306",
+      "site": "http://www.instagram.com/vet_marianamjuliani"
+    },
+    {
+      "id_lead": 3150,
+      "name": "Ideal - Centro",
+      "number": "1933090102",
+      "address": "R. Nove de Julho, 193 - Centro, Vinhedo - SP, 13280-083",
+      "site": "http://www.sorveteriaideal.com.br/"
+    },
+    {
+      "id_lead": 3151,
+      "name": "Kopenhagen",
+      "number": "19981170686",
+      "address": "Av. Benedito Storani, 1425 - Santa Rosa, Vinhedo - SP, 13289-014",
+      "site": "https://www.instagram.com/kopenhagen_vinhedo?igsh=NWZ0ajNkbnVxZGo1"
+    },
+    {
+      "id_lead": 3152,
+      "name": "Supermercado Infanger - Unidade Portal",
+      "number": "1938267940",
+      "address": "Av. Arnaldo Biagioli, 151 - Pinheirinho, Vinhedo - SP, 13289-326",
+      "site": "http://infanger.com.br/"
+    },
+    {
+      "id_lead": 3153,
+      "name": "CAPRICHARADA ESTETICA CANINA",
+      "number": "19999622027",
+      "address": "R. José Vendemiati, 51 - Vila Joao XXIII, Vinhedo - SP, 13283-154",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3154,
+      "name": "Hamburguinho-Vinhedo",
+      "number": "1938862924",
+      "address": "Rod. Edenor João Tasca, 990, Vinhedo - SP, 13280-000",
+      "site": "Não informado"
+    },
+    {
+      "id_lead": 3155,
+      "name": "Supermercado Cardeal",
+      "number": "1938860731",
+      "address": "R. da Biquinha, 30 - Capela, Vinhedo - SP, 13285-544",
+      "site": "https://www.facebook.com/supermercado5estrelascapela/"
+    },
+    {
+      "id_lead": 3156,
+      "name": "Jordão Supermercado",
+      "number": "19993482722",
+      "address": "R. Espírito Santo, 126 - Vila Joao XXIII, Vinhedo - SP, 13283-052",
+      "site": "http://www.jordaosupermercado.com.br/"
+    },
+    {
+      "id_lead": 3157,
+      "name": "Slmf Vendas",
+      "number": "19981632288",
+      "address": "R. Afonso Garbuio - Jardim Tres Irmaos, Vinhedo - SP, 13284-486",
+      "site": "Não informado"
+    }
+  ]
+}

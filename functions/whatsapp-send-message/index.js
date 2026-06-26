@@ -69,7 +69,6 @@ if (!mensagem) {
     process.exit(0);
 }
 
-// Array para armazenar o resultado final de cada item
 const relatorioFinal = [];
 
 const client = new Client({
