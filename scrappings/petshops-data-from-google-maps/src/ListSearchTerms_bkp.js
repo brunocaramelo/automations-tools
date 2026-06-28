@@ -1,0 +1,66 @@
+class ListSearchTerms {
+  
+  toArray() {
+
+    return [
+        'pet shop Araçariguama', 
+        'pet shop Arujá', 
+        'pet shop Atibaia', 
+        'pet shop Barueri', 
+        'pet shop Biritiba Mirim', 
+        'pet shop Bom Jesus dos Perdões', 
+        'pet shop Cajamar', 
+        'pet shop Campinas', 
+        'pet shop Carapicuíba', 
+        'pet shop Cotia', 
+        'pet shop Cubatão', 
+        'pet shop Diadema', 
+        'pet shop Embu das Artes', 
+        'pet shop Ferraz de Vasconcelos', 
+        'pet shop Francisco Morato', 
+        'pet shop Franco da Rocha', 
+        'pet shop Guararema', 
+        'pet shop Guarulhos', 
+        'pet shop Guarujá', 
+        'pet shop Itanhaém', 
+        'pet shop Itapevi', 
+        'pet shop Itatiba', 
+        'pet shop Itaquaquecetuba', 
+        'pet shop Itu', 
+        'pet shop Jacareí', 
+        'pet shop Jandira', 
+        'pet shop Jundiaí', 
+        'pet shop Juquitiba', 
+        'pet shop Louveira', 
+        'pet shop Mairinque', 
+        'pet shop Mairiporã', 
+        'pet shop Mauá', 
+        'pet shop Mogi das Cruzes', 
+        'pet shop Mongaguá', 
+        'pet shop Nazaré Paulista', 
+        'pet shop Osasco', 
+        'pet shop Piracaia', 
+        'pet shop Pirapora do Bom Jesus', 
+        'pet shop Poá', 
+        'pet shop Praia Grande', 
+        'pet shop Ribeirão Pires', 
+        'pet shop Rio Grande da Serra', 
+        'pet shop Santa Isabel', 
+        'pet shop Santana de Parnaíba', 
+        'pet shop Santo André', 
+        'pet shop Santos', 
+        'pet shop São Bernardo do Campo', 
+        'pet shop São Caetano do Sul', 
+        'pet shop São Lourenço da Serra', 
+        'pet shop São Roque', 
+        'pet shop São Vicente', 
+        'pet shop Sorocaba', 
+        'pet shop Suzano', 
+        'pet shop Vargem Grande Paulista', 
+        'pet shop Vinhedo'
+    ];
+  }
+
+}
+
+module.exports = ListSearchTerms;
