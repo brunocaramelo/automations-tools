@@ -161,12 +161,12 @@ const IGNORED_CHAINS = ['cobasi', 'petz', 'patlando', 'petlove'];
             regionCount++;
         }
         
-        console.log(`Adicionados ${regionCount} novos petshops nesta região. Total acumulado: ${allResults.length}`);
+        console.log(`Adicionados ${regionCount} novos leads nesta região. Total acumulado: ${allResults.length}`);
     }
 
     if (allResults.length > 0) {
         await csvWriter.writeRecords(allResults);
-        console.log('\n Prontinho! Arquivo "petshops_sp.csv" gerado com sucesso.');
+        console.log('\n Prontinho! Arquivo "leads_moveis_sp.csv" gerado com sucesso.');
     } else {
         console.log('\n Nenhum resultado encontrado.');
     }
