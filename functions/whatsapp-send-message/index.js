@@ -1,4 +1,4 @@
-const { Client, LocalAuth } = require('whatsapp-web.js');
+const { Client, LocalAuth, MessageMedia } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const fs = require('fs');
 const path = require('path');
@@ -233,17 +233,50 @@ client.on('ready', async () => {
                     // ⭐ Ofuscar a mensagem
                     const mensagemOfuscada = ofuscarMensagem(mensagem, nome);
                     
-                    // ⭐ Enviar com delay aleatório (digitação simulada)
-                    console.log(`✉️ Enviando para: ${numero}`);
+                    // ⭐ Pegar a lista de imagens da mensagem selecionada
+                    const listaImagens = messages.list[choicedMessage]?.images || [];
+                    const attachsDir = path.join(__dirname, 'attachs'); // Caminho da pasta de imagens
+
+                    console.log(`✉️ Iniciando envio de mídia para: ${numero}`);
                     
-                    // ⭐ Simular digitação
-                    await client.sendMessage(chatId, '🔜');
-                    await sleep(randIntervalInt(1500, 3500));
+                        if (listaImagens.length > 0) {
+                                // --- ENVIAR COM IMAGENS ---
+                        for (let k = 0; k < listaImagens.length; k++) {
+                            const imageName = listaImagens[k];
+                            const imagePath = path.join(attachsDir, imageName);
+                            
+                            if (fs.existsSync(imagePath)) {
+                                // Carrega o arquivo e converte para o formato do WhatsApp
+                                const media = MessageMedia.fromFilePath(imagePath);
+                                
+                                // Simular digitação/carregamento rápida
+                                await sleep(randIntervalInt(1000, 2500));
+                                
+                                if (k === 0) {
+                                    // A primeira imagem leva o texto como legenda (caption)
+                                    await client.sendMessage(chatId, media, { caption: mensagemOfuscada });
+                                    console.log(`📸 Primeira imagem enviada com legenda para: ${numero}`);
+                                } else {
+                                    // As demais imagens são enviadas na sequência
+                                    await client.sendMessage(chatId, media);
+                                    console.log(`📸 Imagem adicional (${imageName}) enviada para: ${numero}`);
+                                }
+                            } else {
+                                console.log(`⚠️ Imagem não encontrada no diretório: ${imageName}`);
+                                // Se a primeira imagem sumiu mas tem texto, envia só o texto para não perder a viagem
+                                if (k === 0 && mensagemOfuscada) {
+                                    await client.sendMessage(chatId, mensagemOfuscada);
+                                }
+                            }
+                        }
+                    } else {
+                        // --- ENVIAR SÓ TEXTO (Caso não existam imagens no JSON) ---
+                        await client.sendMessage(chatId, '🔜');
+                        await sleep(randIntervalInt(1500, 3500));
+                        await client.sendMessage(chatId, mensagemOfuscada);
+                        console.log(`✅ Apenas mensagem de texto enviada para: ${numero}`);
+                    }
                     
-                    // ⭐ Enviar mensagem real
-                    await client.sendMessage(chatId, mensagemOfuscada);
-                    
-                    console.log(`✅ Mensagem enviada para: ${numero}`);
                     resultadoItem.hasFail = false;
                     resultadoItem.errorMessage = '';
                     enviados++;
@@ -253,6 +286,7 @@ client.on('ready', async () => {
                     resultadoItem.errorMessage = "Número não registrado no WhatsApp";
                     falhas++;
                 }
+
             } catch (error) {
                 console.error(`💥 Erro ao enviar para ${numero}:`, error.message);
                 resultadoItem.hasFail = true;
