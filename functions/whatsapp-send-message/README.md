@@ -4,5 +4,5 @@ node index.js \
     --targets=config_backup.json \
     --message=0 \
     --delay=20000 \
-    --batch=15 \
+    --batch=35 \
     --pause=15
