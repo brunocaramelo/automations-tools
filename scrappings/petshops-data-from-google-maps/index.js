@@ -3,7 +3,7 @@ const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 const ListSearchTerms = require('./src/ListSearchTerms');
 
 const csvWriter = createCsvWriter({
-    path: 'petshops_torno_de_sp.csv',
+    path: 'leads_moveis_sp.csv',
     header: [
         { id: 'title', title: 'NOME' },
         { id: 'address', title: 'ENDERECO' }, 
