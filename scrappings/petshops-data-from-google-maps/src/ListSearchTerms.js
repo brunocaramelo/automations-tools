@@ -59,19 +59,19 @@ class ListSearchTerms {
     //   "Loja de roupas Carapicuíba",
     //   "Moda infantil Carapicuíba",
     // ];
-    
+
     return [
-      "Móveis usados para comércio zona norte",
-      "Móveis usados para comércio zona sul",
-      "Móveis usados para comércio zona leste",
-      "Móveis usados para comércio zona oeste",
-      "Móveis usados para comércio Guarulhos",
-      "Móveis usados para comércio Osasco",
-      "Móveis usados para comércio Santo André",
-      "Móveis usados para comércio São Bernardo do Campo",
-      "Móveis usados para comércio São Caetano do Sul",
-      "Móveis usados para comércio Mogi das Cruzes",
-      "Móveis usados para comércio Carapicuíba",
+      "Móveis usados zona norte",
+      "Móveis usados zona sul",
+      "Móveis usados zona leste",
+      "Móveis usados zona oeste",
+      "Móveis usados Guarulhos",
+      "Móveis usados Osasco",
+      "Móveis usados Santo André",
+      "Móveis usados São Bernardo do Campo",
+      "Móveis usados São Caetano do Sul",
+      "Móveis usados Mogi das Cruzes",
+      "Móveis usados Carapicuíba",
     ];
 
   }
