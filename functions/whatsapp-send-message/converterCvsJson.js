@@ -1,7 +1,7 @@
 const readline = require('readline');
 const fs = require('fs');
 
-const csvFileName = 'petshops-torno-sp-canary.csv';
+const csvFileName = 'bruto-canary.csv';
 const jsonFileName = 'leads.json';
 
 async function converterCsvParaJson() {
