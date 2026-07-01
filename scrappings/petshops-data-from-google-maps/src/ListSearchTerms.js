@@ -59,6 +59,7 @@ class ListSearchTerms {
     //   "Loja de roupas Carapicuíba",
     //   "Moda infantil Carapicuíba",
     // ];
+    
     return [
       "Móveis usados para comércio zona norte",
       "Móveis usados para comércio zona sul",
